@@ -7,6 +7,10 @@
 ###### This is an <h6>
 ```
 
+# This is an <h1>
+## This is an <h2>
+###### This is an <h6>
+
 # What is an alternative way to make headers in markdown?
 *By leveraging an underlining style using hyphens `(----)`` or equals signs `(======) in the line following the header content.*
 
@@ -20,6 +24,12 @@ Alternative H2 Markdown Syntax
 ------------------------------
 ```
 
+Alternative H1 Markdown Syntax
+==============================
+
+Alternative H2 Markdown Syntax
+------------------------------
+
 # How do you place emphasis using italics in markdown?
 *by wrapping content using a set of single asterisks or underscores*
 
@@ -27,6 +37,9 @@ Alternative H2 Markdown Syntax
 *This text will be emphasized with italics*
 _This text will also be emphasized with italics_
 ```
+
+*This text will be emphasized with italics*
+_This text will also be emphasized with italics_
 
 # How do you place strong emphasis using bold in markdown?
 *by wrapping content using a set of double asterisks or underscores*
@@ -36,10 +49,14 @@ _This text will also be emphasized with italics_
 __This text will also be emphasized with bold__
 ```
 
+**This text will be emphasized with bold**
+__This text will also be emphasized with bold__
+
 # How do you combine emphasis (italics) and strong emphasis (bold) using markdown?
 *by following standard html nesting practices*
 
-Combined emphasis using **bold and _italics_**
 ```markdown
 Combined emphasis using **bold and _italics_**
 ```
+
+Combined emphasis using **bold and _italics_**
