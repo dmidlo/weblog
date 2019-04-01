@@ -204,10 +204,11 @@ __*`[Repository File](../dir1/dir2/file.txt)`*__
 
 __*you can likewise use the biblographic reference style to link to repository files*__
 
+```markdown
 [A workflow for gettting the most out of skim reading][Inspectional Book Review Template]
 
 [Inspectional Book Review Template]: ../ContentTemplates/InspectionalBookReviewTemplate.md
-
+```
 
 # How do you link to a Github Issue in markdown?
 
