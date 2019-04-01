@@ -87,14 +87,13 @@ Lastest Edition Year Available:
     * - [ ] *Is it actually important to tthe reader to gain this knowledge?*
     * - [ ] *What else is further implied or suggested?*
 * - [ ] *read all the way through the book without stopping to look up anything you don't yet already understand, even if you understand even less then half of what you're reading*
-  * * **Note any new questions raised*
-* * Make an initial attempt to provide answers to the questions you have written down so far.*
+  * - [ ] *Note any new questions raised*
+  * - [ ] *Make an initial attempt to provide answers to the questions you have written down so far.*
 
-*
-*
+---
+##Questions the Book Raises
 
-Questions the Book Raises
--------------------------
+---
 
 * *Inspectional/Structural Questions*
   * *What kind of book is it?*
