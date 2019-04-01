@@ -157,6 +157,11 @@ __*`[link name](url "hover-over title")`*__
 
 # How do you create a reference-style link using markdown?
 
+```markdown
+[A link to search for answers](https://www.google.com "Google Search")
+```
+[A link to search for answers](https://www.google.com "Google Search")
+
 # How do you create a relative reference link to a repository file in markdown
 
 # 
