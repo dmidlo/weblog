@@ -241,6 +241,10 @@ __*`[commit text](https://github.com/user/repo/commit/hash)`*__
 [c54e551](https://github.com/dmidlo/weblog/commit/c54e551)
 ```
 
+[this commit](https://github.com/dmidlo/weblog/commit/c54e55103c7e9f865e05a2f2217551ad052e32c4)
+
+[c54e551](https://github.com/dmidlo/weblog/commit/c54e551)
+
 __*you can likewise use the biblographic reference style to link to repository files*__
 
 ```markdown
