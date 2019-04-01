@@ -75,12 +75,19 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 
 ```markdown
 * list item dog
-    * list item dogName
+. . * list item dogName
     * list item dogFood
-    * list item dogWalk
+. . * list item dogWalk
 * list item phone number
 * list item pogo-stick
 ```
+
+* list item dog
+. . * list item dogName
+    * list item dogFood
+. . * list item dogWalk
+* list item phone number
+* list item pogo-stick
 
 # How do you create an ordered list in markdown?
 *by using any number followed by a period `(.)` and a space*
@@ -93,17 +100,10 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 2. list
 8. even
 1. though
-1. the numbers
+1. the numbers used
 9. in markdown
 4. are nonsensical
 ```
-1. This
-9. is
-3. a
-7. ordered
-2. list
-8. even
-1. though
-1. the numbers
-9. in markdown
-4. are nonsensical
+
+# How do you create an ordered sub-list in markdown?
+**
