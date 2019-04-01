@@ -196,7 +196,9 @@ __*Feature: Bibilographic references are not displayed in-browser on github*__
 
 __*`[Repository File](../dir1/dir2/file.txt)`*__
 
+```markdown
 [Inspectional Book Review Template](../ContentTemplates/InspectionalBookReviewTemplate.md)
+```
 
 # How do you link to a Github Issue in markdown?
 
