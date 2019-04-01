@@ -21,7 +21,7 @@ Alternative H2 Markdown Syntax
 ```
 
 # How do you escape a character in markdown?
-*by using the backslash character following the character that is to be  (not parsed by the markdown engine).*
+*by using the backslash character following the character that is to be escaped (not parsed by the markdown engine.)*
 
 ```markdown
 this is an <\h1>
@@ -58,5 +58,18 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 ```
 
 # How do you create an unordered list in markdown?
+*By using an asterisk and space preceding the list*
+
+```markdown
+* list item dog
+* list item phone number
+* list item pogo-stick
+```
+
+* list item dog
+* list item phone number
+* list item pogo-stick
+
+# How do you create a unordered sub-list in markdown?
 
 # How do you create an ordered list in markdown?
