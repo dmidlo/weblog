@@ -171,7 +171,11 @@ __*`[link name](url "hover-over title")`*__
 
 *there is also a shorthand version where using the link text found in the first set of square brackets*
 
+```markdown
+[link-text]
 
+[link-text]: referenceURL
+```
 
 [The Dunning-Kruger effect][dunning, kruger]
 
