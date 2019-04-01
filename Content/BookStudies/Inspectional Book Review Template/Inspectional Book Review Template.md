@@ -91,58 +91,48 @@ Lastest Edition Year Available:
   * - [ ] *Make an initial attempt to provide answers to the questions you have written down so far.*
 
 ---
-##Questions the Book Raises
+## Questions the Book Raises
 
 ---
 
-* *Inspectional/Structural Questions*
-  * *What kind of book is it?*
-  * *What is it about as a whole?*
-  * *What is the structural order of the book by which the author expresses their understanding of the topic?*
-* *Analytical/Conceptual Questions?*
-  * *Questions about the Truth of the book*
-  * *Questions about the significance of the book*
-* *Dialectical/Syntopical Questions?*
-  * *Questions related to other works*
-  * *Questions about the shape of the discussion around the subject as a whole*
+* - [ ] *Inspectional/Structural Questions*
+  * - [ ] *What kind of book is it?*
+  * - [ ] *What is it about as a whole?*
+  * - [ ] *What is the structural order of the book by which the author expresses their understanding of the topic?*
+* - [ ] *Analytical/Conceptual Questions?*
+  * - [ ] *Questions about the Truth of the book*
+  * - [ ] *Questions about the significance of the book*
+* - [ ] *Dialectical/Syntopical Questions?*
+  * - [ ] *Questions related to other works*
+  * - [ ] *Questions about the shape of the discussion around the subject as a whole*
 
-### 
+---
+## Crucial Vocabulary
 
-*
-*
 
-Crucial Vocabulary
-------------------
+---
+## Critical Concepts
 
-*
-*
 
-Critical Concepts
------------------
+---
+## Crucial Quotes and Cites from the Book
 
-Crucial Quotes and Cites from the Book
---------------------------------------
 
-*
-*
+---
+## Important Citations
 
-Important Citations
--------------------
 
-Other Works from the Author
----------------------------
+---
+## Other Works from the Author
 
-Related Works
--------------
 
-*
-*
+---
+## Related Works
 
-Inventory of Things-Already-Known
----------------------------------
 
-Random Trashbin of related & unrelated ideas, concepts, & distracted thoughts.
-------------------------------------------------------------------------------
+---
+## Inventory of Things-Already-Known
 
-*
-*
+
+---
+## Random Trashbin of related & unrelated ideas, concepts, & distracted thoughts.
