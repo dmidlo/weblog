@@ -105,8 +105,29 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 9. is
 3. a
     1. item 1
-    10. item 2
-    44. item 3
+    44. item 2
+    10. item 3
+7. ordered
+2. list
+8. even
+1. though
+1. the numbers used
+9. in markdown
+4. are nonsensical
+```
+
+# How do you add a properly indented paragraph within a list in markdown?
+*by following the indentation defined within the existing list along with line-breaks before and after the paragraph*
+
+```markdown
+1. This
+the quick brown fox jumped over the lazy dog.
+9. is
+3. a
+    1. item 1
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+    44. item 2
+    10. item 3
 7. ordered
 2. list
 8. even
@@ -117,11 +138,13 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 ```
 
 1. This
+the quick brown fox jumped over the lazy dog.
 9. is
 3. a
     1. item 1
-    10. item 2
-    44. item 3
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+    44. item 2
+    10. item 3
 7. ordered
 2. list
 8. even
