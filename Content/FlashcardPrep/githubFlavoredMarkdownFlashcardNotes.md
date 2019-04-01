@@ -44,9 +44,12 @@ Combined emphasis using **bold and _italics_**
 ```
 
 # How do you strikethrough text in markdown?
-*by wrapping content using a set of double tildes (~~)*
+*by wrapping content using a set of double tildes (~\~)*
 
 ```markdown
-stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~) 
-```
 stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
+```
+
+# How do you create an unordered list in markdown?
+
+# How do you create an ordered list in markdown?
