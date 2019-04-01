@@ -220,15 +220,18 @@ __*`[#1](https://github.com/user/repo/issues/1)`*__
 ```markdown
 [#1](https://github.com/dmidlo/weblog/issues/1)
 ```
-[#1](https://github.com/dmidlo/weblog/issues/1)
 
 __*you can likewise use the biblographic reference style to link to repository files*__
 
 ```markdown
-[A workflow for gettting the most out of skim reading][Inspectional Book Review Template]
+[Issue - How do you link to a Github Issue or Pull request in markdown?][#1]
 
-[Inspectional Book Review Template]: ../ContentTemplates/InspectionalBookReviewTemplate.md
+[#1]: https://github.com/dmidlo/weblog/issues/1
 ```
+
+[Issue - How do you link to a Github Issue or Pull request in markdown?][#1]
+
+[#1]: https://github.com/dmidlo/weblog/issues/1
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
 
