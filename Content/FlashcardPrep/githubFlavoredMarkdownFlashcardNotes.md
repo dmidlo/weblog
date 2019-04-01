@@ -66,10 +66,23 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 * list item pogo-stick
 ```
 
+# How do you create a unordered sub-list in markdown?
+*by applying indentation within an unordered list*
+
+```markdown
 * list item dog
+    * list item dogName
+    * list item dogFood
+    * list item dogWalk
 * list item phone number
 * list item pogo-stick
+```
 
-# How do you create a unordered sub-list in markdown?
+* list item dog
+    * list item dogName
+    * list item dogFood
+    * list item dogWalk
+* list item phone number
+* list item pogo-stick
 
 # How do you create an ordered list in markdown?
