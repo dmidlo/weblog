@@ -184,8 +184,8 @@ __Example:__
 
 [Survivorship bias]
 
-__*Bibilographic references are not displayed in-browser*__
 
+__*Bibilographic references are not displayed in-browser*__
 [dunning, kruger]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 [1]: https://en.wikipedia.org/wiki/Negativity_bias
 [Survivorship bias]: https://en.wikipedia.org/wiki/Survivorship_bias
