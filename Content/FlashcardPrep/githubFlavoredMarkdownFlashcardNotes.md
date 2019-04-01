@@ -102,40 +102,30 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 *by applying indentation within an ordered list along with a sub-list character*
 ```markdown
 1. This
-    a. item a
-    b. item b
 9. is
 3. a
     1. item 1
-    2. item 2
+    10. item 2
+    44. item 3
 7. ordered
 2. list
 8. even
-    i. item i
-    ii. item ii
 1. though
 1. the numbers used
 9. in markdown
-    1.1 item 1.1
-    1.3 item 1.2
 4. are nonsensical
 ```
 
 1. This
-    a. item a
-    b. item b
 9. is
 3. a
     1. item 1
-    2. item 2
+    10. item 2
+    44. item 3
 7. ordered
 2. list
 8. even
-    i. item i
-    ii. item ii
 1. though
 1. the numbers used
 9. in markdown
-    1.1 item 1.1
-    1.3 item 1.2
 4. are nonsensical
