@@ -11,3 +11,11 @@
 *By leveraging an underlining style using hyphens `(----)`` or equals signs `(======) in the line following the header content.*
 
 __*This is limited to `<h1>` and `<h2>`*__
+
+```markdown
+Alternative H1 Markdown Syntax
+==============================
+
+Alternative H2 Markdown Syntax
+------------------------------
+```
