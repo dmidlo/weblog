@@ -9,4 +9,4 @@
 
 # What is an alternative way to make headers in markdown?
 *By leveraging an underlining style using hyphens `(----)`` or equals signs `(======) in the line following the header content*
-*This is limited to `<h1>` and `<h2>`*
+__*This is limited to `<h1>` and `<h2>`*__
