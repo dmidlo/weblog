@@ -70,12 +70,6 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 + list item TheFallOfRome
 ```
 
-* list item dog
-- list item phone number
-* list item fourteen
-+ list item pogo-stick
-+ list item TheFallOfRome
-
 # How do you create a unordered sub-list in markdown?
 *by applying indentation within an unordered list*
 
@@ -89,3 +83,27 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 ```
 
 # How do you create an ordered list in markdown?
+*by using any number followed by a period `(.)` and a space*
+
+```markdown
+1. This
+9. is
+3. a
+7. ordered
+2. list
+8. even
+1. though
+1. the numbers
+9. in markdown
+4. are nonsensical
+```
+1. This
+9. is
+3. a
+7. ordered
+2. list
+8. even
+1. though
+1. the numbers
+9. in markdown
+4. are nonsensical
