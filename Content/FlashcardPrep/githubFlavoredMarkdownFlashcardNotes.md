@@ -160,7 +160,9 @@ __*`[link name](url "hover-over title")`*__
 ```
 
 # How do you create a reference-style link using markdown?
+*by using square brackets `[]` instead of parenthesis `()` as the second declaration in the standard markdown link syntax along with a bibliographic reference using square brackets `[]` and a colon `:`*
 
+[]
 
 # How do you create a relative reference link to a repository file in markdown
 
