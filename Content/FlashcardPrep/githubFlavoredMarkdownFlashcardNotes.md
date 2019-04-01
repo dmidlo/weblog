@@ -240,8 +240,10 @@ dmidlo#weblog#1
 ```
 
 #1
+
 dmidlo#1
-dmidlo#weblog#1
+
+dmidlo/weblog#1
 
 __*you can likewise use the biblographic reference style to link to repository files*__
 
