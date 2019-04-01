@@ -138,11 +138,15 @@ the quick brown fox jumped over the lazy dog.
 ```
 
 1. This
-the quick brown fox jumped over the lazy dog.
+
+    the quick brown fox jumped over the lazy dog.
+
 9. is
 3. a
     1. item 1
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+
     44. item 2
     10. item 3
 7. ordered
