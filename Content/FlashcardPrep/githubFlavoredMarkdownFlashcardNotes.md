@@ -32,6 +32,14 @@ _This text will also be emphasized with italics_
 *by wrapping content using a set of double asterisks or underscores*
 
 ```Markdown
-**This text will be emphasized with italics**
-__This text will also be emphasized with italics__
+**This text will be emphasized with bold**
+__This text will also be emphasized with bold__
+```
+
+# How do you combine emphasis (italics) and strong emphasis (bold) using markdown?
+*by following standard html nesting practices*
+
+Combined emphasis using **bold and _italics_**
+```markdown
+Combined emphasis using **bold and _italics_**
 ```
