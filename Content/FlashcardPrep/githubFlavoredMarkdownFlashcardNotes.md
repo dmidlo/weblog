@@ -141,22 +141,13 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 4. are nonsensical
 ```
 
-1. This
+# How do you create an inline-style link with markdown?
+*by using square brackets `[]`` followed by parenthesis `()`*
 
-    the quick brown fox jumped over the lazy dog.
+# How do you create an inline-style link with a title in markdown?
 
-9. is
-3. a
-    1. item 1
-    
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
-    
-    44. item 2
-    10. item 3
-7. ordered
-2. list
-8. even
-1. though
-1. the numbers used
-9. in markdown
-4. are nonsensical
+# How do you create a reference-style link using markdown?
+
+# How do you create a relative reference link to a repository file in markdown
+
+# 
