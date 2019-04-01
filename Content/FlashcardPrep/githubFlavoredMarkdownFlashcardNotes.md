@@ -249,7 +249,4 @@ __*you can likewise use the biblographic reference style to link to repository f
 
 [c54e551]: https://github.com/dmidlo/weblog/commit/c54e551
 ```
-[this commit][c54e551]
-
-[c54e551]: https://github.com/dmidlo/weblog/commit/c54e551
 __*Feature: Bibilographic references are not displayed in-browser on github*__
