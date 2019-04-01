@@ -162,7 +162,9 @@ __*`[link name](url "hover-over title")`*__
 # How do you create a reference-style link using markdown?
 *by using square brackets `[]` instead of parenthesis `()` as the second declaration in the standard markdown link syntax along with a bibliographic reference using square brackets `[]` and a colon `:`*
 
-[]
+[The Dunning-Kruger effect][dunning, kruger]
+
+[dunning, kruger]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 
 # How do you create a relative reference link to a repository file in markdown
 
