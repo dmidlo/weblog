@@ -147,9 +147,9 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 ```markdown
 [A link to search for answers](https://www.google.com)
 ```
-[A link to search for answers](https://www.google.com)
 
-# How do you create an inline-style link with a title in markdown?
+# How do you create an inline-style link with a hover-over title in markdown?
+*by adding double-quotes `""`` to the url portion of the standard markdown link syntax*
 
 # How do you create a reference-style link using markdown?
 
