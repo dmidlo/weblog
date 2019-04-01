@@ -28,7 +28,10 @@ Lastest Edition Year Available:
 
 ## Book Screening Summary
 
+---
 ### Front Matter
+
+---
 * - [ ] *Read the Preface*
   * - [ ] *Note any subtitles*
   * - [ ] *Note any Central Vocabulary*
