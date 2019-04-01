@@ -192,7 +192,9 @@ __Example:__
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
 # How do you create a relative reference link to a repository file in markdown
-*by using dot-slash notation `./dir1/dir2/file.txt` in the link definition using standard markdown link syntax*
+*by using dot-slash notation `./dir1/dir2/file.txt` in the paranthetical link definition using standard markdown link syntax*
+
+__*`[Repository File](../dir1/dir2/file.txt)`*__
 
 # How do you link to a Github Issue in markdown?
 
