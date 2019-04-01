@@ -176,7 +176,8 @@ __*`[link name](url "hover-over title")`*__
 
 [link-text]: referenceURL
 ```
-
+__Example:__
+```markdown
 [The Dunning-Kruger effect][dunning, kruger]
 
 [Negativity bias][1]
@@ -188,6 +189,7 @@ __*Bibilographic references are not displayed in-browser*__
 [dunning, kruger]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 [1]: https://en.wikipedia.org/wiki/Negativity_bias
 [Survivorship bias]: https://en.wikipedia.org/wiki/Survivorship_bias
+```
 
 # How do you create a relative reference link to a repository file in markdown
 
