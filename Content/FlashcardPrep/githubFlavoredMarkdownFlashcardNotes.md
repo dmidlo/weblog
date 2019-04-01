@@ -27,3 +27,11 @@ Alternative H2 Markdown Syntax
 *This text will be emphasized with italics*
 _This text will also be emphasized with italics_
 ```
+
+# How do you place strong emphasis using bold in markdown?
+*by wrapping content using a set of double asterisks or underscores*
+
+```Markdown
+**This text will be emphasized with italics**
+__This text will also be emphasized with italics__
+```
