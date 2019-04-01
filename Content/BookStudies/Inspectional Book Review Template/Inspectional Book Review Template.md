@@ -54,23 +54,18 @@ Lastest Edition Year Available:
   * - [ ] *If the chapters have front or back summaries, skim read them*
   * - [ ] *Note any questions raised*
 
+---
 ### Dip Reading
+*Dip Read the book, Turn the pages reading every so often, sometimes a paragraph, sometimes a few pages, but never more.*
+---
+* - [ ] *Look for signs of the main contention of the book, listen for the basic pulse-beat of the subject*
+  * - [ ] *Note any questions raised*
+  * - [ ] *Be sure to read the last two-to-three pages of the book, of its main portion*
+    * - [ ] *Note any summaries the author provides*
+    * - [ ] *Note any questions raised*
 
-    * *Dip Read the book, Turn the pages reading every so often, sometimes a paragraph, sometimes a few pages, but never more.*
 
-      * *Look for signs of the main contention of the book, listen for the basic pulse-beat of the subject
-*
-      * * Note any questions raised
-*
-      * *Be sure to read the last two-to-three pages of the book, of its main portion
-*
-        * * Note any summaries the author provides
-*
-        * * Note any questions raised*
-
-### 
-
-* Superficial Reading
+## Superficial Reading
 
 * *Categorize the questions you’ve written down so far under the following four question categories:*
   * * 1\. What is the book about as a whole?*
