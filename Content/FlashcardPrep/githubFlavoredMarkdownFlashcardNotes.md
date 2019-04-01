@@ -49,3 +49,4 @@ Combined emphasis using **bold and _italics_**
 ```markdown
 stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~) 
 ```
+stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
