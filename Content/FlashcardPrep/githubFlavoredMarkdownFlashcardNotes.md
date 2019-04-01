@@ -60,7 +60,7 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 # How do you create an unordered list in markdown?
 *By using an asterisk(\*), minus(\-), or plus (\+) along with a  space preceding the list item*
 
-*__grouping \*s, \-s, and \+s will create seperate lists__*
+*__having groups of list symbols (\*, \-, and \+) will create seperate lists__*
 
 ```markdown
 * list item dog
