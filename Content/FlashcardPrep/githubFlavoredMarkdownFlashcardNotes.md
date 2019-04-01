@@ -22,7 +22,9 @@ Alternative H2 Markdown Syntax
 
 # How do you escape a character in markdown?
 *by using the backslash character following the character that is to be escaped.*
+
 this is an <\h1>
+
 ```markdown
 this is an <\h1>
 ```
