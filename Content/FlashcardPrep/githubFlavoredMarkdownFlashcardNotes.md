@@ -149,7 +149,7 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 ```
 
 # How do you create an inline-style link with a hover-over title in markdown?
-*by adding double-quotes `""`` to the url portion of the standard markdown link syntax*
+*by adding double-quotes `""` to the url portion of the standard markdown link syntax `[link name](url "hover-over title")`*
 
 # How do you create a reference-style link using markdown?
 
