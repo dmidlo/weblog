@@ -19,13 +19,13 @@ Lastest Edition Year Available:
   * - [ ] *Where were you when you found the book?, What lead you there?*
     * - [ ] *What section did you find the book in?*
     * - [ ] *Note anything you like (or don’t) about visual design of the book (size, color, layout, paper, etc) that drew you to it.*
-  * - [ ]  What in your memory or interest drives the intrege to aquire the book in the first place?*
-  * - [ ]  Desect the Title and subtitle. Describe it in adjectives*
-  * - [ ]  Note any initial Questions that can be asked from just the title 
-  * - [ ]  *if possible at this point, *
-    * * - [ ]  note any indications of the scope or aim of the book. *
-    * * - [ ]  What subject(s) or objective(s) comes first to mind?*
-  * * - [ ]  Explain Why you want to read this book.
+  * - [ ]  *What in your memory or interest drives the intrege to aquire the book in the first place?*
+  * - [ ]  *Desect the Title and subtitle. Describe it in adjectives*
+  * - [ ]  *Note any initial Questions that can be asked from just the title*
+  * - [ ]  *if possible at this point,*
+    * - [ ]  *note any indications of the scope or aim of the book.*
+    * - [ ]  *What subject(s) or objective(s) comes first to mind?*
+  * - [ ]  *Explain Why you want to read this book.*
 
 ## Book Screening Summary
 
