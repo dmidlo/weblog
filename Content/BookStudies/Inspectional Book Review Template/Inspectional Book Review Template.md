@@ -29,7 +29,7 @@ Lastest Edition Year Available:
   * - [ ]  *Explain Why you want to read this book.*
 
 ## Book Screening Summary
-*Write a [wordcount] word-length summary of the book after having collected information following the steps outlined below*
+* - [ ] *Write a [wordcount] word-length summary of the book after having collected information following the steps outlined below*
 
 ---
 ### Front Matter
