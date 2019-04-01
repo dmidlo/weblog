@@ -1,5 +1,4 @@
 # Systematic Reading
----
 *Pre-Reading (No More than 60 minutes for Book Screening-Front matter, & Dip Reading)*
 ---
 
@@ -10,6 +9,7 @@ Author(s):
 Publichation Year:
 
 Lastest Edition Year Available:
+---
 
 ## Why I Picked Up This Book
 
@@ -27,16 +27,14 @@ Lastest Edition Year Available:
   * - [ ]  *Explain Why you want to read this book.*
 
 ## Book Screening Summary
----
 
 ### Front Matter
-
-    * *Read the Preface*
-      * *Note any subtitles*
-      * *Note any Central Vocabulary*
-      * *Note any indications of the scope of the book*
-      * *Note any hints toward the Author’s aim or purpose in writing the book*
-      * *Note any concepts or traits regarding what unique vantage-point or style the author has in writing the book.*
+* - [ ] *Read the Preface*
+  * - [ ] *Note any subtitles*
+  * - [ ] *Note any Central Vocabulary*
+  * - [ ] *Note any indications of the scope of the book*
+  * - [ ] *Note any hints toward the Author’s aim or purpose in writing the book*
+  * - [ ] *Note any concepts or traits regarding what unique vantage-point or style the author has in writing the book.*
       * * Classify the book by Genre
 *
       * * Note any questions raised
