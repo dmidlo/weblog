@@ -212,7 +212,7 @@ __*you can likewise use the biblographic reference style to link to repository f
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
-# How do you link to a Github Issue or Pull request in markdown?
+# How do you link to a Github Issue or Pull request using its RAW URL in markdown?
 *by using the issue's RAW URL in the paranthetical link definition using standard markdown link syntax*
 
 __*`[#1](https://github.com/user/repo/issues/1)`*__
@@ -228,11 +228,28 @@ __*you can likewise use the biblographic reference style to link to repository f
 
 [#1]: https://github.com/dmidlo/weblog/issues/1
 ```
+__*Feature: Bibilographic references are not displayed in-browser on github*__
 
+# How do you link to a Github Issue or Pull within the same repository in markdown?
+*Any number that referes to an Issue or Pull request will automatically be converted into a link*
+
+```markdown
+#1
+dmidlo#1
+dmidlo#weblog#1
+```
+
+#1
+dmidlo#1
+dmidlo#weblog#1
+
+__*you can likewise use the biblographic reference style to link to repository files*__
+
+```markdown
 [Issue - How do you link to a Github Issue or Pull request in markdown?][#1]
 
 [#1]: https://github.com/dmidlo/weblog/issues/1
+```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
-
-# How do you link to a git commit on github in markdown? 
+# How do you link to a git commit on github in markdown?
