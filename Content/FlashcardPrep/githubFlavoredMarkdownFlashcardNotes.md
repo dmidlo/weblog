@@ -192,5 +192,8 @@ __Example:__
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
 # How do you create a relative reference link to a repository file in markdown
+*by using d0t-slash notation in the link definition using standard markdown link syntax*
 
-# 
+# How do you link to a Github Issue in markdown?
+
+# How do you link to a git commit on github in markdown? 
