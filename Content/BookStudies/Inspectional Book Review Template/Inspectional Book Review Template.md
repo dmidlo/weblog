@@ -1,4 +1,4 @@
-#Systematic Reading
+# Systematic Reading
 
 *Pre-Reading (No More than 60 minutes for Book Screening-Front matter, & Dip Reading)*
 
@@ -12,7 +12,7 @@ Publichation Year:
 
 Lastest Edition Year Available:
 
-##Why I Picked Up This Book
+## Why I Picked Up This Book
 
 * - [ ]write a [wordcount] word-length summary of your initial ‘cover-judegment’ of the book. *
   * * *Did someone refer the book to you?*
@@ -30,10 +30,9 @@ Lastest Edition Year Available:
   * * Explain Why you want to read this book.
 *
 
-##Book Screening Summary
-------------------------
+## Book Screening Summary
 
-###Front Matter
+### Front Matter
 
     * *Read the Preface*
       * * Note any subtitles*
@@ -68,8 +67,6 @@ Lastest Edition Year Available:
 *
       * * If the chapters have front or back summaries, skim read them*
       * * Note any questions raised*
-
-### 
 
 * Dip Reading
 
