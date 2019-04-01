@@ -16,7 +16,7 @@ Lastest Edition Year Available:
 Why I Picked Up This Book
 -------------------------
 
-* `​`​*write a [wordcount] word-length summary of your initial ‘cover-judegment’ of the book. *
+* - [ ]write a [wordcount] word-length summary of your initial ‘cover-judegment’ of the book. *
   * * *Did someone refer the book to you?*
 *
   * * Where were you when you found the book? ***What lead you there?**
