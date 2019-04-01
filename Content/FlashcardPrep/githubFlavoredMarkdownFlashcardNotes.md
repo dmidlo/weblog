@@ -169,13 +169,6 @@ __*`[link name](url "hover-over title")`*__
 [Arbitrary case-insensitive reference text]: referenceURL
 ```
 
-*there is also a shorthand version using the link text found in the first set of square brackets*
-
-```markdown
-[link-text]
-
-[link-text]: referenceURL
-```
 __Example:__
 ```markdown
 [The Dunning-Kruger effect][dunning, kruger]
@@ -191,6 +184,15 @@ __Example:__
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
+
+*there is also a shorthand version using the link text found in the first set of square brackets*
+
+```markdown
+[link-text]
+
+[link-text]: referenceURL
+```
+
 # How do you create a relative reference link to a repository file in markdown
 *by using dot-slash notation `./dir1/dir2/file.txt` in the paranthetical link definition using standard markdown link syntax*
 
@@ -199,6 +201,13 @@ __*`[Repository File](../dir1/dir2/file.txt)`*__
 ```markdown
 [Inspectional Book Review Template](../ContentTemplates/InspectionalBookReviewTemplate.md)
 ```
+
+__*you can likewise use the biblographic reference style to link to repository files*__
+
+[A workflow for gettting the most out of skim reading][Inspectional Book Review Template]
+
+[Inspectional Book Review Template]: ../ContentTemplates/InspectionalBookReviewTemplate.md
+
 
 # How do you link to a Github Issue in markdown?
 
