@@ -35,34 +35,26 @@ Lastest Edition Year Available:
   * - [ ] *Note any indications of the scope of the book*
   * - [ ] *Note any hints toward the Author’s aim or purpose in writing the book*
   * - [ ] *Note any concepts or traits regarding what unique vantage-point or style the author has in writing the book.*
-      * * Classify the book by Genre
-*
-      * * Note any questions raised
-*
-    * *Study the table of contents*
-      * * Note any new vocabulary
-*
-      * * note how the structure comprises the books scope
-*
-      * * Note any questions raised*
-    * *Check the Index or, if need be, the glossary*
-      * * Make an estimate of the range of topics covered
-*
-      * * Make note of the kinds of books the author referes to
-*
-      * * note any new vocabulary
-*
-      * * look up the passeges referring crucial vocabulary list and skim read them*
-      * * Note any questions raised*
-    * *Read the Dust Jacket*
-      * * Note the main points the book will emphasize*
-      * * Note any questions raised*
-    * * Make a list of the chapters of the book that seem to be pivital to its argument
-*
-      * * If the chapters have front or back summaries, skim read them*
-      * * Note any questions raised*
+  * - [ ] *Classify the book by Genre*
+  * - [ ] *Note any questions raised*
+* - [ ] *Study the table of contents*
+  * - [ ] *Note any new vocabulary*
+  * - [ ] *note how the structure comprises the books scope*
+  * - [ ] *Note any questions raised*
+* - [ ] *Check the Index or, if need be, the glossary*
+  * - [ ] *Make an estimate of the range of topics covered*
+  * - [ ] *Make note of the kinds of books the author referes to*
+  * - [ ] *note any new vocabulary*
+  * - [ ] *look up the passeges referring crucial vocabulary list and skim read them*
+  * - [ ] *Note any questions raised*
+* - [ ] *Read the Dust Jacket*
+  * - [ ] *Note the main points the book will emphasize*
+  * - [ ] *Note any questions raised*
+* - [ ] *Make a list of the chapters of the book that seem to be pivital to its argument*
+  * - [ ] *If the chapters have front or back summaries, skim read them*
+  * - [ ] *Note any questions raised*
 
-* Dip Reading
+### Dip Reading
 
     * *Dip Read the book, Turn the pages reading every so often, sometimes a paragraph, sometimes a few pages, but never more.*
 
