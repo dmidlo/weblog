@@ -213,16 +213,27 @@ __*you can likewise use the biblographic reference style to link to repository f
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
 # How do you link to a Github Issue or Pull request in markdown?
-*by using the github issue/pullrequest shorthand numbering `#452, GH-452, or githubaccount/Repository#452` in the paranthetical link definition using standard markdown link syntax*
+*other than using the RAW URL, this can also be done by using the relative github issue/pullrequest url format in the paranthetical link definition using standard markdown link syntax*
 
 ```markdown
-[issue 1](#1)
-[issue 1](GH-1)
-[issue 1](dmidlo/weblog#1)
+# Anywhere on github:
+/user/project/issues/1
+
+# Relative to current project:
+../../issues/1
+
+# github wikis:
+../issues/1
 ```
-[issue 1](#1)
-[issue 1](GH-1)
-[issue 1](dmidlo/weblog#1)
+
+```markdown
+[#1 anywhere](/dmidlo/weblog/issues/1)
+[#1 current project](../../issues/1)
+[#1 in a github wiki](../issues/1)
+```
+[#1 anywhere](/dmidlo/weblog/issues/1)
+[#1 current project](../../issues/1)
+[#1 in a github wiki](../issues/1)
 
 __*you can likewise use the biblographic reference style to link to repository files*__
 
