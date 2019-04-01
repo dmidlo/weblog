@@ -57,6 +57,7 @@ Lastest Edition Year Available:
 ---
 ### Dip Reading
 *Dip Read the book, Turn the pages reading every so often, sometimes a paragraph, sometimes a few pages, but never more.*
+
 ---
 * - [ ] *Look for signs of the main contention of the book, listen for the basic pulse-beat of the subject*
   * - [ ] *Note any questions raised*
