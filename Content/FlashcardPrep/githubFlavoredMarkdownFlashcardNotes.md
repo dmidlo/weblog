@@ -19,3 +19,11 @@ Alternative H1 Markdown Syntax
 Alternative H2 Markdown Syntax
 ------------------------------
 ```
+
+# How do you place emphasis using italics in markdown?
+*by wrapping content using a set of single asterisks or underscores*
+
+```Markdown
+*This text will be emphasized with italics*
+_This text will also be emphasized with italics_
+```
