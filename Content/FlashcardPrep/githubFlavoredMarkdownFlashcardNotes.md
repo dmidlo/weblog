@@ -169,7 +169,7 @@ __*`[link name](url "hover-over title")`*__
 [Arbitrary case-insensitive reference text]: referenceURL
 ```
 
-*there is also a shorthand version where using the link text found in the first set of square brackets*
+*there is also a shorthand version using the link text found in the first set of square brackets*
 
 ```markdown
 [link-text]
@@ -189,7 +189,7 @@ __Example:__
 [1]: https://en.wikipedia.org/wiki/Negativity_bias
 [Survivorship bias]: https://en.wikipedia.org/wiki/Survivorship_bias
 ```
-__*Bibilographic references are not displayed in-browser*__
+__*Feature: Bibilographic references are not displayed in-browser on github*__
 
 # How do you create a relative reference link to a repository file in markdown
 
