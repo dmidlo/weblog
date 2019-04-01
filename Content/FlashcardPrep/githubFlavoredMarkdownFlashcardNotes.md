@@ -2,9 +2,9 @@
 *By preceding the text with an octothorpe symbol (#) along with a space*
 
 ```markdown
-# This is an <h1>
-## This is an <h2>
-###### This is an <h6>
+# This is an h1
+## This is an h2
+###### This is an h6
 ```
 
 # What is an alternative way to make headers in markdown?
@@ -41,4 +41,11 @@ __This text will also be emphasized with bold__
 
 ```markdown
 Combined emphasis using **bold and _italics_**
+```
+
+# How do you strikethrough text in markdown?
+*by wrapping content using a set of double tildes (~~)*
+
+```markdown
+stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~) 
 ```
