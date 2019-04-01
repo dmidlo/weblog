@@ -142,7 +142,7 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 ```
 
 # How do you create an inline-style link with markdown?
-*by using square brackets `[]` followed by parenthesis`()`.*
+*by using square brackets `[]` followed by parenthesis`()` using the following syntax [link name](url)*
 
 # How do you create an inline-style link with a title in markdown?
 
