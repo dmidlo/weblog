@@ -238,3 +238,7 @@ __*Feature: Bibilographic references are not displayed in-browser on github*__
 mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
 mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 ```
+
+c54e55103c7e9f865e05a2f2217551ad052e32c4
+dmidlo@c54e55103c7e9f865e05a2f2217551ad052e32c4
+dmidlo/weblog@c54e55103c7e9f865e05a2f2217551ad052e32c4
