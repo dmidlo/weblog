@@ -212,6 +212,23 @@ __*you can likewise use the biblographic reference style to link to repository f
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
-# How do you link to a Github Issue in markdown?
+# How do you link to a Github Issue or Pull request in markdown?
+*by using the github issue/pullrequest shorthand numbering `#452, GH-452, or githubaccount/Repository#452` in the paranthetical link definition using standard markdown link syntax*
+
+__*`[Repository File](../dir1/dir2/file.txt)`*__
+
+```markdown
+[Inspectional Book Review Template](../ContentTemplates/InspectionalBookReviewTemplate.md)
+```
+
+__*you can likewise use the biblographic reference style to link to repository files*__
+
+```markdown
+[A workflow for gettting the most out of skim reading][Inspectional Book Review Template]
+
+[Inspectional Book Review Template]: ../ContentTemplates/InspectionalBookReviewTemplate.md
+```
+__*Feature: Bibilographic references are not displayed in-browser on github*__
+
 
 # How do you link to a git commit on github in markdown? 
