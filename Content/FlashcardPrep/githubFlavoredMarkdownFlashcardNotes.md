@@ -231,14 +231,21 @@ __*you can likewise use the biblographic reference style to link to repository f
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
 # How do you link to a git commit on github in markdown?
-*Any reference to a commit’s SHA-1 hash will be automatically converted into a link to that commit on GitHub.*
+*by using the commits's RAW URL in the paranthetical link definition using standard markdown link syntax*
+
+__*`[commit text](https://github.com/user/repo/commit/hash)`*__
 
 ```markdown
-16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+[this commit](https://github.com/dmidlo/weblog/commit/c54e55103c7e9f865e05a2f2217551ad052e32c4)
+
+[c54e551](https://github.com/dmidlo/weblog/commit/c54e551)
 ```
 
-c54e55103c7e9f865e05a2f2217551ad052e32c4
-dmidlo@c54e55103c7e9f865e05a2f2217551ad052e32c4
-dmidlo/weblog@c54e55103c7e9f865e05a2f2217551ad052e32c4
+__*you can likewise use the biblographic reference style to link to repository files*__
+
+```markdown
+[Issue - How do you link to a Github Issue or Pull request in markdown?][#1]
+
+[#1]: https://github.com/dmidlo/weblog/issues/1
+```
+__*Feature: Bibilographic references are not displayed in-browser on github*__
