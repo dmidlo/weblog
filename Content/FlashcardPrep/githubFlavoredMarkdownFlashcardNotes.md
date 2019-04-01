@@ -236,14 +236,14 @@ __*Feature: Bibilographic references are not displayed in-browser on github*__
 ```markdown
 #1
 dmidlo#1
-dmidlo#weblog#1
+@dmidlo#weblog#1
 ```
 
 #1
 
-dmidlo#1
+@dmidlo#1
 
-dmidlo/weblog#1
+@dmidlo/weblog#1
 
 __*you can likewise use the biblographic reference style to link to repository files*__
 
