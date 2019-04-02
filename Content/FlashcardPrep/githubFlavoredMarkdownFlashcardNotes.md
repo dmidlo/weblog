@@ -24,6 +24,7 @@ Alternative H2 Markdown Syntax
 ------------------------------
 ```
 
+# Characters and Styling
 ## How do you escape a character in markdown?
 *by using the backslash character preceding the character that is to be escaped (not parsed by the markdown engine.)*
 
@@ -61,6 +62,7 @@ Combined emphasis using **bold and _italics_**
 stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 ```
 
+# Lists & Tables
 ## How do you create an unordered list in markdown?
 *By using an asterisk(\*), minus(\-), or plus (\+) along with a  space preceding the list item*
 
@@ -145,6 +147,48 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 4. are nonsensical
 ```
 
+## How do you create a task list in github flavored markdown?
+*by using a hypen `-` and square brackets with empty space inbetween `[ ]` followed by a list-item's text. Check-Off tasks by adding an x within the brackets*
+
+```markdown
+- [ ] Be sure to include the empty space
+- [x] but no empty space for the 'x'
+- [x] Thing to check has been checked
+- [ ] Switch to flip and then flop
+```
+__*If using GFM within Github issues, a task list in the first comment of an issue or pull request will provide a cool progress indicator in the issue list*__
+
+## How do you add a table using github flavored markdown (GFM)?
+*tables require headers. headers are created using a combination of pipe `|` and __at least__ three hypen symbols.`---`. Rows follow the same format and must be placed under the headers*
+
+```markdown
+  x   | column a  | column b | column c
+---   |   --------|  ------- | ---
+row 1 |  cell a1  |   cell b1| cell c1
+row 2 |cell a2    | cell b2  |cell c2
+row 3|cell a3|cell b3|cell c3
+```
+__*Note that the markdown you write does NOT need to be aligned*__
+
+## How do you align the columns in a markdown (GFM) table?
+*add a colon `:` to either side or both sides of the tables header dashes*
+
+```markdown
+:---    left align
+:---:   center align
+---:    right align
+```
+
+```markdown
+  x   | left alignment| Center alignment  | Right alignment
+---   |   :--------   |  :-------:       | ---:
+row 1 |  *cell a1*    |   __*cell b1*__  | `cell c1`
+row 2 |__cell a2__    | `cell b2`        |cell c2
+row 3| *cell a3* |cell b3| _cell c3_
+```
+__*with the exception of headers `#`, Markdown styling may be applied to cell contents*__
+
+# links
 ## How do you create an inline-style link with markdown?
 *by using square brackets `[]` followed by parenthesis`()` using the following syntax:*
 
@@ -255,6 +299,7 @@ __*you can likewise use the biblographic reference style to link to repository f
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
+# Images & Video
 ## How do you add an image link in-line using markdown?
 *by using a exclaimation mark `!`, square brackets `[]`, followed by parenthesis`()` using the following syntax:*
 
@@ -307,6 +352,26 @@ __*biblographic reference style linking makes this syntax more readable*__
 [WhatWG HTML Dev]: https://html.spec.whatwg.org/dev/
 ```
 
+
+## How do you add a youtube video using GFM markdown for use on Github?
+*you can't, but you can use a linked image to send the viewer to youtube. `img.youtube.com` serves up video thumbnails*
+
+`http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg`
+
+
+```markdown
+[![R2D2's Secret Message image]][R2D2's Secret Message video]
+
+[R2D2's Secret Message image]: http://img.youtube.com/vi/Uj1ykZWtPYI/0.jpg
+[R2D2's Secret Message video]: http://www.youtube.com/watch?v=Uj1ykZWtPYI
+```
+[![R2D2's Secret Message image]][R2D2's Secret Message video]
+
+[R2D2's Secret Message image]: http://img.youtube.com/vi/Uj1ykZWtPYI/0.jpg
+[R2D2's Secret Message video]: http://www.youtube.com/watch?v=Uj1ykZWtPYI
+
+
+# Code and Syntax Highlighting
 ## How do you add code in-line using markdown (a code span)?
 *by wrapping content using a set of grave accents (backticks) `` ` ``*
 
@@ -370,36 +435,6 @@ __*` ```html `*__
 ````
 __*GFM uses highlight.js to provide syntax highlighting.  [See the full list of supported languages](https://highlightjs.org/static/demo/)*__
 
-## How do you add a table using github flavored markdown (GFM)?
-*tables require headers. headers are created using a combination of pipe `|` and __at least__ three hypen symbols.`---`. Rows follow the same format and must be placed under the headers*
-
-```markdown
-  x   | column a  | column b | column c
----   |   --------|  ------- | ---
-row 1 |  cell a1  |   cell b1| cell c1
-row 2 |cell a2    | cell b2  |cell c2
-row 3|cell a3|cell b3|cell c3
-```
-__*Note that the markdown you write does NOT need to be aligned*__
-
-## How do you align the columns in a markdown (GFM) table?
-*add a colon `:` to either side or both sides of the tables header dashes*
-
-```markdown
-:---    left align
-:---:   center align
----:    right align
-```
-
-```markdown
-  x   | left alignment| Center alignment  | Right alignment
----   |   :--------   |  :-------:       | ---:
-row 1 |  *cell a1*    |   __*cell b1*__  | `cell c1`
-row 2 |__cell a2__    | `cell b2`        |cell c2
-row 3| *cell a3* |cell b3| _cell c3_
-```
-__*with the exception of headers `#`, Markdown styling may be applied to cell contents*__
-
 ## How do you add a blockquote using markdown?
 *by preceding each line of the quoted text with the right-angle bracket `>` with a single padding space*
 
@@ -438,31 +473,3 @@ here is another section
 ___
 yet another section
 ```
-
-## How do you add a youtube video using GFM markdown for use on Github?
-*you can't, but you can use a linked image to send the viewer to youtube. `img.youtube.com` serves up video thumbnails*
-
-`http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg`
-
-
-```markdown
-[![R2D2's Secret Message image]][R2D2's Secret Message video]
-
-[R2D2's Secret Message image]: http://img.youtube.com/vi/Uj1ykZWtPYI/0.jpg
-[R2D2's Secret Message video]: http://www.youtube.com/watch?v=Uj1ykZWtPYI
-```
-[![R2D2's Secret Message image]][R2D2's Secret Message video]
-
-[R2D2's Secret Message image]: http://img.youtube.com/vi/Uj1ykZWtPYI/0.jpg
-[R2D2's Secret Message video]: http://www.youtube.com/watch?v=Uj1ykZWtPYI
-
-## How do you create a task list in github flavored markdown?
-*by using a hypen `-` and square brackets with empty space inbetween `[ ]` followed by a list-item's text. Check-Off tasks by adding an x within the brackets*
-
-```markdown
-- [ ] Be sure to include the empty space
-- [x] but no empty space for the 'x'
-- [x] Thing to check has been checked
-- [ ] Switch to flip and then flop
-```
-__*If using GFM within Github issues, a task list in the first comment of an issue or pull request will provide a cool progress indicator in the issue list*__
