@@ -8,7 +8,7 @@ Simply the best set of flashcards for GitHub Flavored Markdown (GFM).  After mem
 
 __Table of Contents__
 - [Headings](#headings)
-    + [How do you make headers in markdown?](#How-do-you-make-headers-in-markdown?)
+    + [How do you make headers in markdown?](#how-do-you-make-headers-in-markdown)
     + [What is an alternative way to make headers in markdown?](#what-is-an-alternative-way-to-make-headers-in-markdown)
 - [Characters and Styling](#characters-and-styling)
     + [How do you escape a character in markdown?](#how-do-you-escape-a-character-in-markdown)
