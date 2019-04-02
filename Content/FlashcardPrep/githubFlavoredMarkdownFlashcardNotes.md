@@ -293,12 +293,12 @@ __*`` `<h1>Encyclopedia Galactica</h1>` ``*__
 ```markdown
 `` ` ``
 
-
-```
-
 ``just one ` grave accent.``
 
 ``a set of `grave` accents.``
+
+```
+
 
 # How do you add a pre-formatted code block using markdown?
 
