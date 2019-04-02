@@ -379,7 +379,7 @@ __*with the exception of headers `#`, Markdown styling may be applied to cell co
 *by preceding each line of the quoted text with the right-angle bracket `>` with a single padding space*
 
 ```markdown
-> Here is something super important.
+> Here is important and/or quotable, attention should be drawn here.
 ```
 
 ```markdown
