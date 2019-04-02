@@ -352,6 +352,5 @@ __*GFM uses highlight.js to provide syntax highlighting.  [See the full list of 
 --- | --- | --- | ---
 row 1 | cell a1 | cell b1 | cell c1
 row 2 | cell a2 | cell b2 | cell c2
-row 3 | cell a3 | cell b3 | cell c3
 
 
