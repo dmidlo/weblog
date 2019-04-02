@@ -1,17 +1,57 @@
 ![github logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/320px-GitHub_logo_2013.svg.png)
 ![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)
 
-Simply the best set of flashcards for GitHub Flavored Markdown (GFM)
+Simply the best set of flashcards for GitHub Flavored Markdown (GFM).  After memorizing the answers to the following questions, you'll be a GFM wizard!
 *GFM is used in many contexts within github, the scope of these cards is limited to GFM markdown syntax that will render in markdown files hosted on github.*
 
 *[More information on GitHub Flavored Markdown](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)*
 
 __Table of Contents__
-
+- [Headings](#headings)
+    + [How do you make headers in markdown?](#How-do-you-make-headers-in-markdown?)
+    + [What is an alternative way to make headers in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#what-is-an-alternative-way-to-make-headers-in-markdown)
+- [Characters and Styling](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#characters-and-styling)
+    + [How do you escape a character in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-escape-a-character-in-markdown)
+    + [How do you place emphasis using italics in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-place-emphasis-using-italics-in-markdown)
+    + [How do you place strong emphasis using bold in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-place-strong-emphasis-using-bold-in-markdown)
+    + [How do you combine emphasis (italics) and strong emphasis (bold) using markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-combine-emphasis-italics-and-strong-emphasis-bold-using-markdown)
+    + [How do you strikethrough text in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-strikethrough-text-in-markdown)
+    + [How do you add a blockquote using markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-add-a-blockquote-using-markdown)
+    + [How do you add a horizontal rule using markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-add-a-horizontal-rule-using-markdown)
+- [Lists & Tables](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#lists--tables)
+    + [How do you create an unordered list in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-create-an-unordered-list-in-markdown)
+    + [How do you create a unordered sub-list in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-create-a-unordered-sub-list-in-markdown)
+    + [How do you create an ordered list in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-create-an-ordered-list-in-markdown)
+    + [How do you create an ordered sub-list in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-create-an-ordered-sub-list-in-markdown)
+    + [How do you add a properly indented paragraph within a list in markdown?
+](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-add-a-properly-indented-paragraph-within-a-list-in-markdown)
+    + [How do you create a task list in github flavored markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-create-a-task-list-in-github-flavored-markdown)
+    + [How do you add a table using github flavored markdown (GFM)?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-add-a-table-using-github-flavored-markdown-gfm)
+    + [How do you align the columns in a markdown (GFM) table?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-align-the-columns-in-a-markdown-gfm-table)
+- [Links](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#links)
+    + [How do you create an inline-style link with markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-create-an-inline-style-link-with-markdown)
+    + [How do you create an inline-style link with a hover-over title in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-create-an-inline-style-link-with-a-hover-over-title-in-markdown)
+    + [How do you create an Anchor link to refer to a section of the current markdown document?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-create-an-anchor-link-to-refer-to-a-section-of-the-current-markdown-document)
+    + [How do you create a reference-style link using markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-create-a-reference-style-link-using-markdown)
+    + [How do you create a relative reference link to a repository file in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-create-a-relative-reference-link-to-a-repository-file-in-markdown)
+    + [How do you link to a Github Issue or Pull request using its RAW URL in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-link-to-a-github-issue-or-pull-request-using-its-raw-url-in-markdown)
+    + [How do you link to a git commit on github in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-link-to-a-git-commit-on-github-in-markdown)
+- [Images & Video](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#images--video)
+    + [How do you add an image link in-line using markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-add-an-image-link-in-line-using-markdown)
+    + [How do you add an image link using a bibliographic-style reference in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-add-an-image-link-using-a-bibliographic-style-reference-in-markdown)
+    + [How do you add a linked image using markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-add-a-linked-image-using-markdown)
+    + [How do you add a youtube video using GFM markdown for use on Github?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-add-a-youtube-video-using-gfm-markdown-for-use-on-github)
+- [Code and Syntax Highlighting](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#code-and-syntax-highlighting)
+    + [How do you add code in-line using markdown (a code span)?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-add-code-in-line-using-markdown-a-code-span)
+    + [How do you add a single grave accent to a code span in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-add-a-single-grave-accent-to-a-code-span-in-markdown)
+    + [How do you add a pre-formatted code block using markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-add-a-pre-formatted-code-block-using-markdown)
+    + [How do you escape a triple-grave enclosed code-block surrounded by another markdown code-block?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-escape-a-triple-grave-enclosed-code-block-surrounded-by-another-markdown-code-block)
+    + [How do you add syntax highlighting to a pre-formatted code block in markdown?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-add-syntax-highlighting-to-a-pre-formatted-code-block-in-markdown)
+    + [How do you add html directly to an markdown file?](https://github.com/dmidlo/weblog/blob/master/Content/FlashcardPrep/githubFlavoredMarkdownFlashcardNotes.md#how-do-you-add-html-directly-to-an-markdown-file)
 
 ***
-# headers
-## How do make headers in markdown?
+# Headings
+## How do you make headers in markdown?
 *By preceding the text with an octothorpe symbol (#) along with a space*
 
 ```markdown
@@ -227,7 +267,7 @@ row 3| *cell a3* |cell b3| _cell c3_
 ```
 __*with the exception of headers `#`, Markdown styling may be applied to cell contents*__
 
-# links
+# Links
 ## How do you create an inline-style link with markdown?
 *by using square brackets `[]` followed by parenthesis`()` using the following syntax:*
 
@@ -251,7 +291,9 @@ __*`[link name](url "hover-over title")`*__
 
 `[link text](#Hypen-Separated-Heading-with-leading-#)`
 
+```
 [How do you create an Anchor link to refer to a section of the current markdown document?](#how-do-you-create-an-anchor-link-to-refer-to-a-section-of-the-current-markdown-document)
+```
 
 ## How do you create a reference-style link using markdown?
 *by using square brackets `[]` instead of parenthesis `()` as the second declaration in the standard markdown link syntax along with a bibliographic reference using square brackets `[]` and a colon `:`*
@@ -288,7 +330,7 @@ __*Feature: Bibilographic references are not displayed in-browser on github*__
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
-## How do you create a relative reference link to a repository file in markdown
+## How do you create a relative reference link to a repository file in markdown?
 *by using dot-slash notation `./dir1/dir2/file.txt` in the paranthetical link definition using standard markdown link syntax*
 
 __*`[Repository File](../dir1/dir2/file.txt)`*__
