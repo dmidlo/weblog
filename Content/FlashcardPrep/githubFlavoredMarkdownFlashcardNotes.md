@@ -290,15 +290,15 @@ __*`` `<h1>Encyclopedia Galactica</h1>` ``*__
 # How do you add a single grave accent to a code span in markdown?
 *by using double-graves with a one-space pad on either side. Pad is only needed in this special case of only one grave accent*
 
-```
+```markdown
 `` ` ``
 
 
 ```
 
-''just one ' grave accent.''
+``just one ` grave accent.``
 
-''a set of 'grave' accents.''
+``a set of `grave` accents.``
 
 # How do you add a pre-formatted code block using markdown?
 
