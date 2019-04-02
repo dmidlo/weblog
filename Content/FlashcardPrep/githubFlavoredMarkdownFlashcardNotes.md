@@ -1,3 +1,5 @@
+![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/416px-Markdown-mark.svg.png)
+
 # How do make headers in markdown?
 *By preceding the text with an octothorpe symbol (#) along with a space*
 
@@ -260,4 +262,26 @@ __*`![alt text](image URL)`*__
 ![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/416px-Markdown-mark.svg.png)
 ```
 
-![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/416px-Markdown-mark.svg.png)
+# How do you add an image link using a bibliographic-style reference in markdown?
+*by using an exclaimation mark `!`, and square brackets `[]` instead of parenthesis `()` as the second declaration in the standard markdown image link syntax along with a bibliographic reference using square brackets `[]` and a colon `:`*
+
+```markdown
+![alt text][Arbitrary case-insensitive reference text]
+
+[Arbitrary case-insensitive reference text]: image URL
+```
+
+__Example:__
+```markdown
+![github logo][wikimedia github logo]
+
+
+[wikimedia github logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/320px-GitHub_logo_2013.svg.png
+
+```
+__*Feature: Bibilographic references are not displayed in-browser on github*__
+
+![github logo][wikimedia github logo]
+
+
+[wikimedia github logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/320px-GitHub_logo_2013.svg.png
