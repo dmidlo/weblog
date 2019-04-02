@@ -4,6 +4,11 @@
 Simply the best set of flashcards for GitHub Flavored Markdown (GFM)
 *GFM is used in many contexts within github, the scope of these cards is limited to GFM markdown syntax that will render in markdown files hosted on github.*
 
+*[More information on GitHub Flavored Markdown](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)*
+
+__Table of Contents__
+
+
 ***
 # headers
 ## How do make headers in markdown?
