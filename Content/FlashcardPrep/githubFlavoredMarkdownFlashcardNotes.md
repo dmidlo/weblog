@@ -303,6 +303,14 @@ __*`` `<h1>Encyclopedia Galactica</h1>` ``*__
 # How do you add a pre-formatted code block using markdown?
 *on the preceding line and following lines of the block, use triple grave accents (backticks) ` ``` `*
 
+````
+```
+    Blazing wintertime
+A deep, clever lake calls
+    Darkening mountain
+```
+````
+
 # How do you add syntax highlighting to a pre-formatted code block in markdown?
 
 
