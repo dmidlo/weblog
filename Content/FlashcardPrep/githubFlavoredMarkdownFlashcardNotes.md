@@ -6,6 +6,7 @@ Simply the best set of flashcards for GitHub Flavored Markdown (GFM).  After mem
 
 *[More information on GitHub Flavored Markdown](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)*
 
+***
 __Table of Contents__
 - [Headings](#headings)
     + [How do you make headers in markdown?](#how-do-you-make-headers-in-markdown)
@@ -51,6 +52,7 @@ __Table of Contents__
 
 ***
 # Headings
+***
 ## How do you make headers in markdown?
 *By preceding the text with an octothorpe symbol (#) along with a space*
 
