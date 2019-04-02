@@ -62,6 +62,7 @@ __Table of Contents__
 ###### This is an h6
 ```
 
+***
 ## What is an alternative way to make headers in markdown?
 *By leveraging an underlining style using hyphens `(----)`` or equals signs `(======) in the line following the header content.*
 
@@ -75,7 +76,10 @@ Alternative H2 Markdown Syntax
 ------------------------------
 ```
 
+***
 # Characters and Styling
+
+***
 ## How do you escape a character in markdown?
 *by using the backslash character preceding the character that is to be escaped (not parsed by the markdown engine.)*
 
@@ -83,6 +87,7 @@ Alternative H2 Markdown Syntax
 this is an \<h1>
 ```
 
+***
 ## How do you place emphasis using italics in markdown?
 *by wrapping content using a set of single asterisks or underscores*
 
@@ -91,6 +96,7 @@ this is an \<h1>
 _This text will also be emphasized with italics_
 ```
 
+***
 ## How do you place strong emphasis using bold in markdown?
 *by wrapping content using a set of double asterisks or underscores*
 
@@ -99,6 +105,7 @@ _This text will also be emphasized with italics_
 __This text will also be emphasized with bold__
 ```
 
+***
 ## How do you combine emphasis (italics) and strong emphasis (bold) using markdown?
 *by following standard html nesting practices*
 
@@ -106,6 +113,7 @@ __This text will also be emphasized with bold__
 Combined emphasis using **bold and _italics_**
 ```
 
+***
 ## How do you strikethrough text in markdown?
 *by wrapping content using a set of double tildes (~\~)*
 
@@ -114,6 +122,7 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 ```
 
 
+***
 ## How do you add a blockquote using markdown?
 *by preceding each line of the quoted text with the right-angle bracket `>` with a single padding space*
 
@@ -131,6 +140,7 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 > lines.
 ```
 
+***
 ## How do you add a horizontal rule using markdown?
 *use three or more hyphens, asterisks, or underscores. `---, ***, ___`*
 
@@ -143,7 +153,10 @@ ___
 yet another section
 ```
 
+***
 # Lists & Tables
+
+***
 ## How do you create an unordered list in markdown?
 *By using an asterisk(\*), minus(\-), or plus (\+) along with a  space preceding the list item*
 
@@ -157,6 +170,7 @@ yet another section
 + list item TheFallOfRome
 ```
 
+***
 ## How do you create a unordered sub-list in markdown?
 *by applying indentation within an unordered list*
 
@@ -169,6 +183,7 @@ yet another section
 * list item pogo-stick
 ```
 
+***
 ## How do you create an ordered list in markdown?
 *by using any number followed by a period `(.)` and a space*
 
@@ -185,6 +200,7 @@ yet another section
 4. are nonsensical
 ```
 
+***
 ## How do you create an ordered sub-list in markdown?
 *by applying indentation within an ordered list along with a sub-list character*
 ```markdown
@@ -203,6 +219,7 @@ yet another section
 4. are nonsensical
 ```
 
+***
 ## How do you add a properly indented paragraph within a list in markdown?
 *by following the indentation defined within the existing list along with line-breaks before and after the paragraph*
 
@@ -228,6 +245,7 @@ yet another section
 4. are nonsensical
 ```
 
+***
 ## How do you create a task list in github flavored markdown?
 *by using a hypen `-` and square brackets with empty space inbetween `[ ]` followed by a list-item's text. Check-Off tasks by adding an x within the brackets*
 
@@ -239,6 +257,7 @@ yet another section
 ```
 __*If using GFM within Github issues, a task list in the first comment of an issue or pull request will provide a cool progress indicator in the issue list*__
 
+***
 ## How do you add a table using github flavored markdown (GFM)?
 *tables require headers. headers are created using a combination of pipe `|` and __at least__ three hypen symbols.`---`. Rows follow the same format and must be placed under the headers*
 
@@ -251,6 +270,7 @@ row 3|cell a3|cell b3|cell c3
 ```
 __*Note that the markdown you write does NOT need to be aligned*__
 
+***
 ## How do you align the columns in a markdown (GFM) table?
 *add a colon `:` to either side or both sides of the tables header dashes*
 
@@ -269,7 +289,10 @@ row 3| *cell a3* |cell b3| _cell c3_
 ```
 __*with the exception of headers `#`, Markdown styling may be applied to cell contents*__
 
+***
 # Links
+
+***
 ## How do you create an inline-style link with markdown?
 *by using square brackets `[]` followed by parenthesis`()` using the following syntax:*
 
@@ -279,6 +302,7 @@ __*`[link name](url)`*__
 [A link to search for answers](https://www.google.com)
 ```
 
+***
 ## How do you create an inline-style link with a hover-over title in markdown?
 *by adding double-quotes `""` to the url portion of the standard markdown link syntax.*
 
@@ -288,6 +312,7 @@ __*`[link name](url "hover-over title")`*__
 [A link to search for answers](https://www.google.com "Google Search")
 ```
 
+***
 ## How do you create an Anchor link to refer to a section of the current markdown document?
 *using basic markdown link syntax, Add a leading octothrope `#` to heading text defined within the markdown file, then add hyphens `-` between the heading words*
 
@@ -297,6 +322,7 @@ __*`[link name](url "hover-over title")`*__
 [How do you create an Anchor link to refer to a section of the current markdown document?](#how-do-you-create-an-anchor-link-to-refer-to-a-section-of-the-current-markdown-document)
 ```
 
+***
 ## How do you create a reference-style link using markdown?
 *by using square brackets `[]` instead of parenthesis `()` as the second declaration in the standard markdown link syntax along with a bibliographic reference using square brackets `[]` and a colon `:`*
 
@@ -332,6 +358,7 @@ __*Feature: Bibilographic references are not displayed in-browser on github*__
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
+***
 ## How do you create a relative reference link to a repository file in markdown?
 *by using dot-slash notation `./dir1/dir2/file.txt` in the paranthetical link definition using standard markdown link syntax*
 
@@ -350,6 +377,7 @@ __*you can likewise use the biblographic reference style to link to repository f
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
+***
 ## How do you link to a Github Issue or Pull request using its RAW URL in markdown?
 *by using the issue's RAW URL in the paranthetical link definition using standard markdown link syntax*
 
@@ -368,6 +396,7 @@ __*you can likewise use the biblographic reference style to link to repository f
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
+***
 ## How do you link to a git commit on github in markdown?
 *by using the commits's RAW URL in the paranthetical link definition using standard markdown link syntax*
 
@@ -389,7 +418,10 @@ __*you can likewise use the biblographic reference style to link to repository f
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
+***
 # Images & Video
+
+***
 ## How do you add an image link in-line using markdown?
 *by using a exclaimation mark `!`, square brackets `[]`, followed by parenthesis`()` using the following syntax:*
 
@@ -399,6 +431,7 @@ __*`![alt text](image URL)`*__
 ![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/416px-Markdown-mark.svg.png)
 ```
 
+***
 ## How do you add an image link using a bibliographic-style reference in markdown?
 *by using an exclaimation mark `!`, and square brackets `[]` instead of parenthesis `()` as the second declaration in the standard markdown image link syntax along with a bibliographic reference using square brackets `[]` and a colon `:`*
 
@@ -418,6 +451,7 @@ __Example:__
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
+***
 ## How do you add a linked image using markdown?
 *simply nest markdown image syntax with the text field of markdown's link syntax*
 
@@ -443,6 +477,7 @@ __*biblographic reference style linking makes this syntax more readable*__
 ```
 
 
+***
 ## How do you add a youtube video using GFM markdown for use on Github?
 *you can't, but you can use a linked image to send the viewer to youtube. `img.youtube.com` serves up video thumbnails*
 
@@ -461,12 +496,16 @@ __*biblographic reference style linking makes this syntax more readable*__
 [R2D2's Secret Message video]: http://www.youtube.com/watch?v=Uj1ykZWtPYI
 
 
+***
 # Code and Syntax Highlighting
+
+***
 ## How do you add code in-line using markdown (a code span)?
 *by wrapping content using a set of grave accents (backticks) `` ` ``*
 
 __*`` `<h1>Encyclopedia Galactica</h1>` ``*__
 
+***
 ## How do you add a single grave accent to a code span in markdown?
 *by using double-graves with a one-space pad on either side. Pad is only needed in this special case of only one grave accent*
 
@@ -480,6 +519,7 @@ __*`` `<h1>Encyclopedia Galactica</h1>` ``*__
 ```
 
 
+***
 ## How do you add a pre-formatted code block using markdown?
 *on the preceding line and following lines of the block, use triple grave accents (backticks) ` ``` `*
 
@@ -491,6 +531,7 @@ A deep, clever lake calls
 ```
 ````
 
+***
 ## How do you escape a triple-grave enclosed code-block surrounded by another markdown code-block?
 *use an outer four-grave pair `` ```` `` and nest triple-graves accourdingly, if you need to escape a four-grave pair, use a five-grave pair. Use this pattern to escape markdown code-blocks ad infinitum*
 
@@ -505,6 +546,7 @@ A deep, clever lake calls
 ``````
 ```````
 
+***
 ## How do you add syntax highlighting to a pre-formatted code block in markdown?
 *by adding a supported language just after the leading triple-grave of the code-block declaration.*
 
@@ -525,6 +567,7 @@ __*` ```html `*__
 ````
 __*GFM uses highlight.js to provide syntax highlighting.  [See the full list of supported languages](https://highlightjs.org/static/demo/)*__
 
+***
 ## How do you add html directly to an markdown file?
 *Since, relative to an html document, the use of markdown implies that we the html elements availble that can be children of the html `<body>` tag.  GFM when rendered on github may only have a subset of html elements available.*
 
