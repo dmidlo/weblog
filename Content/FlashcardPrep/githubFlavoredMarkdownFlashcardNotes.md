@@ -326,5 +326,23 @@ A deep, clever lake calls
 ```````
 
 # How do you add syntax highlighting to a pre-formatted code block in markdown?
+*by adding a supported language just after the leading triple-grave of the code-block declaration.*
 
+__*` ```html `*__
 
+````
+```html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>The Mos Maiorum of the Roman Senate</h1>
+</body>
+</html>
+```
+
+````
+__*GFM uses highlight.js to provide syntax highlighting.  [See the full list of supported languages](https://highlightjs.org/static/demo/)*__
