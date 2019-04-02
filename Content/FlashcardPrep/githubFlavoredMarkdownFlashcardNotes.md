@@ -246,6 +246,8 @@ __*`[link name](url "hover-over title")`*__
 
 `[link text](#Hypen-Separated-Heading-with-leading-#)`
 
+[How do you create an Anchor link to refer to a section of the current markdown document?](#how-do-you-create-an-anchor-link-to-refer-to-a-section-of-the-current-markdown-document)
+
 ## How do you create a reference-style link using markdown?
 *by using square brackets `[]` instead of parenthesis `()` as the second declaration in the standard markdown link syntax along with a bibliographic reference using square brackets `[]` and a colon `:`*
 
