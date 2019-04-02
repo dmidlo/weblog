@@ -64,7 +64,7 @@ __Table of Contents__
 
 ***
 ## What is an alternative way to make headers in markdown?
-*By leveraging an underlining style using hyphens `(----)`` or equals signs `(======) in the line following the header content.*
+*By leveraging an underlining style using hyphens `(----)` or equals signs `(======)` in the line following the header content.*
 
 __*This is limited to `<h1>` and `<h2>`*__
 
@@ -203,6 +203,7 @@ yet another section
 ***
 ## How do you create an ordered sub-list in markdown?
 *by applying indentation within an ordered list along with a sub-list character*
+
 ```markdown
 1. This
 9. is
@@ -247,7 +248,7 @@ yet another section
 
 ***
 ## How do you create a task list in github flavored markdown?
-*by using a hypen `-` and square brackets with empty space inbetween `[ ]` followed by a list-item's text. Check-Off tasks by adding an x within the brackets*
+*by using a hypen `-` and square brackets with empty space inbetween `[ ]` followed by a list-item's text. Check-Off tasks by adding an 'x' within the brackets `- [x]`*
 
 ```markdown
 - [ ] Be sure to include the empty space
@@ -294,7 +295,7 @@ __*with the exception of headers `#`, Markdown styling may be applied to cell co
 
 ***
 ## How do you create an inline-style link with markdown?
-*by using square brackets `[]` followed by parenthesis`()` using the following syntax:*
+*by using square brackets `[]` followed by parenthesis `()` using the following syntax:*
 
 __*`[link name](url)`*__
 
@@ -569,7 +570,7 @@ __*GFM uses highlight.js to provide syntax highlighting.  [See the full list of 
 
 ***
 ## How do you add html directly to an markdown file?
-*Since, relative to an html document, the use of markdown implies that we the html elements availble that can be children of the html `<body>` tag.  GFM when rendered on github may only have a subset of html elements available.*
+*Since, relative to an html document, the use of markdown implies that we the html elements usually availble can be children of the html `<body>` tag.  GFM when rendered on github may only have a subset of html elements available.*
 
 ```markdown
 <dl>
