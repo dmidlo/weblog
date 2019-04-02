@@ -420,7 +420,12 @@ yet another section
 `http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg`
 
 
+```markdown
+[![R2D2's Secret Message image]][R2D2's Secret Message video]
 
+[R2D2's Secret Message image]: http://img.youtube.com/vi/Uj1ykZWtPYI/0.jpg
+[R2D2's Secret Message video]: http://www.youtube.com/watch?v=Uj1ykZWtPYI
+```
 [![R2D2's Secret Message image]][R2D2's Secret Message video]
 
 [R2D2's Secret Message image]: http://img.youtube.com/vi/Uj1ykZWtPYI/0.jpg
