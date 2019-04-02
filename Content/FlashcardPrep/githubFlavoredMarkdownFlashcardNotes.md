@@ -402,5 +402,6 @@ __*with the exception of headers `#`, Markdown styling may be applied to cell co
 </dl>
 ```
 
-
+# How do you add a horizontal rule using markdown?
+*use three or more hyphens, asterisks, or underscores. `---, ***, ___`*
 
