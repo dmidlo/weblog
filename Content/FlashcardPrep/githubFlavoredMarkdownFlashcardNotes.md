@@ -391,3 +391,7 @@ __*with the exception of headers `#`, Markdown styling may be applied to cell co
 > new
 > lines.
 ```
+
+# How do you add html directly to an markdown file?
+*Since, relative to an html document, the use of markdown implies that we the html elements availble that can be children of the html `<body>` tag.  GFM when rendered on github may only have a subset of html elements available*
+
