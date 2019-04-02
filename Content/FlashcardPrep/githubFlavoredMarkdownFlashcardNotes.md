@@ -283,7 +283,7 @@ __Example:__
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
 # How do you add code in-line using markdown?
-*by wrapping content using a set of grave accents (backticks) ``\``*
+*by wrapping content using a set of grave accents (backticks) `\``*
 
 
 # How do you add a pre-formatted code block using markdown?
