@@ -255,3 +255,9 @@ __*Feature: Bibilographic references are not displayed in-browser on github*__
 *by using a exclaimation mark `!`, square brackets `[]`, followed by parenthesis`()` using the following syntax:*
 
 __*`![alt text](image URL)`*__
+
+```markdown
+![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/416px-Markdown-mark.svg.png)
+```
+
+![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/416px-Markdown-mark.svg.png)
