@@ -250,3 +250,8 @@ __*you can likewise use the biblographic reference style to link to repository f
 [c54e551]: https://github.com/dmidlo/weblog/commit/c54e551
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
+
+# How do you add an image link in-line using markdown?
+*by using a exclaimation mark `!`, square brackets `[]`, followed by parenthesis`()` using the following syntax:*
+
+__*`![alt text](image URL)`*__
