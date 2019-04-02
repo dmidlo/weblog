@@ -348,7 +348,7 @@ __*GFM uses highlight.js to provide syntax highlighting.  [See the full list of 
 # How do you add a table using github flavored markdown (GFM)?
 *tables require headers. headers are created using a combination of pipe `|` and at least hypen symbols.`---`*
 
-x | column a | column b | column c
+ | column a | column b | column c
 --- | --- | --- | ---
 row 1 | cell a1 | cell b1 | cell c1
 row 2 | cell a2 | cell b2 | cell c2
