@@ -440,4 +440,4 @@ yet another section
 - [x] Thing to check has been checked
 - [ ] Switch to flip and then flop
 ```
-
+__*If using GFM within Github issues, a task list in the first comment of an issue or pull request will provide a cool progress indicator in the issue list*__
