@@ -1,7 +1,8 @@
 ![github logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/320px-GitHub_logo_2013.svg.png)
 ![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)
 
-# How do make headers in markdown?
+
+## How do make headers in markdown?
 *By preceding the text with an octothorpe symbol (#) along with a space*
 
 ```markdown
@@ -10,7 +11,7 @@
 ###### This is an h6
 ```
 
-# What is an alternative way to make headers in markdown?
+## What is an alternative way to make headers in markdown?
 *By leveraging an underlining style using hyphens `(----)`` or equals signs `(======) in the line following the header content.*
 
 __*This is limited to `<h1>` and `<h2>`*__
@@ -23,14 +24,14 @@ Alternative H2 Markdown Syntax
 ------------------------------
 ```
 
-# How do you escape a character in markdown?
+## How do you escape a character in markdown?
 *by using the backslash character preceding the character that is to be escaped (not parsed by the markdown engine.)*
 
 ```markdown
 this is an \<h1>
 ```
 
-# How do you place emphasis using italics in markdown?
+## How do you place emphasis using italics in markdown?
 *by wrapping content using a set of single asterisks or underscores*
 
 ```Markdown
@@ -38,7 +39,7 @@ this is an \<h1>
 _This text will also be emphasized with italics_
 ```
 
-# How do you place strong emphasis using bold in markdown?
+## How do you place strong emphasis using bold in markdown?
 *by wrapping content using a set of double asterisks or underscores*
 
 ```Markdown
@@ -46,21 +47,21 @@ _This text will also be emphasized with italics_
 __This text will also be emphasized with bold__
 ```
 
-# How do you combine emphasis (italics) and strong emphasis (bold) using markdown?
+## How do you combine emphasis (italics) and strong emphasis (bold) using markdown?
 *by following standard html nesting practices*
 
 ```markdown
 Combined emphasis using **bold and _italics_**
 ```
 
-# How do you strikethrough text in markdown?
+## How do you strikethrough text in markdown?
 *by wrapping content using a set of double tildes (~\~)*
 
 ```markdown
 stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 ```
 
-# How do you create an unordered list in markdown?
+## How do you create an unordered list in markdown?
 *By using an asterisk(\*), minus(\-), or plus (\+) along with a  space preceding the list item*
 
 *__having groups of list symbols (\*, \-, and \+) will create seperate lists__*
@@ -73,7 +74,7 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 + list item TheFallOfRome
 ```
 
-# How do you create a unordered sub-list in markdown?
+## How do you create a unordered sub-list in markdown?
 *by applying indentation within an unordered list*
 
 ```markdown
@@ -85,7 +86,7 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 * list item pogo-stick
 ```
 
-# How do you create an ordered list in markdown?
+## How do you create an ordered list in markdown?
 *by using any number followed by a period `(.)` and a space*
 
 ```markdown
@@ -101,7 +102,7 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 4. are nonsensical
 ```
 
-# How do you create an ordered sub-list in markdown?
+## How do you create an ordered sub-list in markdown?
 *by applying indentation within an ordered list along with a sub-list character*
 ```markdown
 1. This
@@ -119,7 +120,7 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 4. are nonsensical
 ```
 
-# How do you add a properly indented paragraph within a list in markdown?
+## How do you add a properly indented paragraph within a list in markdown?
 *by following the indentation defined within the existing list along with line-breaks before and after the paragraph*
 
 ```markdown
@@ -144,7 +145,7 @@ stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 4. are nonsensical
 ```
 
-# How do you create an inline-style link with markdown?
+## How do you create an inline-style link with markdown?
 *by using square brackets `[]` followed by parenthesis`()` using the following syntax:*
 
 __*`[link name](url)`*__
@@ -153,7 +154,7 @@ __*`[link name](url)`*__
 [A link to search for answers](https://www.google.com)
 ```
 
-# How do you create an inline-style link with a hover-over title in markdown?
+## How do you create an inline-style link with a hover-over title in markdown?
 *by adding double-quotes `""` to the url portion of the standard markdown link syntax.*
 
 __*`[link name](url "hover-over title")`*__
@@ -162,7 +163,7 @@ __*`[link name](url "hover-over title")`*__
 [A link to search for answers](https://www.google.com "Google Search")
 ```
 
-# How do you create a reference-style link using markdown?
+## How do you create a reference-style link using markdown?
 *by using square brackets `[]` instead of parenthesis `()` as the second declaration in the standard markdown link syntax along with a bibliographic reference using square brackets `[]` and a colon `:`*
 
 
@@ -197,7 +198,7 @@ __*Feature: Bibilographic references are not displayed in-browser on github*__
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
-# How do you create a relative reference link to a repository file in markdown
+## How do you create a relative reference link to a repository file in markdown
 *by using dot-slash notation `./dir1/dir2/file.txt` in the paranthetical link definition using standard markdown link syntax*
 
 __*`[Repository File](../dir1/dir2/file.txt)`*__
@@ -215,7 +216,7 @@ __*you can likewise use the biblographic reference style to link to repository f
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
-# How do you link to a Github Issue or Pull request using its RAW URL in markdown?
+## How do you link to a Github Issue or Pull request using its RAW URL in markdown?
 *by using the issue's RAW URL in the paranthetical link definition using standard markdown link syntax*
 
 __*`[#1](https://github.com/user/repo/issues/1)`*__
@@ -233,7 +234,7 @@ __*you can likewise use the biblographic reference style to link to repository f
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
-# How do you link to a git commit on github in markdown?
+## How do you link to a git commit on github in markdown?
 *by using the commits's RAW URL in the paranthetical link definition using standard markdown link syntax*
 
 __*`[commit text](https://github.com/user/repo/commit/hash)`*__
@@ -254,7 +255,7 @@ __*you can likewise use the biblographic reference style to link to repository f
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
-# How do you add an image link in-line using markdown?
+## How do you add an image link in-line using markdown?
 *by using a exclaimation mark `!`, square brackets `[]`, followed by parenthesis`()` using the following syntax:*
 
 __*`![alt text](image URL)`*__
@@ -263,7 +264,7 @@ __*`![alt text](image URL)`*__
 ![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/416px-Markdown-mark.svg.png)
 ```
 
-# How do you add an image link using a bibliographic-style reference in markdown?
+## How do you add an image link using a bibliographic-style reference in markdown?
 *by using an exclaimation mark `!`, and square brackets `[]` instead of parenthesis `()` as the second declaration in the standard markdown image link syntax along with a bibliographic reference using square brackets `[]` and a colon `:`*
 
 ```markdown
@@ -282,7 +283,7 @@ __Example:__
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
-# How do you add a linked image using markdown?
+## How do you add a linked image using markdown?
 *simply nest markdown image syntax with the text field of markdown's link syntax*
 
 ```
@@ -306,12 +307,12 @@ __*biblographic reference style linking makes this syntax more readable*__
 [WhatWG HTML Dev]: https://html.spec.whatwg.org/dev/
 ```
 
-# How do you add code in-line using markdown (a code span)?
+## How do you add code in-line using markdown (a code span)?
 *by wrapping content using a set of grave accents (backticks) `` ` ``*
 
 __*`` `<h1>Encyclopedia Galactica</h1>` ``*__
 
-# How do you add a single grave accent to a code span in markdown?
+## How do you add a single grave accent to a code span in markdown?
 *by using double-graves with a one-space pad on either side. Pad is only needed in this special case of only one grave accent*
 
 ```markdown
@@ -324,7 +325,7 @@ __*`` `<h1>Encyclopedia Galactica</h1>` ``*__
 ```
 
 
-# How do you add a pre-formatted code block using markdown?
+## How do you add a pre-formatted code block using markdown?
 *on the preceding line and following lines of the block, use triple grave accents (backticks) ` ``` `*
 
 ````
@@ -335,7 +336,7 @@ A deep, clever lake calls
 ```
 ````
 
-# How do you escape a triple-grave enclosed code-block surrounded by another markdown code-block?
+## How do you escape a triple-grave enclosed code-block surrounded by another markdown code-block?
 *use an outer four-grave pair `` ```` `` and nest triple-graves accourdingly, if you need to escape a four-grave pair, use a five-grave pair. Use this pattern to escape markdown code-blocks ad infinitum*
 
 ```````
@@ -349,7 +350,7 @@ A deep, clever lake calls
 ``````
 ```````
 
-# How do you add syntax highlighting to a pre-formatted code block in markdown?
+## How do you add syntax highlighting to a pre-formatted code block in markdown?
 *by adding a supported language just after the leading triple-grave of the code-block declaration.*
 
 __*` ```html `*__
@@ -369,7 +370,7 @@ __*` ```html `*__
 ````
 __*GFM uses highlight.js to provide syntax highlighting.  [See the full list of supported languages](https://highlightjs.org/static/demo/)*__
 
-# How do you add a table using github flavored markdown (GFM)?
+## How do you add a table using github flavored markdown (GFM)?
 *tables require headers. headers are created using a combination of pipe `|` and __at least__ three hypen symbols.`---`. Rows follow the same format and must be placed under the headers*
 
 ```markdown
@@ -381,7 +382,7 @@ row 3|cell a3|cell b3|cell c3
 ```
 __*Note that the markdown you write does NOT need to be aligned*__
 
-# How do you align the columns in a markdown (GFM) table?
+## How do you align the columns in a markdown (GFM) table?
 *add a colon `:` to either side or both sides of the tables header dashes*
 
 ```markdown
@@ -399,7 +400,7 @@ row 3| *cell a3* |cell b3| _cell c3_
 ```
 __*with the exception of headers `#`, Markdown styling may be applied to cell contents*__
 
-# How do you add a blockquote using markdown?
+## How do you add a blockquote using markdown?
 *by preceding each line of the quoted text with the right-angle bracket `>` with a single padding space*
 
 ```markdown
@@ -416,7 +417,7 @@ __*with the exception of headers `#`, Markdown styling may be applied to cell co
 > lines.
 ```
 
-# How do you add html directly to an markdown file?
+## How do you add html directly to an markdown file?
 *Since, relative to an html document, the use of markdown implies that we the html elements availble that can be children of the html `<body>` tag.  GFM when rendered on github may only have a subset of html elements available.*
 
 ```markdown
@@ -426,7 +427,7 @@ __*with the exception of headers `#`, Markdown styling may be applied to cell co
 </dl>
 ```
 
-# How do you add a horizontal rule using markdown?
+## How do you add a horizontal rule using markdown?
 *use three or more hyphens, asterisks, or underscores. `---, ***, ___`*
 
 ```markdown
@@ -438,7 +439,7 @@ ___
 yet another section
 ```
 
-# How do you add a youtube video using GFM markdown for use on Github?
+## How do you add a youtube video using GFM markdown for use on Github?
 *you can't, but you can use a linked image to send the viewer to youtube. `img.youtube.com` serves up video thumbnails*
 
 `http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg`
@@ -455,7 +456,7 @@ yet another section
 [R2D2's Secret Message image]: http://img.youtube.com/vi/Uj1ykZWtPYI/0.jpg
 [R2D2's Secret Message video]: http://www.youtube.com/watch?v=Uj1ykZWtPYI
 
-# How do you create a task list in github flavored markdown?
+## How do you create a task list in github flavored markdown?
 *by using a hypen `-` and square brackets with empty space inbetween `[ ]` followed by a list-item's text. Check-Off tasks by adding an x within the brackets*
 
 ```markdown
