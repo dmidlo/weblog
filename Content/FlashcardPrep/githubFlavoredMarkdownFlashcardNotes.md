@@ -432,8 +432,12 @@ yet another section
 [R2D2's Secret Message video]: http://www.youtube.com/watch?v=Uj1ykZWtPYI
 
 # How do you create a task list in github flavored markdown?
-*by using a hypen `-` and square brackets `[]` followed by a list-item's text. Check-Off tasks by adding an x within the brackets*
+*by using a hypen `-` and square brackets with empty space inbetween `[ ]` followed by a list-item's text. Check-Off tasks by adding an x within the brackets*
 
+```markdown
+- [ ] Be sure to include the empty space
+- [x] but no empty space for the 'x'
 - [x] Thing to check has been checked
 - [ ] Switch to flip and then flop
+```
 
