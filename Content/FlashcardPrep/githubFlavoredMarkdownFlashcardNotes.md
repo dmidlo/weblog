@@ -414,3 +414,7 @@ ___
 yet another section
 ```
 
+# How do you add a youtube video using GFM markdown for use on Github?
+*you can't, but you can use a linked image to send the viewer to youtube*
+
+[![R2D2's Secret Message](http://img.youtube.com/vi/Uj1ykZWtPYI/0.jpg)](http://www.youtube.com/watch?v=Uj1ykZWtPYI)
