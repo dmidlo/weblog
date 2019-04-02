@@ -378,8 +378,11 @@ __*with the exception of headers `#`, Markdown styling may be applied to cell co
 # How do you add a blockquote using markdown?
 *by preceding each line of the quoted text with the right-angle bracket `>` with a single padding space*
 
+```markdown
 > Here is something super important.
+```
 
+```markdown
 > Block
 > quotes
 > concatenate to a single line
@@ -387,3 +390,4 @@ __*with the exception of headers `#`, Markdown styling may be applied to cell co
 > with
 > new
 > lines.
+```
