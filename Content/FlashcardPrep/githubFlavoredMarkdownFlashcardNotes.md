@@ -346,7 +346,7 @@ __*` ```html `*__
 __*GFM uses highlight.js to provide syntax highlighting.  [See the full list of supported languages](https://highlightjs.org/static/demo/)*__
 
 # How do you add a table using github flavored markdown (GFM)?
-*tables require headers. headers are created using a combination of pipe `|` and at least hypen symbols.`---`. Rows follow the same format and must be placed under the headers*
+*tables require headers. headers are created using a combination of pipe `|` and __at least__ three hypen symbols.`---`. Rows follow the same format and must be placed under the headers*
 
 ```markdown
   x   | column a  | column b | column c
@@ -355,3 +355,19 @@ row 1 |  cell a1  |   cell b1| cell c1
 row 2 |cell a2    | cell b2  |cell c2
 row 3|cell a3|cell b3|cell c3
 ```
+
+# How do you align the columns in a markdown (GFM) table?
+*add a colon `:` to either side or both sides of the tables header dashes*
+
+```markdown
+:---    left align
+:---:   center align
+---:    right align
+```
+
+
+  x   | left align| Center   | Right align
+---   |   :--------|  :-------: | ---:
+row 1 |  cell a1  |   cell b1| cell c1
+row 2 |cell a2    | cell b2  |cell c2
+row 3|cell a3|cell b3|cell c3
