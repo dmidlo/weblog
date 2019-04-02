@@ -346,11 +346,12 @@ __*` ```html `*__
 __*GFM uses highlight.js to provide syntax highlighting.  [See the full list of supported languages](https://highlightjs.org/static/demo/)*__
 
 # How do you add a table using github flavored markdown (GFM)?
-*tables are created using a combination of pipe `|` and at least hypen symbols.`---`*
+*tables require headers. headers are created using a combination of pipe `|` and at least hypen symbols.`---`*
 
-| x | column a | column b | column c |
-| row 1 | cell a1 | cell b1 | cell c1 |
-| row 2 | cell a2 | cell b2 | cell c2 |
-| row 3 | cell a3 | cell b3 | cell c3 |
+x | column a | column b | column c
+--- | --- | --- | ---
+row 1 | cell a1 | cell b1 | cell c1
+row 2 | cell a2 | cell b2 | cell c2
+row 3 | cell a3 | cell b3 | cell c3
 
 
