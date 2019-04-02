@@ -282,6 +282,36 @@ __Example:__
 ```
 __*Feature: Bibilographic references are not displayed in-browser on github*__
 
+# How do you add a linked image using markdown?
+*simply nest markdown image syntax with the text field of markdown's link syntax*
+
+```
+Inline Link Syntax:
+[link name](url)
+
+Inline Image syntax:
+![alt text](image URL)
+
+Linked Image Syntax:
+[![alt text](image URL)](url)
+```
+
+__*biblographic reference style linking makes this syntax more readable*__
+```markdown
+[![whatwg logo]][WhatWG HTML Dev]
+
+
+[WhatWG logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/WHATWG_logo.svg/240px-WHATWG_logo.svg.png
+
+[WhatWG HTML Dev]: https://html.spec.whatwg.org/dev/
+```
+[![whatwg logo]][WhatWG HTML Dev]
+
+
+[WhatWG logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/WHATWG_logo.svg/240px-WHATWG_logo.svg.png
+
+[WhatWG HTML Dev]: https://html.spec.whatwg.org/dev/
+
 # How do you add code in-line using markdown (a code span)?
 *by wrapping content using a set of grave accents (backticks) `` ` ``*
 
