@@ -288,6 +288,9 @@ __*Feature: Bibilographic references are not displayed in-browser on github*__
 __*`` `<h1>Encyclopedia Galactica</h1>` ``*__
 
 # How do you add a single grave accent to a code span in markdown?
+*by using double-graves with a one-space pad on either side*
+
+`` `` ` `` ``
 
 # How do you add a pre-formatted code block using markdown?
 
