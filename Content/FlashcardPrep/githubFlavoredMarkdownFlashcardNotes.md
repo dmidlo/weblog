@@ -332,7 +332,6 @@ __*` ```html `*__
 
 ````
 ```html
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -343,6 +342,5 @@ __*` ```html `*__
 </body>
 </html>
 ```
-
 ````
 __*GFM uses highlight.js to provide syntax highlighting.  [See the full list of supported languages](https://highlightjs.org/static/demo/)*__
