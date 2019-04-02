@@ -435,5 +435,5 @@ yet another section
 *by using a hypen `-` and square brackets `[]` followed by a list-item's text. Check-Off tasks by adding an x within the brackets*
 
 - [x] Thing to check has been checked
-- [] Switch to flip and then flop
+- [ ] Switch to flip and then flop
 
