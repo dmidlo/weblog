@@ -311,6 +311,16 @@ A deep, clever lake calls
 ```
 ````
 
+# How do you escape a triple-grave enclosed code-block surrounded by another markdown code-block?
+*nest a set ` ``` ` inside of further ` ```s ` by adding additional graves corresponding to the nesting depth*
+
+`````
+````
+```
+```
+````
+`````
+
 # How do you add syntax highlighting to a pre-formatted code block in markdown?
 
 
