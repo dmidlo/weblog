@@ -374,3 +374,14 @@ row 2 |__cell a2__    | `cell b2`        |cell c2
 row 3| *cell a3* |cell b3| _cell c3_
 ```
 __*with the exception of headers `#`, Markdown styling may be applied to cell contents*__
+
+# How do you add a blockquote using markdown?
+*by preceding each line of the quoted text with the right-angle bracket `>` with a single padding space*
+
+> Here is something super important.
+
+> Each
+> line
+> needs
+> its own
+> `>`
