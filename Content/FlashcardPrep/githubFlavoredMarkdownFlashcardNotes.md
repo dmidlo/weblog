@@ -380,8 +380,10 @@ __*with the exception of headers `#`, Markdown styling may be applied to cell co
 
 > Here is something super important.
 
-> Each
-> line
-> needs
-> its own
-> `>`
+> Block
+> quotes
+> concatenate to a single line
+> even
+> with
+> new
+> lines.
