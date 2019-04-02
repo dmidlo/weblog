@@ -305,12 +305,6 @@ __*biblographic reference style linking makes this syntax more readable*__
 
 [WhatWG HTML Dev]: https://html.spec.whatwg.org/dev/
 ```
-[![whatwg logo]][WhatWG HTML Dev]
-
-
-[WhatWG logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/WHATWG_logo.svg/240px-WHATWG_logo.svg.png
-
-[WhatWG HTML Dev]: https://html.spec.whatwg.org/dev/
 
 # How do you add code in-line using markdown (a code span)?
 *by wrapping content using a set of grave accents (backticks) `` ` ``*
