@@ -62,6 +62,36 @@ Combined emphasis using **bold and _italics_**
 stike text by wrapping content using a set of double ~~asterisks~~ tildes. (~~)
 ```
 
+
+## How do you add a blockquote using markdown?
+*by preceding each line of the quoted text with the right-angle bracket `>` with a single padding space*
+
+```markdown
+> Here is important and/or quotable, attention should be drawn here.
+```
+
+```markdown
+> Block
+> quotes
+> concatenate to a single line
+> even
+> with
+> new
+> lines.
+```
+
+## How do you add a horizontal rule using markdown?
+*use three or more hyphens, asterisks, or underscores. `---, ***, ___`*
+
+```markdown
+---
+here is a section
+***
+here is another section
+___
+yet another section
+```
+
 # Lists & Tables
 ## How do you create an unordered list in markdown?
 *By using an asterisk(\*), minus(\-), or plus (\+) along with a  space preceding the list item*
@@ -435,23 +465,6 @@ __*` ```html `*__
 ````
 __*GFM uses highlight.js to provide syntax highlighting.  [See the full list of supported languages](https://highlightjs.org/static/demo/)*__
 
-## How do you add a blockquote using markdown?
-*by preceding each line of the quoted text with the right-angle bracket `>` with a single padding space*
-
-```markdown
-> Here is important and/or quotable, attention should be drawn here.
-```
-
-```markdown
-> Block
-> quotes
-> concatenate to a single line
-> even
-> with
-> new
-> lines.
-```
-
 ## How do you add html directly to an markdown file?
 *Since, relative to an html document, the use of markdown implies that we the html elements availble that can be children of the html `<body>` tag.  GFM when rendered on github may only have a subset of html elements available.*
 
@@ -462,14 +475,3 @@ __*GFM uses highlight.js to provide syntax highlighting.  [See the full list of 
 </dl>
 ```
 
-## How do you add a horizontal rule using markdown?
-*use three or more hyphens, asterisks, or underscores. `---, ***, ___`*
-
-```markdown
----
-here is a section
-***
-here is another section
-___
-yet another section
-```
