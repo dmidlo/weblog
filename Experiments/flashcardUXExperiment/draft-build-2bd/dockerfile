@@ -1,0 +1,12 @@
+FROM node:alpine
+
+EXPOSE 8000
+
+RUN npm install -g gatsby-cli yarn
+
+WORKDIR /app
+COPY ./package.json .
+RUN yarn install && yarn cache clean
+COPY . .
+
+CMD ["gatsby", "develop", "-H", "0.0.0.0" ]
