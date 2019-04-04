@@ -48,15 +48,19 @@
 ## Writing Workflows:
 - Tasks:
     - [ ] Develop a general writing workflow for good use in all domains
+        * Spell Check
         * Readability Test
         * Plain English Testing
         * Broken Link Testing
 
 - Search Queries:
     + [plain english tester]
+- Tools:
+    + [jSpell - Free Online Spell Check]
 
 [plain english tester]: https://www.google.com/search?q=plain+english+tester&oq=plain+english+tester&aqs=chrome..69i57.12744j0j1&sourceid=chrome&ie=UTF-8
 
+[jSpell - Free Online Spell Check]: https://www.jspell.com/public-spell-checker.html
 
 ## Git workflow:
 - Tasks:
@@ -96,3 +100,21 @@
 
 [interviewing.io]: https://interviewing.io/
 [interviewing.io video samples]: https://interviewing.io/recordings/
+
+## Mac OS UX design Challenge:
+- Search Queries:
+    + [macos interface development sip - Google Search]
+- Adjacent Technologies:
+    + [Spaces-Renamer]
+        * [mySIMBL Open-Source Plugin Manager]
+- References:
+    + [How can I name desktops/spaces in El Capitan?]
+
+
+[macos interface development sip - Google Search]: https://www.google.com/search?ei=XzykXJiEMc2-tQXy3YDIAQ&q=macos+interface+development+sip&oq=macos+interface+development+sip&gs_l=psy-ab.3..35i39.41974.45041..46650...2.0..0.1110.3589.5-1j1j2......0....1..gws-wiz.......0i71j35i304i39.J-S5DllGQ4U
+
+[Spaces-Renamer]: https://github.com/dado3212/spaces-renamer
+
+[mySIMBL Open-Source Plugin Manager]: https://github.com/w0lfschild/mySIMBL
+
+[How can I name desktops/spaces in El Capitan?]: https://apple.stackexchange.com/questions/211954/how-can-i-name-desktops-spaces-in-el-capitan
