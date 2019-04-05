@@ -267,14 +267,41 @@
 - philosophy
     + [American Atheists]
     + [Minnesota Atheists]
+        * [Minnesota Atheists - Facebook]
+        * [Minnesota Atheists - Twitter]
+        * [Minnesota Atheists - Meetup]
+        * [Minnesota Atheists - Instagram]
+        * [Minnesota Atheists - Youtube]
     + [Campus Atheists, Secularists, & Humanists]
     + [American Ethical Union]
+    + [American Humanist Association]
+    + [Humanists of Minnesota]
+        * [Humanists of Minnesota - Meetup]
+        * [Humanists of Minnesota - Facebook]
 
 
 [American Atheists]: https://www.atheists.org/
+
+[American Humanist Association]: https://americanhumanist.org/
 
 [American Ethical Union]: https://aeu.org/
 
 [Minnesota Atheists]: http://mnatheists.org
 
+[Minnesota Atheists - Facebook]: https://www.facebook.com/MinnesotaAtheists
+
+[Minnesota Atheists - Twitter]: https://twitter.com/MNAtheists
+
+[Minnesota Atheists - Meetup]: https://www.meetup.com/MinnesotaAtheists/
+
+[Minnesota Atheists - Instagram]: https://www.instagram.com/MinnesotaAtheists/
+
+[Minnesota Atheists - Youtube]: https://www.youtube.com/channel/UCZWW_uSNS4JNunIj-KgUztA
+
 [Campus Atheists, Secularists, & Humanists]: http://cashumn.org
+
+[Humanists of Minnesota]: https://humanistsofmn.org
+
+[Humanists of Minnesota - Meetup]: https://www.meetup.com/humanism-166/
+
+[Humanists of Minnesota - Facebook]: https://www.facebook.com/HumanistsOfMinnesota/
