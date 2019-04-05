@@ -16,6 +16,8 @@
         * [Do Not Confuse User Experience with Customer Experience - UsabilityGeek]
         * [User Experience and Customer Experience what's the Difference? - Interaction Design Foundation]
         * [User Experience (UX) vs. Customer Experience (CX): What's the Dif?]
+    + SEO:
+        * [<h1> best practices]
 
 [Customer Experience vs. User Experience: Why the Difference Matters - uxpin]: https://www.uxpin.com/studio/blog/customer-experience-vs-user-experience-why-the-difference-matters/
 
@@ -25,6 +27,7 @@
 
 [User Experience (UX) vs. Customer Experience (CX): What's the Dif?]: https://digital.gov/2014/07/07/user-experience-ux-vs-customer-experience-cx-whats-the-dif/
 
+[<h1> best practices]: https://www.google.com/search?q=%3Ch1%3E+best+practices&rlz=1CDGOYI_enUS590US590&oq=%3Ch1%3E+best+practices&aqs=chrome..69i57.21669j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 
 ***
 ## Book Reviewing & Reading Well.
@@ -39,12 +42,14 @@
 
 [Inspectional Book Review Template]: projects/weblog/Content/BookStudies/InspectionalBookReviewTemplate.md
 
+***
 ## CSS Workflows:
 - References:
     + [Css Tricks - CSS Houdini]
 
 [Css Tricks - CSS Houdini]: https://css-tricks.com/css-houdini-could-change-the-way-we-write-and-manage-css/
 
+***
 ## Writing Workflows:
 - Tasks:
     - [ ] Develop a general writing workflow for good use in all domains
@@ -62,17 +67,23 @@
 
 [jSpell - Free Online Spell Check]: https://www.jspell.com/public-spell-checker.html
 
+***
 ## Git workflow:
 - Tasks:
     - [ ] Create git flashcards:
         * [How to retrieve the hash for current commit in Git?]
 - References:
     + [Creating Releases - GitHub]
+- Queries:
+    + [git branching - google search]
 
 [How to retrieve the hash for current commit in Git?]: https://stackoverflow.com/questions/949314/how-to-retrieve-the-hash-for-the-current-commit-in-git 
 
 [Creating Releases - GitHub]: https://help.github.com/en/articles/creating-releases
 
+[git branching - google search]: https://www.google.com/search?q=git+branching&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=ivn&source=lnms&tbm=vid&sa=X&ved=2ahUKEwju2YvyvpfhAhWDnoMKHaTQBV4Q_AUoAnoECGYQAg&biw=414&bih=616
+
+***
 ## Flashcard Web App:
 - Features:
     + localStorage
@@ -94,6 +105,7 @@
 
 [git as a backend]: https://www.google.com/search?q=git+as+a+backend&oq=git+as+a+backend&aqs=chrome..69i57j69i64.2784j0j1&sourceid=chrome&ie=UTF-8
 
+***
 ## Dev Interview Podcast
 - Interviewing
     + Interviewing Practicum Research
@@ -105,6 +117,7 @@
 [interviewing.io]: https://interviewing.io/
 [interviewing.io video samples]: https://interviewing.io/recordings/
 
+***
 ## Mac OS UX design Challenge:
 - Search Queries:
     + [macos interface development sip - Google Search]
@@ -122,3 +135,146 @@
 [mySIMBL Open-Source Plugin Manager]: https://github.com/w0lfschild/mySIMBL
 
 [How can I name desktops/spaces in El Capitan?]: https://apple.stackexchange.com/questions/211954/how-can-i-name-desktops-spaces-in-el-capitan
+
+***
+## Sublime Text
+- Plugins:
+    + Installation:
+        * [Sublime Package Control "SublPC"]
+    + Snippets and Code Style:
+        * [Emmet - SublPC]
+        * [Alignment - SublPC]
+            - [How to install & use Sublime Alignment - Scott Granneman]
+    + Git Integration:
+        * [SublimeGit - SublPC]
+            - [SublimeGit Documentation]
+        * [GitGutter - SublPC]
+        * [GitHubinator - SublPC]
+        * [GitOpenChangedFiles - SublPC]
+    + Linters and Syntax Highlighting:
+        * [SublimeLinter - SublPC]
+        * [ChangeQuotes - SublPC]
+        * [SASS - SublPC]
+        * [Babel - SublPC]
+        * [Siteleaf Liquid Syntax - SublPC]
+    + Editor Enchancements:
+        * [SidebarEnhancements - SublPC]
+        * [Maybs Quit - SublPC]
+        * [AutoFileName - SublPC]
+        * [View In Browser - SublPC]
+        * [GhostText - SublPC]
+        * [BracketHighlighter - SublPC]
+        * [Gutter Color - SublPC]
+        * [ColorPicker - SublPC]
+        * [A File Icon - SublPC]
+        * [Colorsublime - SublPC]
+        * [Emoji - SublPC]
+- Resources:
+    + [Popular Packages - SublPC]
+
+
+[Sublime Package Control "SublPC"]: https://packagecontrol.io/installation
+
+[Popular Packages - SublPC]: https://packagecontrol.io/browse/popular
+
+[Emmet - SublPC]: https://packagecontrol.io/packages/Emmet
+
+[Alignment - SublPC]: https://packagecontrol.io/packages/Alignment
+
+[How to install & use Sublime Alignment - Scott Granneman]: https://www.granneman.com/webdev/editors/sublime-text/packages/how-to-install-and-use-sublime-alignment
+
+[SublimeGit - SublPC]: https://packagecontrol.io/packages/SublimeGit
+
+[SublimeGit Documentation]: https://sublimegit.readthedocs.io/en/latest/
+
+[GitGutter - SublPC]: https://packagecontrol.io/packages/GitGutter
+
+[GitHubinator - SublPC]: https://packagecontrol.io/packages/GitHubinator
+
+[GitOpenChangedFiles - SublPC]: https://www.shopify.com/partners/blog/sublime-text-plugins-2018
+
+[SublimeLinter - SublPC]: https://packagecontrol.io/packages/SublimeLinter
+
+[ChangeQuotes - SublPC]: https://packagecontrol.io/packages/ChangeQuotes
+
+[SASS - SublPC]: https://packagecontrol.io/packages/Sass
+
+[Babel - SublPC]: https://packagecontrol.io/packages/Babel
+
+[Siteleaf Liquid Syntax - SublPC]: https://packagecontrol.io/packages/Siteleaf%20Liquid%20Syntax
+
+[SidebarEnhancements - SublPC]: https://packagecontrol.io/packages/SideBarEnhancements
+
+[Maybs Quit - SublPC]: https://packagecontrol.io/packages/Maybs%20Quit
+
+[AutoFileName - SublPC]: https://packagecontrol.io/packages/AutoFileName
+
+[View In Browser - SublPC]: https://packagecontrol.io/packages/View%20In%20Browser
+
+[GhostText - SublPC]: https://packagecontrol.io/packages/GhostText
+
+[BracketHighlighter - SublPC]: https://packagecontrol.io/packages/BracketHighlighter
+
+[Gutter Color - SublPC]: https://packagecontrol.io/packages/Gutter%20Color
+
+[ColorPicker - SublPC]: https://packagecontrol.io/packages/ColorPicker
+
+[A File Icon - SublPC]: https://packagecontrol.io/packages/A%20File%20Icon
+
+[Colorsublime - SublPC]: https://packagecontrol.io/packages/Colorsublime
+
+[Emoji - SublPC]: https://packagecontrol.io/packages/Emoji
+
+
+***
+## Illstration & Drawing Practice
+- References:
+    + [CSA Image Archive]
+
+[CSA Image Archive]: https://www.csaimages.com/
+## Professional Certification:
+- Development:
+    + [MCSD: App Builder]
+    + [CIW - Web and Mobile Design Series]
+    + [Google Developers Certification]
+    + [CancanIT - HTML5 Certification]
+    + [Star HTML Certification]
+
+
+[MCSD: App Builder]: https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx
+
+[CIW - Web and Mobile Design Series]: https://www.ciwcertified.com/ciw-certifications/web-and-mobile-design-series
+
+[Google Developers Certification]: https://developers.google.com/training/certification/
+
+[CancanIT - HTML5 Certification]: https://cancanit.com/html5-certification/
+
+[Star HTML Certification]: https://www.starcertification.org/Certifications/Certificate/html
+## Drfting your first Portfile (MacPorts)
+- References:
+- Queries:
+    + [MacPorts Portfile Tutorial NPM - Google Search]
+
+[MacPorts Portfile Tutorial NPM - Google Search]: https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=LbqVXIyJOu_ZjgSmiJfYBA&q=macports+portfile+tutorial+npm&oq=macports+portfile+tutorial+npm&gs_l=mobile-gws-wiz-serp.3...114247.115787..116798...0.0..0.321.1099.2-2j2......0....1.........0i71j33i160j33i22i29i30.JaneooqbpI0
+
+
+## Formal Education Requirements
+- Pre-Classroom Prep
+    + [College Level Examination Program (CLEP Testing) - Anoka Ramsey Community College]
+
+[College Level Examination Program (CLEP Testing) - Anoka Ramsey Community College]: https://www.anokaramsey.edu/resources/testing-services/clep-testing/
+## Community & Volunteer Opportunities:
+- philosophy
+    + [American Atheists]
+    + [Minnesota Atheists]
+    + [Campus Atheists, Secularists, & Humanists]
+    + [American Ethical Union]
+
+
+[American Atheists]: https://www.atheists.org/
+
+[American Ethical Union]: https://aeu.org/
+
+[Minnesota Atheists]: http://mnatheists.org
+
+[Campus Atheists, Secularists, & Humanists]: http://cashumn.org
