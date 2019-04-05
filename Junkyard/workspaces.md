@@ -92,20 +92,33 @@
 - Tasks:
     - [ ] Create Flashcards for Docker
         * [Dockerfile reference]
+        * [My Docker Setup For GatsbyJS (and NextJS) - Daniel Stout]
     - [ ] Create Flashcards for GatsbyJS
-        * 
+        - [ ] [Set Up Your Development Environment - GatsbyJS]
+        - [ ] [Get to know Gatsby Building Blocks - GatsbyJs]
+        - [ ] [Introduction to Styling in Gatsby - GatsbyJS]
+        - [ ] [Creating Nested Layout Components - GatsbyJS]
+        - [ ] [Data in Gatsby - GatsbyJs]
+        - [ ] [Source Plugins - GatsbyJs]
+        - [ ] [Transformer Plugins - GatsbyJs]
+        - [ ] [Programmatically create pages from data - GatsbyJs]
 - Features:
     + localStorage
         * [Create an interactive form in html localStorage - Google Search]
         * [Using HTML5 localStorage on a form - Thomas Hardy]
     + git as a backend for card objects
         * [git as a backend]
+    + Meets Accesibility Standards:
+        * [gatsby-plugin-react-a11y]
 - Documents:
     + projects/weblog/Experiments/flashcardUXExperiment/
     + Sketch:
         * Layout - Flashcard App.sketch
 - Data Sets:
     + projects/weblog/Content/FlashcardPrep/markdown/gfm/
+- References:
+    + [Gatsby-Docker - GatsbyJS]
+    + [Awesome Gatsby Resources - GatsbyJS]
 
 
 [Using HTML5 localStorage on a form - Thomas Hardy]: http://www.thomashardy.me.uk/using-html5-localstorage-on-a-form
@@ -115,6 +128,30 @@
 [git as a backend]: https://www.google.com/search?q=git+as+a+backend&oq=git+as+a+backend&aqs=chrome..69i57j69i64.2784j0j1&sourceid=chrome&ie=UTF-8
 
 [Dockerfile reference]: https://docs.docker.com/engine/reference/builder/
+
+[gatsby-plugin-react-a11y]: https://www.gatsbyjs.org/packages/gatsby-plugin-react-a11y/?=a11y
+
+[Set Up Your Development Environment - GatsbyJS]: https://www.gatsbyjs.org/tutorial/part-zero/
+
+[Get to know Gatsby Building Blocks - GatsbyJs]: https://www.gatsbyjs.org/tutorial/part-one/
+
+[Introduction to Styling in Gatsby - GatsbyJS]: https://www.gatsbyjs.org/tutorial/part-two/
+
+[Creating Nested Layout Components - GatsbyJS]: https://www.gatsbyjs.org/tutorial/part-three/
+
+[Data in Gatsby - GatsbyJs]: https://www.gatsbyjs.org/tutorial/part-four/
+
+[Source Plugins - GatsbyJs]: https://www.gatsbyjs.org/tutorial/part-five/
+
+[Transformer Plugins - GatsbyJs]: https://www.gatsbyjs.org/tutorial/part-six/
+
+[Programmatically create pages from data - GatsbyJs]: https://www.gatsbyjs.org/tutorial/part-seven/
+
+[Gatsby-Docker - GatsbyJS]: https://github.com/gatsbyjs/gatsby-docker
+
+[My Docker Setup For GatsbyJS (and NextJS) - Daniel Stout]: https://dev.to/stoutlabs/my-docker-setup-for-gatsbyjs-and-nextjs-5gao
+
+[Awesome Gatsby Resources - GatsbyJS]: https://www.gatsbyjs.org/docs/awesome-gatsby/
 
 ***
 ## Dev Interview Podcast
@@ -362,7 +399,7 @@
     + In the bottom left corner click 'edit'
     + At the top of the box that opens, click 'cards...'
     + Then click 'flip'
-    + __*Note:*__ *this can only be done from the Anki Desktop*
+    + __*Note*__: *this can only be done from the Anki Desktop*
 
 
 
