@@ -350,13 +350,13 @@
 
 
 ## Anki Notes
-- [How do you flip cards for review?]
+- [How do you flip cards for review?][Can anyone explain how to reverse decks in Anki 2.0 so I see the English first?]
     + Click 'Decks' and select which deck you want to reverse and click 'study now'
     + In the bottom left corner click 'edit'
     + At the top of the box that opens, click 'cards...'
     + Then click 'flip'
     + __*Note:*__ *this can only be done from the Anki Desktop*
 
-[How do you flip cards for review?]: [Can anyone explain how to reverse decks in Anki 2.0 so I see the English first?]
+
 
 [Can anyone explain how to reverse decks in Anki 2.0 so I see the English first?]: https://www.reddit.com/r/LearnJapanese/comments/1b0494/can_anyone_explain_how_to_reverse_decks_in_anki/
