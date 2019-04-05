@@ -18,6 +18,8 @@
         * [User Experience (UX) vs. Customer Experience (CX): What's the Dif?]
     + SEO:
         * [<h1> best practices]
+- Inspiration:
+    + [Onboarding Workflow - checklist.design]
 
 [Customer Experience vs. User Experience: Why the Difference Matters - uxpin]: https://www.uxpin.com/studio/blog/customer-experience-vs-user-experience-why-the-difference-matters/
 
@@ -28,6 +30,8 @@
 [User Experience (UX) vs. Customer Experience (CX): What's the Dif?]: https://digital.gov/2014/07/07/user-experience-ux-vs-customer-experience-cx-whats-the-dif/
 
 [<h1> best practices]: https://www.google.com/search?q=%3Ch1%3E+best+practices&rlz=1CDGOYI_enUS590US590&oq=%3Ch1%3E+best+practices&aqs=chrome..69i57.21669j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+
+[Onboarding Workflow - checklist.design]: https://www.checklist.design/pages/onboarding
 
 ***
 ## Book Reviewing & Reading Well.
@@ -278,6 +282,16 @@
     + [Humanists of Minnesota]
         * [Humanists of Minnesota - Meetup]
         * [Humanists of Minnesota - Facebook]
+    + [Secular Directory - Local]
+    + [The Secular Web]
+    + [United Coalition of Reason - UnitedCOR]
+    + [Unitarian Universalists Humanist Association]
+    + [First Unitarian Society of Minneapolis]
+        * [First Unitarian Society of Minneapolis - Podcast]
+    + [Sunday Assembly - Minneapolis / St Paul]
+        * [Sunday Assembly - Minneapolis / St Paul - Twitter]
+        * [Sunday Assembly - Minneapolis / St Paul - Facebook]
+        * [Sunday Assembly - Minneapolis / St Paul - Meetup]
 
 
 [American Atheists]: https://www.atheists.org/
@@ -305,3 +319,44 @@
 [Humanists of Minnesota - Meetup]: https://www.meetup.com/humanism-166/
 
 [Humanists of Minnesota - Facebook]: https://www.facebook.com/HumanistsOfMinnesota/
+
+[Secular Directory - Local]: https://seculardirectory.org/local/
+
+[The Secular Web]: https://infidels.org/
+
+[United Coalition of Reason - UnitedCOR]: https://unitedcor.org/
+
+[Unitarian Universalists Humanist Association]: http://huumanists.org/
+
+[First Unitarian Society of Minneapolis]: https://firstunitarian.org/
+
+[First Unitarian Society of Minneapolis - Podcast]: https://itunes.apple.com/us/podcast/first-unitarian-society-minneapolis/id783851085?mt=2
+
+[Sunday Assembly - Minneapolis / St Paul]: http://msp.sundayassembly.com/
+
+[Sunday Assembly - Minneapolis / St Paul - Twitter]: https://twitter.com/SunAssemblyMSP
+
+[Sunday Assembly - Minneapolis / St Paul - Facebook]: https://www.facebook.com/SundayAssemblyMSP
+
+[Sunday Assembly - Minneapolis / St Paul - Meetup]: https://www.meetup.com/SundayAssemblyMSP/
+## Sleep & Waking
+- References:
+    + [11 Weird Ways to Wake Yourself Up ASAP, Because Being Tired is the Worst - Bustle]
+    + [The Military Secret to Falling Asleep in Two Minutes - Independent]
+
+[11 Weird Ways to Wake Yourself Up ASAP, Because Being Tired is the Worst - Bustle]: https://www.bustle.com/articles/180193-11-weird-ways-to-wake-yourself-up-asap-because-being-tired-is-the-worst
+
+[The Military Secret to Falling Asleep in Two Minutes - Independent]: https://www.independent.co.uk/life-style/national-napping-day-2019-fall-asleep-fast-military-trick-sleep-a8817826.html?amp
+
+
+## Anki Notes
+- [How do you flip cards for review?]
+    + Click 'Decks' and select which deck you want to reverse and click 'study now'
+    + In the bottom left corner click 'edit'
+    + At the top of the box that opens, click 'cards...'
+    + Then click 'flip'
+    + __*Note:*__ *this can only be done from the Anki Desktop*
+
+[How do you flip cards for review?]: [Can anyone explain how to reverse decks in Anki 2.0 so I see the English first?]
+
+[Can anyone explain how to reverse decks in Anki 2.0 so I see the English first?]: https://www.reddit.com/r/LearnJapanese/comments/1b0494/can_anyone_explain_how_to_reverse_decks_in_anki/
