@@ -66,8 +66,12 @@
 - Tasks:
     - [ ] Create git flashcards:
         * [How to retrieve the hash for current commit in Git?]
+- References:
+    + [Creating Releases - GitHub]
 
 [How to retrieve the hash for current commit in Git?]: https://stackoverflow.com/questions/949314/how-to-retrieve-the-hash-for-the-current-commit-in-git 
+
+[Creating Releases - GitHub]: https://help.github.com/en/articles/creating-releases
 
 ## Flashcard Web App:
 - Features:
