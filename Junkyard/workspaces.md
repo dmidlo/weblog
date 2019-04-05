@@ -8,11 +8,16 @@
     + OmniOutliner:
         * Business Role Hierarchy
         * User Experience Checklist
+    + Google Sheets
+        * [Project Workflows - Google Sheets]
 - Deliverables:
     + OmniPlan Time Estimates (Project Template):
 - References:
     + Project Management:
         * [The History of Projet Management - Activia]
+        * [A Brief History of Project Management - Duncan Haughey]
+        * [A Brief History of Project Management - Jeff Collins]
+        * [History of Project Management - Jason Westland]
         * [A History of Ancient Project Management - From Mesopotamia to the Roman Empire - Y.C. Chiu]
     + CX/UX:
         * [Customer Experience vs. User Experience: Why the Difference Matters - uxpin]
@@ -43,6 +48,14 @@
 [The History of Projet Management - Activia]: https://www.activia.co.uk/project-management/resources/history-of-project-management
 
 [A History of Ancient Project Management - From Mesopotamia to the Roman Empire - Y.C. Chiu]: https://www.amazon.com/dp/B005AXV52E/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+[A Brief History of Project Management - Duncan Haughey]: https://www.projectsmart.co.uk/brief-history-of-project-management.php
+
+[History of Project Management - Jason Westland]: https://www.projectmanager.com/blog/history-project-management
+
+[A Brief History of Project Management - Jeff Collins]: https://www.ims-web.com/blog/a-brief-history-of-project-management
+
+[Project Workflows - Google Sheets]: https://docs.google.com/spreadsheets/d/1UJi1Ktky3Ev8pnTs_jUbrRMRcg0dTsX2IAsmyX1v00g/edit#gid=0
 
 ***
 ## Book Reviewing & Reading Well.
@@ -89,14 +102,23 @@
         * [How to retrieve the hash for current commit in Git?]
 - References:
     + [Creating Releases - GitHub]
+    + 
 - Queries:
     + [git branching - google search]
+    + [git submodules - google search]
+    + [Git Tools - Submodules - git-scm.com]
+
+
 
 [How to retrieve the hash for current commit in Git?]: https://stackoverflow.com/questions/949314/how-to-retrieve-the-hash-for-the-current-commit-in-git 
 
 [Creating Releases - GitHub]: https://help.github.com/en/articles/creating-releases
 
 [git branching - google search]: https://www.google.com/search?q=git+branching&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=ivn&source=lnms&tbm=vid&sa=X&ved=2ahUKEwju2YvyvpfhAhWDnoMKHaTQBV4Q_AUoAnoECGYQAg&biw=414&bih=616
+
+[git submodules - google search]: https://www.google.com/search?ei=6cemXL6qLo-9jwSO9aSYCQ&q=git+submodules&oq=git+submodules&gs_l=psy-ab.3..0i71l8.25441.26013..26413...0.0..0.714.714.6-1......0....1..gws-wiz.ZzPHTbsZRHI
+
+[Git Tools - Submodules - git-scm.com]: https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
 ***
 ## Flashcard Web App:
@@ -130,6 +152,19 @@
 - References:
     + [Gatsby-Docker - GatsbyJS]
     + [Awesome Gatsby Resources - GatsbyJS]
+    + [ShowdownJS]
+        * [Showdown Editor - Demo]
+        * [Showdownjs - GitHub]
+- Search Queries:
+    + [Javascript Markdown Parser - Google Search]
+    + [flipcard - codepen]
+- Inspiration:
+    + Code:
+        * [Flippable flash cards - flip on click - brian]
+        * [Flashcard App - Samir Poonawala]
+        * [Flashcards with ES6 - Christina Deemer]
+        * [Simple Flashcards with JS/HTML - Thom Pennington]
+        * [CSS Flashcard - Lauren]
 
 
 [Using HTML5 localStorage on a form - Thomas Hardy]: http://www.thomashardy.me.uk/using-html5-localstorage-on-a-form
@@ -164,6 +199,26 @@
 
 [Awesome Gatsby Resources - GatsbyJS]: https://www.gatsbyjs.org/docs/awesome-gatsby/
 
+[ShowdownJS]: http://showdownjs.com/
+
+[Showdown Editor - Demo]: http://demo.showdownjs.com/
+
+[Showdownjs - GitHub]: https://github.com/showdownjs/showdown
+
+[Javascript Markdown Parser - Google Search]: https://www.google.com/search?q=javascript+markdown+parser&oq=javascript+markdown+parser&aqs=chrome..69i57.4640j0j1&sourceid=chrome&ie=UTF-8
+
+[Flippable flash cards - flip on click - brian]: https://codepen.io/brianwik/pen/vNNRLP
+
+[Flashcard App - Samir Poonawala]: https://codepen.io/samirpoonawala/pen/BMwRwo
+
+[Flashcards with ES6 - Christina Deemer]: https://codepen.io/cahdeemer/pen/oJdzRa
+
+[flipcard - codepen]: https://codepen.io/search/pens?q=flipcard&page=3&order=popularity&depth=everything
+
+[Simple Flashcards with JS/HTML - Thom Pennington]: https://codepen.io/minauteur/pen/GqzJKk?editors=0010
+
+[CSS Flashcard - Lauren]: https://codepen.io/phantomesse/pen/uGHxn
+
 ***
 ## Dev Interview Podcast
 - Interviewing
@@ -178,13 +233,21 @@
 
 ***
 ## Mac OS UX design Challenge:
+- Name: "Aria Desktop"
+    + "Aria" is simply a psuedo-homonymn of "Area"
+        * Aria Desktop's Main feature is to allow placing desktops in groups in the mission control UI, Naming them and the groups, and providing features related to an integrative experience around "Arias"
 - Search Queries:
     + [macos interface development sip - Google Search]
+    + [what apis are available by disabling SIP on macOS]
 - Adjacent Technologies:
     + [Spaces-Renamer]
         * [mySIMBL Open-Source Plugin Manager]
+    + [TotalSpaces-api - binaryage]
+    + [Ubersicht]
+        * [Ubersicht - Widgets]
 - References:
     + [How can I name desktops/spaces in El Capitan?]
+    + [Improve Productivity With Virtual Desktops From TotalSpaces2 - Harry Guinness]
 
 
 [macos interface development sip - Google Search]: https://www.google.com/search?ei=XzykXJiEMc2-tQXy3YDIAQ&q=macos+interface+development+sip&oq=macos+interface+development+sip&gs_l=psy-ab.3..35i39.41974.45041..46650...2.0..0.1110.3589.5-1j1j2......0....1..gws-wiz.......0i71j35i304i39.J-S5DllGQ4U
@@ -194,6 +257,16 @@
 [mySIMBL Open-Source Plugin Manager]: https://github.com/w0lfschild/mySIMBL
 
 [How can I name desktops/spaces in El Capitan?]: https://apple.stackexchange.com/questions/211954/how-can-i-name-desktops-spaces-in-el-capitan
+
+[Improve Productivity With Virtual Desktops From TotalSpaces2 - Harry Guinness]: https://computers.tutsplus.com/tutorials/improve-productivity-with-virtual-desktops-from-totalspaces2--mac-59731
+
+[TotalSpaces-api - binaryage]: https://github.com/binaryage/totalspaces-api
+
+[what apis are available by disabling SIP on macOS]: https://www.google.com/search?q=what+apis+are+available+by+disabling+SIP+mac+os&oq=what+apis+are+available+by+disabling+SIP+mac+os&aqs=chrome..69i57.14583j0j1&sourceid=chrome&ie=UTF-8
+
+[Ubersicht]: http://tracesof.net/uebersicht/
+
+[Ubersicht - Widgets]: http://tracesof.net/uebersicht-widgets/
 
 ***
 ## Sublime Text
@@ -313,7 +386,7 @@
 [Star HTML Certification]: https://www.starcertification.org/Certifications/Certificate/html
 
 ***
-## Drfting your first Portfile (MacPorts)
+## Drafting your first Portfile (MacPorts)
 - References:
 - Queries:
     + [MacPorts Portfile Tutorial NPM - Google Search]
@@ -504,3 +577,76 @@
 [First Contributions - GitHub]: https://github.com/firstcontributions/first-contributions
 
 [Awesome for Beginners - Github]: https://github.com/MunGell/awesome-for-beginners
+
+
+***
+## History
+- [Governance and the Magna Carta - Pat Weaver]
+
+[Governance and the Magna Carta - Pat Weaver]: https://mosaicprojects.wordpress.com/tag/history-of-project-management/
+
+
+***
+## Job Hunting
+- tools:
+    + [launchmaps.com]
+
+[launchmaps.com]: https://launchmaps.com/
+
+***
+## Lead Generation
+
+***
+## UX Design Challenge - Random Business Generator
+- Inspiration:
+    + [Hipster Business Name Generator]
+    + [Crazy Namer]
+    + [NameMesh]
+    + [Fake Company Name Generator - fauxid]
+    + [Business Name Generator - Shopify]
+    + [Brand Name Generator - NetSubstance]
+    + [Free Online Naming - naming.net]
+    + [Keyword Domains Generator - namestation.com]
+    + [namesmith.io]
+    + [Business Name Generator - businessnamegenerator.com]
+
+[Hipster Business Name Generator]: http://www.hipsterbusiness.name/
+
+[Crazy Namer]: http://www.crazynamer.com/
+
+[NameMesh]: https://www.namemesh.com/company-name-generator
+
+[Fake Company Name Generator - fauxid]: https://fauxid.com/tools/fake-company-generator
+
+[Business Name Generator - Shopify]: https://www.shopify.com/tools/business-name-generator
+
+[Brand Name Generator - NetSubstance]: http://www.netsubstance.com/
+
+[Free Online Naming - naming.net]: http://www.naming.net/
+
+[Keyword Domains Generator - namestation.com]: https://namestation.com/domain-search/keyworddomains
+
+[namesmith.io]: https://namesmith.io/ideas/summary
+
+[Business Name Generator - businessnamegenerator.com]: https://businessnamegenerator.com/
+
+
+
+***
+## UX Design Challenge - Educational/Tutorial Website
+- Inspiration:
+    + [Freecodecamp - Github]
+
+[Freecodecamp - Github]: https://github.com/freeCodeCamp/freeCodeCamp
+
+
+***
+## Web Design Notes
+- Design in the Browser:
+    + [Edit any website like it's a word doc, directly from your browser - The Hustle]
+- Typography:
+    + [Drawing fonts is "nothing but a nice meditative state" for Erik Sachse - Jyni Ong]
+
+[Edit any website like it's a word doc, directly from your browser - The Hustle]: https://thehustle.co/edit-any-website-directly-from-your-browser/
+
+[Drawing fonts is "nothing but a nice meditative state" for Erik Sachse - Jyni Ong]: https://www.itsnicethat.com/articles/erik-sachse-napoleon-typefaces-graphic-design-010419
