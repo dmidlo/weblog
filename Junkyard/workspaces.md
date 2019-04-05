@@ -89,6 +89,11 @@
 
 ***
 ## Flashcard Web App:
+- Tasks:
+    - [ ] Create Flashcards for Docker
+        * [Dockerfile reference]
+    - [ ] Create Flashcards for GatsbyJS
+        * 
 - Features:
     + localStorage
         * [Create an interactive form in html localStorage - Google Search]
@@ -108,6 +113,8 @@
 [Create an interactive form in html localStorage - Google Search]: https://www.google.com/search?ei=uY-dXKCHDonDjgTu8ZSQBg&q=create+an+interactive+form+in+html+localstorage&oq=create+an+interactive+form+in+html+localstorage&gs_l=psy-ab.3..33i299j33i160.106885.112026..112482...0.0..0.260.2286.0j8j5......0....1..gws-wiz.......0i71j0i22i30j33i22i29i30.mYHS53LO76E
 
 [git as a backend]: https://www.google.com/search?q=git+as+a+backend&oq=git+as+a+backend&aqs=chrome..69i57j69i64.2784j0j1&sourceid=chrome&ie=UTF-8
+
+[Dockerfile reference]: https://docs.docker.com/engine/reference/builder/
 
 ***
 ## Dev Interview Podcast
@@ -360,3 +367,9 @@
 
 
 [Can anyone explain how to reverse decks in Anki 2.0 so I see the English first?]: https://www.reddit.com/r/LearnJapanese/comments/1b0494/can_anyone_explain_how_to_reverse_decks_in_anki/
+
+## Docker Notes:
+- Install Zsh & Oh-My-Zsh on docker container
+    + [dockerfile - Michal Zalecki]
+    
+[dockerfile - Michal Zalecki]: https://gist.github.com/MichalZalecki/4a87880bbe7a3a5428b5aebebaa5cd97
