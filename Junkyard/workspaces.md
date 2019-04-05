@@ -11,6 +11,9 @@
 - Deliverables:
     + OmniPlan Time Estimates (Project Template):
 - References:
+    + Project Management:
+        * [The History of Projet Management - Activia]
+        * [A History of Ancient Project Management - From Mesopotamia to the Roman Empire - Y.C. Chiu]
     + CX/UX:
         * [Customer Experience vs. User Experience: Why the Difference Matters - uxpin]
         * [Do Not Confuse User Experience with Customer Experience - UsabilityGeek]
@@ -18,6 +21,8 @@
         * [User Experience (UX) vs. Customer Experience (CX): What's the Dif?]
     + SEO:
         * [<h1> best practices]
+    + Web Design:
+        * [Web Style Guide - Patrick J. Lynch & Sarah Horton]
 - Inspiration:
     + [Onboarding Workflow - checklist.design]
 
@@ -32,6 +37,12 @@
 [<h1> best practices]: https://www.google.com/search?q=%3Ch1%3E+best+practices&rlz=1CDGOYI_enUS590US590&oq=%3Ch1%3E+best+practices&aqs=chrome..69i57.21669j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 
 [Onboarding Workflow - checklist.design]: https://www.checklist.design/pages/onboarding
+
+[Web Style Guide - Patrick J. Lynch & Sarah Horton]: https://webstyleguide.com/1-strategy.html
+
+[The History of Projet Management - Activia]: https://www.activia.co.uk/project-management/resources/history-of-project-management
+
+[A History of Ancient Project Management - From Mesopotamia to the Roman Empire - Y.C. Chiu]: https://www.amazon.com/dp/B005AXV52E/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
 ***
 ## Book Reviewing & Reading Well.
@@ -280,6 +291,8 @@
     + [CSA Image Archive]
 
 [CSA Image Archive]: https://www.csaimages.com/
+
+***
 ## Professional Certification:
 - Development:
     + [MCSD: App Builder]
@@ -298,6 +311,8 @@
 [CancanIT - HTML5 Certification]: https://cancanit.com/html5-certification/
 
 [Star HTML Certification]: https://www.starcertification.org/Certifications/Certificate/html
+
+***
 ## Drfting your first Portfile (MacPorts)
 - References:
 - Queries:
@@ -305,12 +320,14 @@
 
 [MacPorts Portfile Tutorial NPM - Google Search]: https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=LbqVXIyJOu_ZjgSmiJfYBA&q=macports+portfile+tutorial+npm&oq=macports+portfile+tutorial+npm&gs_l=mobile-gws-wiz-serp.3...114247.115787..116798...0.0..0.321.1099.2-2j2......0....1.........0i71j33i160j33i22i29i30.JaneooqbpI0
 
-
+***
 ## Formal Education Requirements
 - Pre-Classroom Prep
     + [College Level Examination Program (CLEP Testing) - Anoka Ramsey Community College]
 
 [College Level Examination Program (CLEP Testing) - Anoka Ramsey Community College]: https://www.anokaramsey.edu/resources/testing-services/clep-testing/
+
+***
 ## Community & Volunteer Opportunities:
 - philosophy
     + [American Atheists]
@@ -383,6 +400,8 @@
 [Sunday Assembly - Minneapolis / St Paul - Facebook]: https://www.facebook.com/SundayAssemblyMSP
 
 [Sunday Assembly - Minneapolis / St Paul - Meetup]: https://www.meetup.com/SundayAssemblyMSP/
+
+***
 ## Sleep & Waking
 - References:
     + [11 Weird Ways to Wake Yourself Up ASAP, Because Being Tired is the Worst - Bustle]
@@ -392,7 +411,7 @@
 
 [The Military Secret to Falling Asleep in Two Minutes - Independent]: https://www.independent.co.uk/life-style/national-napping-day-2019-fall-asleep-fast-military-trick-sleep-a8817826.html?amp
 
-
+***
 ## Anki Notes
 - [How do you flip cards for review?][Can anyone explain how to reverse decks in Anki 2.0 so I see the English first?]
     + Click 'Decks' and select which deck you want to reverse and click 'study now'
@@ -405,8 +424,83 @@
 
 [Can anyone explain how to reverse decks in Anki 2.0 so I see the English first?]: https://www.reddit.com/r/LearnJapanese/comments/1b0494/can_anyone_explain_how_to_reverse_decks_in_anki/
 
+***
 ## Docker Notes:
 - Install Zsh & Oh-My-Zsh on docker container
     + [dockerfile - Michal Zalecki]
     
 [dockerfile - Michal Zalecki]: https://gist.github.com/MichalZalecki/4a87880bbe7a3a5428b5aebebaa5cd97
+
+***
+## UX Design Challenge -  Create a Chatbot who is the central design feature ofa digital/web design agency's landing page.
+
+- References:
+    + [Developing a Chatbot using Python Language: Tutorial - Vishnu]
+    + [Contextual Chatbots with Tensorflow - Chatbots Magazine]
+    + [Build an AI/ Machine Learning ChatBot in Python with RASA - Part 1 - Hackernoon]
+    + [How to Build an Intelligent Chatbot with Python and Dialogflow - David Santucci]
+    + [Chatterbot - gunther cox]
+    + Natural Language Processing for Programmers
+        * [Natural Language Processing for Programmers - part 1 - Liza Daly]
+        * [Natural Language Processing for Programmers - part 2 - Liza Daly]
+        * [Natural Language Processing for Programmers - part 3 - Liza Daly]
+        * [Chatbot Fundamentals An interactive guide to writing bots in Python - Liza Daly]
+    + [Deep Learning for Chatbots, Part 1 - Introduction - Denny Britz]
+    + NLTK
+        * [Build your first chatbot using Python NLTK - Nagesh Singh Chauhan]
+        * [Natural Language Processing with Python - nltk.org]
+        * [nltk.chat package Documentation - NLTK 3.4]
+        * [Building a Simple Chatbot from scratch in Python (using NLTK)]
+    + [Beyond Facade - Pattern Matching for Natural Language Applications - Bruce Wilcox]
+    + [The Learning Chatbot - Bonnie Chantarotwong]
+    + [How I developed my own 'learning' chatbot in Python from scratch and deployed it on Facebook Messanger! - Vishakha Lall]
+    + [Chatbots are cool! A framework using Python - Sundar Krishnan]
+
+[Developing a Chatbot using Python Language: Tutorial - Vishnu]: https://www.probytes.net/blog/how-to-make-a-chatbot-in-python/
+
+[Contextual Chatbots with Tensorflow - Chatbots Magazine]: https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077
+
+[Build an AI/ Machine Learning ChatBot in Python with RASA - Part 1 - Hackernoon]: https://hackernoon.com/build-simple-chatbot-with-rasa-part-1-f4c6d5bb1aea
+
+[How to Build an Intelligent Chatbot with Python and Dialogflow - David Santucci]: https://cloudacademy.com/blog/how-to-build-an-intelligent-chatbot-with-python-and-dialogflow/
+
+[Chatterbot - gunther cox]: https://github.com/gunthercox/ChatterBot
+
+[Natural Language Processing for Programmers - part 1 - Liza Daly]: https://worldwritable.com/natural-language-processing-for-programmers-c21a4aff3cb9
+
+[Natural Language Processing for Programmers - part 2 - Liza Daly]: https://worldwritable.com/natural-language-processing-for-programmers-90c4e04dc6de
+
+[Natural Language Processing for Programmers - part 3 - Liza Daly]: https://worldwritable.com/natural-language-processing-for-programmers-part-3-f327613b9735
+
+[Chatbot Fundamentals An interactive guide to writing bots in Python - Liza Daly]: https://apps.worldwritable.com/tutorials/chatbot/
+
+[Deep Learning for Chatbots, Part 1 - Introduction - Denny Britz]: http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/
+
+[Natural Language Processing with Python - nltk.org]: http://www.nltk.org/book/
+
+[Documentation - NLTK 3.4]: http://www.nltk.org/api/nltk.chat.html
+
+[Beyond Facade - Pattern Matching for Natural Language Applications - Bruce Wilcox]: http://www.gamasutra.com/view/feature/6305/beyond_fa%C3%A7ade_pattern_matching_.php
+
+[The Learning Chatbot - Bonnie Chantarotwong]: http://courses.ischool.berkeley.edu/i256/f06/projects/bonniejc.pdf
+
+[How I developed my own 'learning' chatbot in Python from scratch and deployed it on Facebook Messanger! - Vishakha Lall]: https://chatbotslife.com/how-i-developed-my-own-learning-chatbot-in-python-from-scratch-and-deployed-it-on-facebook-88bc828be0a8
+
+[Chatbots are cool! A framework using Python - Sundar Krishnan]: https://towardsdatascience.com/chatbots-are-cool-a-framework-using-python-part-1-overview-7c69af7a7439
+
+[Build your first chatbot using Python NLTK - Nagesh Singh Chauhan]: https://towardsdatascience.com/build-your-first-chatbot-using-python-nltk-5d07b027e727
+
+[Building a Simple Chatbot from scratch in Python (using NLTK)]: https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
+
+***
+## UX Challenge - Digital Agency Workflow CMS
+- Name: OpMethod
+
+***
+## Open-Source Contributions:
+- [First Contributions - GitHub]
+- [Awesome for Beginners - Github]
+
+[First Contributions - GitHub]: https://github.com/firstcontributions/first-contributions
+
+[Awesome for Beginners - Github]: https://github.com/MunGell/awesome-for-beginners
