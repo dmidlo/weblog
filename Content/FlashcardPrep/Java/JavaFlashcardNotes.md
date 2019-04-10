@@ -130,7 +130,7 @@ the Program Counter Register
 
 ## In Java, what is a Native Method?
 
-a native method is a method or class whose implmentation is written in another programming language such as C, C++, etc.
+a native method is a method or class who's implmentation is written in another programming language such as C, C++, etc.
 
 ## What area of memory is allocated by the JVM that is reserved for all the native methods used in the application?
 
@@ -139,3 +139,7 @@ the Native Method Stack
 ## What are the different types of memory areas allocated by the JVM scheduler?
 
 In Java, JVM allocates memory to different processes, methods and objects.  Some of the memory areas allocated by the JVM are: ClassLoader, Class (Method) Area, Heap, Stack, Program Counter Register, Native Method Stack
+
+## What is the JIT compiler?
+
+the Just In Time (JIT) compiler is used for performance improvements in Java.   It is enabled by default.  It is a method of compilation that occurs at execution time rather than beforehand.
