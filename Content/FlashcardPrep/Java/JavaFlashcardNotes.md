@@ -143,3 +143,67 @@ In Java, JVM allocates memory to different processes, methods and objects.  Some
 ## What is the JIT compiler?
 
 the Just In Time (JIT) compiler is used for performance improvements in Java.   It is enabled by default.  It is a method of compilation that occurs at execution time rather than beforehand.
+
+## How is the Java platform different from other platforms?
+
+Java is a platform independent langauage. This is accomplished due to the fact that the Java complier converts Java code into bytecode that can be interpreted by the JVM.  There is a JVM written for almost all the popular platforms in the world.
+
+Other languages require libraries to be complied for each platform.
+
+## What is a Jar file?
+
+A Java Archive (JAR) file is actually just a ZIP file.  It can contain anything - usually though, it contains compiled Java code (with a file extension of .class), but sometimes Java source code (with a file extension of .java).
+
+## Why do people say that Java is a 'write once and run anywhere' langugage?
+
+You can write Java code on Windows and compile it there.  The class and jar files that you get can run, as is, on a Unix environment.  
+
+Java bytecode as interpreted by any JVM is responsible for this.
+
+## What does bootstrapping mean in programming?
+
+"Bootstrapping" comes from the term "pulling yourself up by your own bootstraps", In computing, a boostrap loader is the first piece of code that runs when a machine, virtual machine or application starts, and is responsible for loading the rest of the system components.
+
+## How does the JVM ClassLoader work in Java?
+
+In Java, ClassLoader is a class that is used to load files in JVM.  ClassLoader loads files from their  physical file locations (e.g. Filesystem, Network Locations, etc.)
+
+There are three main types of ClassLoaders in Java: Bootstrap ClassLoader, Extension ClassLoader,  and Application ClassLoader.
+
+## What does the JVM use the rt.jar file for?
+
+rt.jar stands for RunTime.JavaARchive, and contains all of the compiled class files for the core of the JRE.
+
+## What is the first JVM ClassLoader class, it loads classes from rt.jar file?
+
+The Bootstrap ClassLoader
+
+## In Java, what is an installed extension?
+
+Any set of packages or classes  bundled into a JAR file and placed in the ./lib/ext directory of the JRE.
+
+## In Java, what is a download extension?
+
+Any set of packages or classes  bundled into a JAR file and referenced from the manifest of another JAR file.
+
+## What JVM ClassLoader loads class files from the jre/lib/ext directory of the JRE?
+
+The Extension ClassLoader
+
+## In Java, what does the term CLASSPATH reference?
+
+CLASSPATH is a parameter that specifies the location(s) of user-defined classes and packages.
+
+## What JVM ClassLoader depends on CLASSPATH to find the location of class files?
+
+the Application ClassLoader
+
+If you specify jars in the CLASSPATH, then this ClassLoader will load them.
+
+## In Java, what is a method('s) signature?
+
+It is a combination of a method's name, attributes & accepted/expected parameter list.
+
+***
+- [ ] Do a google search for Java interview questions to expand this list
+- [ ] Look at stack overflow to add to this list
