@@ -365,7 +365,7 @@ __*`[link name](url "hover-over title")`*__
 
 ***
 ## How do you create an Anchor link to refer to a section of the current markdown document?
-*using basic markdown link syntax, Add a leading octothrope `#` to heading text defined within the markdown file, then add hyphens `-` between the heading words*
+*Using basic markdown link syntax, along with a slug. (Add a leading octothrope # to heading text defined within the markdown file, then add hyphens - between the heading words)*
 
 `[link text](#Hypen-Separated-Heading-with-leading-#)`
 
