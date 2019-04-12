@@ -304,183 +304,227 @@ C4.5 is an algorithm used to generate a decision tree developed by Ross Quinlan.
 Symmetric-key algorithms are algorithms for cryptography that use the same cryptographic keys for both encryption of plaintext and decryption of ciphertext
 8 KB (866 words) - 14:01, 31 March 2019
 
-SIMPLE algorithm
+#### SIMPLE algorithm
 In computational fluid dynamics (CFD), the SIMPLE algorithm is a widely used numerical procedure to solve the Navier-Stokes equations. SIMPLE is an acronym
 3 KB (392 words) - 09:23, 17 July 2018
 
-Eigenvalue algorithm
+#### Eigenvalue algorithm
+
 is designing efficient and stable algorithms for finding the eigenvalues of a matrix. These eigenvalue algorithms may also find eigenvectors. Given an
 35 KB (4,388 words) - 03:49, 9 April 2019
 
-CYK algorithm
+#### CYK algorithm
+
 computer science, the Cocke–Younger–Kasami algorithm (alternatively called CYK, or CKY) is a parsing algorithm for context-free grammars, named after its
 14 KB (1,885 words) - 02:07, 3 March 2019
 
-Stable marriage problem (redirect from Gale-Shapley algorithm)
+#### Stable marriage problem (redirect from Gale-Shapley algorithm)
+
 stable. They presented an algorithm to do so. The Gale–Shapley algorithm (also known as the Deferred Acceptance algorithm) involves a number of "rounds"
 21 KB (2,703 words) - 18:24, 16 February 2019
 
-Booth's multiplication algorithm
+#### Booth's multiplication algorithm
+
 multiplication algorithm is a multiplication algorithm that multiplies two signed binary numbers in two's complement notation. The algorithm was invented
 12 KB (1,611 words) - 17:18, 19 February 2019
 
-Las Vegas algorithm
+#### Las Vegas algorithm
+
 In computing, a Las Vegas algorithm is a randomized algorithm that always gives correct results; that is, it always produces the correct result or it
 17 KB (2,607 words) - 11:37, 22 March 2019
 
-Firefly algorithm
+#### Firefly algorithm
+
 In mathematical optimization, the firefly algorithm is a metaheuristic proposed by Xin-She Yang and inspired by the flashing behavior of fireflies. The
 5 KB (772 words) - 04:40, 11 March 2019
 
-Time-based One-time Password algorithm
+#### Time-based One-time Password algorithm
+
 The Time-based One-Time Password algorithm (TOTP) is an extension of the HMAC-based One-time Password algorithm (HOTP) generating a one-time password by
 6 KB (725 words) - 15:35, 22 March 2019
 
-Bees algorithm
+#### Bees algorithm
+
 computer science and operations research, the bees algorithm is a population-based search algorithm which was developed by Pham, Ghanbarzadeh et al. in
 14 KB (1,913 words) - 17:25, 29 March 2019
 
-Depth-first search (redirect from DFS algorithm)
+#### Depth-first search (redirect from DFS algorithm)
+
 Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node (selecting some
 18 KB (2,365 words) - 22:47, 8 March 2019
 
-ID3 algorithm
+#### ID3 algorithm
+
 Dichotomiser 3) is an algorithm invented by Ross Quinlan used to generate a decision tree from a dataset. ID3 is the precursor to the C4.5 algorithm, and is typically
 12 KB (1,537 words) - 22:17, 9 April 2019
 
-Risch algorithm
+#### Risch algorithm
+
 the intersection of mathematics and computer science, the Risch algorithm is an algorithm for indefinite integration. It is used in some computer algebra
 10 KB (1,388 words) - 11:56, 24 March 2019
 
-Binary GCD algorithm
+#### Binary GCD algorithm
+
 algorithm, also known as Stein's algorithm, is an algorithm that computes the greatest common divisor of two nonnegative integers. Stein's algorithm uses
 14 KB (1,743 words) - 17:41, 15 March 2019
 
-Elevator algorithm
+#### Elevator algorithm
+
 The elevator algorithm (also SCAN) is a disk scheduling algorithm to determine the motion of the disk's arm and head in servicing read and write requests
 5 KB (791 words) - 10:37, 13 March 2019
 
-MM algorithm
+#### MM algorithm
+
 The MM algorithm is an iterative optimization method which exploits the convexity of a function in order to find their maxima or minima. The MM stands
 4 KB (618 words) - 01:37, 12 February 2019
 
-Minimax (redirect from Minimax algorithm)
+#### Minimax (redirect from Minimax algorithm)
+
 combinatorial game theory, there is a minimax algorithm for game solutions. A simple version of the minimax algorithm, stated below, deals with games such as
 24 KB (3,653 words) - 02:07, 21 March 2019
 
-Forward algorithm
+#### Forward algorithm
+
 The forward algorithm, in the context of a hidden Markov model (HMM), is used to calculate a 'belief state': the probability of a state at a certain time
 13 KB (2,198 words) - 16:39, 1 October 2018
 
-Cohen–Sutherland algorithm
+#### Cohen–Sutherland algorithm
+
 The Cohen–Sutherland algorithm is a computer-graphics algorithm used for line clipping. The algorithm divides a two-dimensional space into 9 regions and
 6 KB (856 words) - 17:17, 7 January 2018
 
-Chudnovsky algorithm
+#### Chudnovsky algorithm
+
 The Chudnovsky algorithm is a fast method for calculating the digits of π. It was published by the Chudnovsky brothers in 1988, and was used in the world
 6 KB (942 words) - 15:00, 1 April 2019
 
-Exponential backoff (redirect from Exponential backoff algorithm)
+#### Exponential backoff (redirect from Exponential backoff algorithm)
+
 Exponential backoff is an algorithm that uses feedback to multiplicatively decrease the rate of some process, in order to gradually find an acceptable
 5 KB (769 words) - 01:13, 25 March 2019
 
-Triple DES (redirect from Triple Data Encryption Algorithm)
+#### Triple DES (redirect from Triple Data Encryption Algorithm)
+
 Triple Data Encryption Algorithm (TDEA or Triple DEA), is a symmetric-key block cipher, which applies the DES cipher algorithm three times to each data
 19 KB (2,460 words) - 19:23, 1 March 2019
 
-Ricart–Agrawala algorithm
+#### Ricart–Agrawala algorithm
+
 The Ricart-Agrawala Algorithm is an algorithm for mutual exclusion on a distributed system. This algorithm is an extension and optimization of Lamport's
 3 KB (422 words) - 16:57, 13 February 2019
 
-Pollard's rho algorithm
+#### ollard's rho algorithm
+
 Pollard's rho algorithm is an algorithm for integer factorization. It was invented by John Pollard in 1975. It uses only a small amount of space, and
 12 KB (1,736 words) - 17:37, 7 April 2019
 
-Μ-law algorithm
+#### Μ-law algorithm
+
 The µ-law algorithm (sometimes written "mu-law", often approximated as "u-law") is a companding algorithm, primarily used in 8-bit PCM digital telecommunication
 8 KB (911 words) - 21:35, 27 October 2018
 
-Gabow's algorithm
+#### Gabow's algorithm
+
 Gabow's algorithm may refer to: Path-based strong component algorithm Gabow's algorithm (single-source shortest paths)
 448 bytes (16 words) - 05:47, 20 December 2015
 
-DPLL algorithm
+#### DPLL algorithm
+
 science, the Davis–Putnam–Logemann–Loveland (DPLL) algorithm is a complete, backtracking-based search algorithm for deciding the satisfiability of propositional
 13 KB (1,625 words) - 16:40, 8 April 2019
 
-A-law algorithm
+#### A-law algorithm
+
 An A-law algorithm is a standard companding algorithm, used in European 8-bit PCM digital communications systems to optimize, i.e. modify, the dynamic
 2 KB (363 words) - 08:53, 20 November 2018
 
-Minimum spanning tree (redirect from Spanning tree algorithm)
+#### Minimum spanning tree (redirect from Spanning tree algorithm)
+
 randomized algorithm based on a combination of Borůvka's algorithm and the reverse-delete algorithm. The fastest non-randomized comparison-based algorithm with
 40 KB (4,973 words) - 06:35, 16 March 2019
 
-Davis–Putnam algorithm
+#### Davis–Putnam algorithm
+
 The Davis–Putnam algorithm was developed by Martin Davis and Hilary Putnam for checking the validity of a first-order logic formula using a resolution-based
 4 KB (455 words) - 16:43, 8 April 2019
 
-Tarjan's strongly connected components algorithm
+#### Tarjan's strongly connected components algorithm
+
 Kosaraju's algorithm and the path-based strong component algorithm. Tarjan's algorithm is named for its inventor, Robert Tarjan. The algorithm takes a directed
 12 KB (1,579 words) - 14:18, 18 March 2019
 
-Flood fill (redirect from Flood fill algorithm)
+#### Flood fill (redirect from Flood fill algorithm)
+
 Flood fill, also called seed fill, is an algorithm that determines the area connected to a given node in a multi-dimensional array. It is used in the
 16 KB (2,274 words) - 11:36, 5 April 2019
 
-Lloyd's algorithm
+#### Lloyd's algorithm
+
 Example of Lloyd's algorithm. The Voronoi diagram of the current points at each iteration is shown. The plus signs denote the centroids of the Voronoi
 15 KB (1,855 words) - 20:44, 21 March 2019
 
-Eulerian path (redirect from Fleury's algorithm)
+#### Eulerian path (redirect from Fleury's algorithm)
+
 bridge-finding algorithm after the removal of every edge, Fleury's algorithm will have a time complexity of O(|E|2). A dynamic bridge-finding algorithm of Thorup
 20 KB (2,575 words) - 15:19, 8 April 2019
 
-Heap's algorithm
+#### Heap's algorithm
+
 Heap's algorithm generates all possible permutations of n objects. It was first proposed by B. R. Heap in 1963. The algorithm minimizes movement: it generates
 13 KB (1,821 words) - 07:02, 5 April 2019
 
-Broyden–Fletcher–Goldfarb–Shanno algorithm
+#### Broyden–Fletcher–Goldfarb–Shanno algorithm
+
 In numerical optimization, the Broyden–Fletcher–Goldfarb–Shanno (BFGS) algorithm is an iterative method for solving unconstrained nonlinear optimization
 14 KB (2,334 words) - 23:14, 2 April 2019
 
-Lempel–Ziv–Welch (redirect from LZW compression algorithm)
+#### Lempel–Ziv–Welch (redirect from LZW compression algorithm)
+
 Lempel–Ziv–Welch (LZW) is a universal lossless data compression algorithm created by Abraham Lempel, Jacob Ziv, and Terry Welch. It was published by Welch
 29 KB (3,300 words) - 20:30, 13 March 2019
 
-Spigot algorithm
+#### Spigot algorithm
+
 A spigot algorithm is an algorithm for computing the value of a mathematical constant such as π or e which generates output digits in some base (usually
 5 KB (769 words) - 06:10, 20 December 2018
 
-Tomasulo algorithm
+#### Tomasulo algorithm
+
 Tomasulo’s algorithm is a computer architecture hardware algorithm for dynamic scheduling of instructions that allows out-of-order execution and enables
 14 KB (1,436 words) - 17:02, 27 January 2019
 
-MD5 (redirect from MD5 - A Message Digest Algorithm)
+#### MD5 (redirect from MD5 - A Message Digest Algorithm)
+
 The MD5 message-digest algorithm is a widely used hash function producing a 128-bit hash value. Although MD5 was initially designed to be used as a cryptographic
 37 KB (4,174 words) - 20:24, 10 April 2019
 
-Edmonds–Karp algorithm
+#### Edmonds–Karp algorithm
+
 In computer science, the Edmonds–Karp algorithm is an implementation of the Ford–Fulkerson method for computing the maximum flow in a flow network in
 7 KB (802 words) - 20:39, 26 February 2019
 
-Data Encryption Standard (redirect from Data Encryption Algorithm)
+#### Data Encryption Standard (redirect from Data Encryption Algorithm)
+
 The Data Encryption Standard (DES /ˌdiːˌiːˈɛs, dɛz/) is a symmetric-key algorithm for the encryption of electronic data. Although its short key length of
 54 KB (6,061 words) - 13:26, 9 April 2019
 
-Gillespie algorithm
+#### Gillespie algorithm
+
 In probability theory, the Gillespie algorithm (or occasionally the Doob-Gillespie algorithm) generates a statistically correct trajectory (possible solution)
 23 KB (3,229 words) - 03:33, 2 April 2019
 
-Baum–Welch algorithm
+#### Baum–Welch algorithm
+
 Baum–Welch algorithm is used to find the unknown parameters of a hidden Markov model (HMM). It makes use of a forward-backward algorithm. The Baum–Welch
 24 KB (3,297 words) - 16:51, 11 March 2019
 
-Christofides algorithm
+#### Christofides algorithm
+
 The Christofides algorithm is an algorithm for finding approximate solutions to the travelling salesman problem, on instances where the distances form
 6 KB (771 words) - 21:54, 6 January 2019
 
-ElGamal encryption (redirect from ElGamal encryption algorithm)
+#### ElGamal encryption (redirect from ElGamal encryption algorithm)
+
 cryptography, the ElGamal encryption system is an asymmetric key encryption algorithm for public-key cryptography which is based on the Diffie–Hellman key exchange
 9 KB (1,376 words) - 18:17, 24 February 2019
 
