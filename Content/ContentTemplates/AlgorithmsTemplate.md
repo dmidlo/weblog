@@ -4,6 +4,8 @@
 - [ ] Update Wikipedia Article with new references
 - [ ] Create Glossary of Related Terms for this document
 
+
+
 ## List of Algorithms
 
 #### [Dijkstra's algorithm][[Wikipedia - Dijkstra's algorithm]]
@@ -528,245 +530,280 @@ The Christofides algorithm is an algorithm for finding approximate solutions to 
 cryptography, the ElGamal encryption system is an asymmetric key encryption algorithm for public-key cryptography which is based on the Diffie–Hellman key exchange
 9 KB (1,376 words) - 18:17, 24 February 2019
 
-Berlekamp–Massey algorithm
+#### Berlekamp–Massey algorithm
+
 Berlekamp–Massey algorithm is an algorithm that will find the shortest linear feedback shift register (LFSR) for a given binary output sequence. The algorithm will
 9 KB (1,574 words) - 22:44, 10 February 2019
 
-Token bucket (redirect from Token Bucket algorithm)
+#### Token bucket (redirect from Token Bucket algorithm)
+
 The token bucket is an algorithm used in packet switched computer networks and telecommunications networks. It can be used to check that data transmissions
 9 KB (1,360 words) - 19:04, 28 September 2018
 
-LZ77 and LZ78 (redirect from LZ77 (algorithm))
+#### LZ77 and LZ78 (redirect from LZ77 (algorithm))
+
 LZ77 and LZ78 are the two lossless data compression algorithms published in papers by Abraham Lempel and Jacob Ziv in 1977 and 1978. They are also known
 15 KB (2,065 words) - 13:02, 25 June 2018
 
-Blossom algorithm
+#### Blossom algorithm
+
 The blossom algorithm is an algorithm in graph theory for constructing maximum matchings on graphs. The algorithm was developed by Jack Edmonds in 1961
 15 KB (1,943 words) - 12:10, 8 February 2019
 
-Maximum flow problem (redirect from Flow algorithm)
+#### Maximum flow problem (redirect from Flow algorithm)
+
 augmenting path algorithm of Edmonds and Karp and independently Dinitz; the blocking flow algorithm of Dinitz; the push-relabel algorithm of Goldberg and
 27 KB (3,108 words) - 18:51, 8 February 2019
 
-Diamond-square algorithm
+#### Diamond-square algorithm
+
 The diamond-square algorithm is a method for generating heightmaps for computer graphics. It is a slightly better algorithm than the three-dimensional
 6 KB (659 words) - 01:16, 20 February 2019
 
-BCJR algorithm
+#### BCJR algorithm
+
 The BCJR algorithm is an algorithm for maximum a posteriori decoding of error correcting codes defined on trellises (principally convolutional codes)
 2 KB (246 words) - 16:57, 7 February 2018
 
-Knuth's Algorithm X
+#### Knuth's Algorithm X
+
 cover problem. Technically, Algorithm X is a recursive, nondeterministic, depth-first, backtracking algorithm. While Algorithm X is generally useful as a
 15 KB (1,303 words) - 14:40, 22 September 2018
 
-Neville's algorithm
+#### Neville's algorithm
+
 In mathematics, Neville's algorithm is an algorithm used for polynomial interpolation that was derived by the mathematician Eric Harold Neville. Given
 5 KB (414 words) - 09:48, 20 February 2019
 
-Nearest neighbour algorithm
+#### Nearest neighbour algorithm
+
 The nearest neighbour algorithm was one of the first algorithms used to solve the travelling salesman problem. In it, the salesman starts at a random
 3 KB (410 words) - 00:05, 27 December 2018
 
-PISO algorithm
+#### PISO algorithm
+
 PISO algorithm (Pressure-Implicit with Splitting of Operators) was proposed by Issa in 1986 without iterations and with large time steps and a lesser
 5 KB (742 words) - 15:56, 16 January 2018
 
-Rete algorithm
+#### Rete algorithm
+
 The Rete algorithm (/ˈriːtiː/ REE-tee, /ˈreɪtiː/ RAY-tee, rarely /ˈriːt/ REET, /rɛˈteɪ/ reh-TAY) is a pattern matching algorithm for implementing rule-based
 33 KB (5,006 words) - 17:33, 30 March 2019
 
-Partition problem (redirect from Approximations algorithms for the partition problem)
+#### Partition problem (redirect from Approximations algorithms for the partition problem)
+
 This algorithm runs in time O(K N), where N is the number of elements in the input set and K is the sum of elements in the input set. The algorithm can
 18 KB (2,320 words) - 11:55, 1 April 2019
 
-Expectation–maximization algorithm
+#### Expectation–maximization algorithm
+
 In statistics, an expectation–maximization (EM) algorithm is an iterative method to find maximum likelihood or maximum a posteriori (MAP) estimates of
 46 KB (6,997 words) - 10:46, 22 March 2019
 
-Gift wrapping algorithm
+#### Gift wrapping algorithm
+
 gift wrapping algorithm is an algorithm for computing the convex hull of a given set of points. In the two-dimensional case the algorithm is also known
 4 KB (632 words) - 22:56, 29 November 2018
 
-Non-blocking algorithm
-In computer science, an algorithm is called non-blocking if failure or suspension of any thread cannot cause failure or suspension of another thread;
-17 KB (2,144 words) - 23:36, 16 February 2019
+#### Belief propagation (redirect from Sum-product algorithm)
 
-Phonetic algorithm
-A phonetic algorithm is an algorithm for indexing of words by their pronunciation. Most phonetic algorithms were developed for use with the English language[citation
-4 KB (466 words) - 03:33, 6 January 2019
-
-Belief propagation (redirect from Sum-product algorithm)
 propagation, also known as sum-product message passing, is a message-passing algorithm for performing inference on graphical models, such as Bayesian networks
 24 KB (3,374 words) - 09:33, 21 February 2019
 
-Smith–Waterman algorithm
+#### Smith–Waterman algorithm
+
 The Smith–Waterman algorithm performs local sequence alignment; that is, for determining similar regions between two strings of nucleic acid sequences
 34 KB (4,387 words) - 19:39, 25 February 2019
 
-Backtracking (redirect from Backtracking algorithm)
+#### Backtracking (redirect from Backtracking algorithm)
+
 Backtracking is a general algorithm for finding all (or some) solutions to some computational problems, notably constraint satisfaction problems, that
 14 KB (1,938 words) - 21:40, 7 December 2018
 
-Bentley–Ottmann algorithm
+#### Bentley–Ottmann algorithm
+
 In computational geometry, the Bentley–Ottmann algorithm is a sweep line algorithm for listing all crossings in a set of line segments, i.e. it finds
 23 KB (3,260 words) - 13:09, 28 February 2019
 
-Xiaolin Wu's line algorithm
+#### Xiaolin Wu's line algorithm
+
 Xiaolin Wu's line algorithm is an algorithm for line antialiasing. Xiaolin Wu's line algorithm was presented in the article "An Efficient Antialiasing
 5 KB (574 words) - 01:48, 29 July 2018
 
-Graph traversal (redirect from Graph exploration algorithm)
+#### Graph traversal (redirect from Graph exploration algorithm)
+
 the algorithm visits each vertex. If the vertex has already been visited, it is ignored and the path is pursued no further; otherwise, the algorithm checks/updates
 10 KB (1,392 words) - 10:36, 21 March 2019
 
-Fürer's algorithm
+#### Fürer's algorithm
+
 Fürer's algorithm is an integer multiplication algorithm for extremely large integers with very low asymptotic complexity. It was published in 2007 by
 5 KB (753 words) - 12:13, 27 May 2018
 
-Lamport's bakery algorithm
+#### Lamport's bakery algorithm
+
 Lamport's bakery algorithm is a computer algorithm devised by computer scientist Leslie Lamport, which is intended to improve the safety in the usage
 11 KB (1,595 words) - 04:37, 21 March 2019
 
-Point in polygon (redirect from Ray casting algorithm)
+#### Point in polygon (redirect from Ray casting algorithm)
+
 This algorithm is sometimes also known as the crossing number algorithm or the even–odd rule algorithm, and is known as early as 1962. The algorithm is
 10 KB (1,336 words) - 16:58, 10 April 2019
 
-HMAC-based One-time Password algorithm
+#### HMAC-based One-time Password algorithm
+
 HMAC-based One-time Password algorithm (HOTP) is a one-time password (OTP) algorithm based on hash-based message authentication codes (HMAC). It is a
 12 KB (1,404 words) - 20:51, 26 February 2019
 
-Dekker's algorithm
+#### Dekker's algorithm
+
 Dekker's algorithm is the first known correct solution to the mutual exclusion problem in concurrent programming. The solution is attributed to Dutch
 8 KB (1,046 words) - 21:29, 30 December 2018
 
-Boyer–Moore–Horspool algorithm
+#### Boyer–Moore–Horspool algorithm
+
 In computer science, the Boyer–Moore–Horspool algorithm or Horspool's algorithm is an algorithm for finding substrings in strings. It was published by
 4 KB (587 words) - 04:12, 24 October 2018
 
-Advanced Encryption Standard (redirect from Rijndael encryption algorithm)
+#### Advanced Encryption Standard (redirect from Rijndael encryption algorithm)
+
 Standard (DES), which was published in 1977. The algorithm described by AES is a symmetric-key algorithm, meaning the same key is used for both encrypting
 46 KB (5,320 words) - 07:04, 21 March 2019
 
-Topological sorting (redirect from Kahn's algorithm)
+#### Topological sorting (redirect from Kahn's algorithm)
+
 acyclic graph (DAG). Any DAG has at least one topological ordering, and algorithms are known for constructing a topological ordering of any DAG in linear
 15 KB (2,029 words) - 09:03, 8 April 2019
 
-K shortest path routing (redirect from Eppstein's algorithm)
+#### K shortest path routing (redirect from Eppstein's algorithm)
+
 The k shortest path routing algorithm is an extension algorithm of the shortest path routing algorithm in a given network. It is sometimes crucial to have
 11 KB (1,205 words) - 23:17, 9 April 2019
 
-Weighted majority algorithm (machine learning)
+#### Weighted majority algorithm (machine learning)
+
 weighted majority algorithm (WMA) is a meta-learning algorithm used to construct a compound algorithm from a pool of prediction algorithms, which could be
 2 KB (300 words) - 01:10, 2 October 2017
 
-Edmonds' algorithm
+#### Edmonds' algorithm
+
 In graph theory, Edmonds' algorithm or Chu–Liu/Edmonds' algorithm is an algorithm for finding a spanning arborescence of minimum weight (sometimes called
 7 KB (1,123 words) - 12:08, 19 November 2018
 
-Bron–Kerbosch algorithm
+#### Bron–Kerbosch algorithm
+
 In computer science, the Bron–Kerbosch algorithm is an algorithm for finding maximal cliques in an undirected graph. That is, it lists all subsets of
 15 KB (2,056 words) - 09:22, 29 March 2019
 
-Held–Karp algorithm
+#### Held–Karp algorithm
+
 The Held–Karp algorithm, also called Bellman–Held–Karp algorithm, is a dynamic programming algorithm proposed in 1962 independently by Bellman and by Held
 10 KB (1,665 words) - 23:04, 19 February 2019
 
-Pohlig–Hellman algorithm
+#### Pohlig–Hellman algorithm
+
 theory, the Pohlig–Hellman algorithm, sometimes credited as the Silver–Pohlig–Hellman algorithm, is a special-purpose algorithm for computing discrete logarithms
 6 KB (956 words) - 13:16, 29 March 2018
 
-GSP algorithm
+#### GSP algorithm
+
 GSP algorithm (Generalized Sequential Pattern algorithm) is an algorithm used for sequence mining. The algorithms for solving sequence mining problems
 4 KB (570 words) - 10:58, 31 December 2018
 
-Buchberger's algorithm
+#### Buchberger's algorithm
+
 algebraic geometry and computational commutative algebra, Buchberger's algorithm is a method of transforming a given set of generators for a polynomial
 6 KB (756 words) - 00:56, 3 October 2018
 
-Tridiagonal matrix algorithm
+#### Tridiagonal matrix algorithm
+
 In numerical linear algebra, the tridiagonal matrix algorithm, also known as the Thomas algorithm (named after Llewellyn Thomas), is a simplified form
 11 KB (2,314 words) - 17:19, 27 January 2019
 
-Sutherland–Hodgman algorithm
+#### Sutherland–Hodgman algorithm
+
 The Sutherland–Hodgman algorithm is used for clipping polygons. It works by extending each line of the convex clip polygon in turn and selecting only
 4 KB (574 words) - 12:12, 3 April 2019
 
-Breadth-first search (redirect from BFS algorithm)
+#### Breadth-first search (redirect from BFS algorithm)
+
 Breadth-first search (BFS) is an algorithm for traversing or searching tree or graph data structures. It starts at the tree root (or some arbitrary node
 11 KB (1,453 words) - 22:20, 26 March 2019
 
-List of metaphor-based metaheuristics (redirect from Harmony search algorithm)
-ordered list of metaphor-based metaheuristics and swarm intelligence algorithms. Simulated annealing (SA) is a probabilistic technique inspired by a heat
-62 KB (8,008 words) - 13:07, 28 March 2019
+#### Ukkonen's algorithm
 
-Ukkonen's algorithm
 science, Ukkonen's algorithm is a linear-time, online algorithm for constructing suffix trees, proposed by Esko Ukkonen in 1995. The algorithm begins with an
 4 KB (316 words) - 19:27, 14 February 2019
 
-Bully algorithm
+#### Bully algorithm
+
 In distributed computing, the bully algorithm is a method for dynamically electing a coordinator or leader from a group of distributed computer processes
 5 KB (782 words) - 11:37, 15 August 2018
 
-Karger's algorithm
+#### Karger's algorithm
+
 In computer science and graph theory, Karger's algorithm is a randomized algorithm to compute a minimum cut of a connected graph. It was invented by David
 13 KB (2,385 words) - 21:38, 9 March 2019
 
-Blowfish (cipher) (redirect from Blowfish encryption algorithm)
+#### Blowfish (cipher) (redirect from Blowfish encryption algorithm)
+
 general-purpose algorithm, intended as an alternative to the aging DES and free of the problems and constraints associated with other algorithms. At the time
 16 KB (1,720 words) - 18:43, 10 January 2019
 
-Coppersmith–Winograd algorithm
+#### Coppersmith–Winograd algorithm
+
 Coppersmith–Winograd algorithm, named after Don Coppersmith and Shmuel Winograd, was the asymptotically fastest known matrix multiplication algorithm from 1990 until
 6 KB (681 words) - 19:15, 12 March 2019
 
-Soft output Viterbi algorithm
+#### Soft output Viterbi algorithm
+
 soft output Viterbi algorithm (SOVA) is a variant of the classical Viterbi algorithm. SOVA differs from the classical Viterbi algorithm in that it uses a
 2 KB (205 words) - 23:23, 30 June 2017
 
-Itoh–Tsujii inversion algorithm
+#### Itoh–Tsujii inversion algorithm
+
 The Itoh–Tsujii inversion algorithm is used to invert elements in a finite field. It was introduced in 1988 and first used over GF(2m) using the normal
 2 KB (208 words) - 18:48, 7 March 2019
 
-Cyrus–Beck algorithm
+#### Cyrus–Beck algorithm
+
 The Cyrus–Beck algorithm is a generalized line clipping algorithm. It was designed to be more efficient than the Cohen–Sutherland algorithm, which uses repetitive
 2 KB (290 words) - 20:30, 13 January 2019
 
-Frank–Wolfe algorithm
+#### Frank–Wolfe algorithm
+
 The Frank–Wolfe algorithm is an iterative first-order optimization algorithm for constrained convex optimization. Also known as the conditional gradient
 8 KB (1,182 words) - 23:23, 17 February 2019
 
-Flooding algorithm
+#### Flooding algorithm
+
 A flooding algorithm is an algorithm for distributing material to every part of a graph. The name derives from the concept of inundation by a flood. Flooding
 878 bytes (80 words) - 15:36, 26 January 2018
 
-Artificial bee colony algorithm
+#### Artificial bee colony algorithm
+
 science and operations research, the artificial bee colony algorithm (ABC) is an optimization algorithm based on the intelligent foraging behaviour of honey
 8 KB (1,269 words) - 22:10, 12 January 2019
 
-Twofish (redirect from Twofish encryption algorithm)
+#### Twofish (redirect from Twofish encryption algorithm)
+
 and the other half of the n-bit key is used to modify the encryption algorithm (key-dependent S-boxes). Twofish borrows some elements from other designs;
 7 KB (654 words) - 08:38, 30 October 2018
 
-Sweep line algorithm
+#### Sweep line algorithm
+
 In computational geometry, a sweep line algorithm or plane sweep algorithm is an algorithmic paradigm that uses a conceptual sweep line or sweep surface
 4 KB (471 words) - 12:32, 10 March 2019
 
-Deutsch–Jozsa algorithm
+#### Deutsch–Jozsa algorithm
+
 The Deutsch–Jozsa algorithm is a quantum algorithm, proposed by David Deutsch and Richard Jozsa in 1992 with improvements by Richard Cleve, Artur Ekert
 11 KB (1,856 words) - 20:05, 21 February 2019
 
-Ruppert's algorithm
+#### Ruppert's algorithm
+
 generation, Ruppert's algorithm, also known as Delaunay refinement, is an algorithm for creating quality Delaunay triangulations. The algorithm takes a planar
 7 KB (756 words) - 01:52, 29 December 2018
-
-Asymptotically optimal algorithm
-In computer science, an algorithm is said to be asymptotically optimal if, roughly speaking, for large inputs it performs at worst a constant factor (independent
-6 KB (952 words) - 15:59, 19 June 2017
-
-Algorithmic art
-Algorithmic art, also known as algorithm art, is art, mostly visual art, of which the design is generated by an algorithm. Algorithmic artists are sometimes
-15 KB (1,585 words) - 20:21, 5 April 2019
 
 Ziggurat algorithm
 The ziggurat algorithm is an algorithm for pseudo-random number sampling. Belonging to the class of rejection sampling algorithms, it relies on an underlying
@@ -776,25 +813,9 @@ Nearest-neighbor chain algorithm
 In the theory of cluster analysis, the nearest-neighbor chain algorithm is an algorithm that can speed up several methods for agglomerative hierarchical
 27 KB (3,633 words) - 17:28, 6 August 2017
 
-Cluster analysis (redirect from Clustering algorithm)
-analysis itself is not one specific algorithm, but the general task to be solved. It can be achieved by various algorithms that differ significantly in their
-61 KB (7,827 words) - 17:06, 6 April 2019
-
-Knapsack problem (redirect from Algorithms for solving knapsack problems)
-luggage. A 1998 study of the Stony Brook University Algorithm Repository showed that, out of 75 algorithmic problems, the knapsack problem was the 19th most
-38 KB (6,420 words) - 15:23, 11 March 2019
-
 Line drawing algorithm
 A line drawing algorithm is a graphical algorithm for approximating a line segment on discrete graphical media. On discrete media, such as pixel-based
 3 KB (426 words) - 22:12, 19 December 2018
-
-Boolean satisfiability problem (redirect from Algorithms for solving the boolean satisfiability problem)
-SAT. There is no known algorithm that efficiently solves each SAT problem, and it is generally believed that no such algorithm exists; yet this belief
-54 KB (5,500 words) - 05:57, 11 April 2019
-
-K-way merge algorithm
-In computer science, k-way merge algorithms or multiway merges are a specific type of sequence merge algorithms that specialize in taking in multiple sorted
-14 KB (2,208 words) - 05:22, 5 April 2019
 
 Maekawa's algorithm
 Maekawa's algorithm is an algorithm for mutual exclusion on a distributed system. The basis of this algorithm is a quorum like approach where any one
@@ -816,21 +837,9 @@ Robinson algorithm
 Robinson algorithm may refer to: Robinson's Resolution Algorithm Robinson–Schensted correspondence Robinson's unification algorithm
 597 bytes (14 words) - 14:02, 22 April 2011
 
-Markov algorithm
-science, a Markov algorithm is a string rewriting system that uses grammar-like rules to operate on strings of symbols. Markov algorithms have been shown
-7 KB (1,115 words) - 07:44, 31 March 2019
-
 RC4 (redirect from RC4 decryption algorithm)
 key-scheduling algorithm (KSA). Once this has been completed, the stream of bits is generated using the pseudo-random generation algorithm (PRGA). The key-scheduling
 42 KB (4,932 words) - 07:00, 8 April 2019
-
-Algorithmic paradigm
-algorithmic paradigm or algorithm design paradigm is a generic model or framework which underlies the design of a class of algorithms. An algorithmic
-1 KB (101 words) - 16:56, 23 March 2019
-
-Routing (redirect from Routing algorithm)
-Interior Gateway Routing Protocol (EIGRP). Distance vector algorithms use the Bellman–Ford algorithm. This approach assigns a cost number to each of the links
-25 KB (3,351 words) - 12:06, 1 April 2019
 
 HITS algorithm
 Search (HITS; also known as hubs and authorities) is a link analysis algorithm that rates Web pages, developed by Jon Kleinberg. The idea behind Hubs
@@ -852,10 +861,6 @@ Junction tree algorithm
 The junction tree algorithm (also known as 'Clique Tree') is a method used in machine learning to extract marginalization in general graphs. In essence
 11 KB (1,119 words) - 17:12, 3 December 2018
 
-Cholesky decomposition (redirect from Cholesky algorithm)
-computational complexity of commonly used algorithms is O(n3) in general.[citation needed] The algorithms described below all involve about n3/3 FLOPs
-36 KB (6,105 words) - 00:42, 28 March 2019
-
 Fortune's algorithm
 Fortune's algorithm is a sweep line algorithm for generating a Voronoi diagram from a set of points in a plane using O(n log n) time and O(n) space. It
 9 KB (1,394 words) - 11:36, 27 December 2018
@@ -863,10 +868,6 @@ Fortune's algorithm is a sweep line algorithm for generating a Voronoi diagram f
 Goertzel algorithm
 The Goertzel algorithm is a technique in digital signal processing (DSP) that provides a means for efficient evaluation of individual terms of the discrete
 19 KB (2,481 words) - 19:10, 5 March 2019
-
-Exponentiation by squaring (redirect from Square-and-multiply algorithm)
-matrix. Some variants are commonly referred to as square-and-multiply algorithms or binary exponentiation. These can be of quite general use, for example
-27 KB (3,845 words) - 02:07, 22 February 2019
 
 Marching cubes (redirect from Marching cubes algorithm)
 Marching cubes is a computer graphics algorithm, published in the 1987 SIGGRAPH proceedings by Lorensen and Cline, for extracting a polygonal mesh of
@@ -884,25 +885,9 @@ Gauss–Newton algorithm
 The Gauss–Newton algorithm is used to solve non-linear least squares problems. It is a modification of Newton's method for finding a minimum of a function
 19 KB (3,101 words) - 05:10, 5 March 2019
 
-Algorithm engineering
-Algorithm engineering focuses on the design, analysis, implementation, optimization, profiling and experimental evaluation of computer algorithms, bridging
-8 KB (909 words) - 09:35, 12 December 2018
-
 Digital differential analyzer (graphics algorithm)
 Bresenham's line algorithm is an algorithm for line rendering. incremental error algorithm Xiaolin Wu's line algorithm is an algorithm for line anti-aliasing
 4 KB (722 words) - 07:21, 11 April 2019
-
-Advanced cardiac life support (redirect from Algorithms for advanced cardiac life support)
-(VT) Algorithm Bradycardia Algorithm Tachycardia Algorithms Respiratory Arrest Algorithm Opioid Emergency Algorithm Post-Cardiac Arrest Algorithm Suspected
-16 KB (1,835 words) - 23:49, 9 April 2019
-
-Travelling salesman problem (redirect from Approximation algorithms for the traveling salesman problem)
-problems. Thus, it is possible that the worst-case running time for any algorithm for the TSP increases superpolynomially (but no more than exponentially)
-73 KB (9,854 words) - 02:03, 2 April 2019
-
-Dynamic programming (redirect from List of algorithms that use dynamic programming)
-Algorithms). Hence, one can easily formulate the solution for finding shortest paths in a recursive manner, which is what the Bellman–Ford algorithm or
-63 KB (9,655 words) - 23:46, 15 February 2019
 
 Data Authentication Algorithm
 The Data Authentication Algorithm (DAA) is a former U.S. government standard for producing cryptographic message authentication codes. DAA is defined
@@ -968,10 +953,6 @@ Snapshot algorithm
 it. A snapshot algorithm avoids such inconsistencies. Chandy-Lamport algorithm Lai-Yang algorithm Spezialetti-Kearns algorithm Mattern's algorithm
 992 bytes (129 words) - 18:46, 10 August 2018
 
-Chromosome (genetic algorithm)
-In genetic algorithms, a chromosome (also sometimes called a genotype) is a set of parameters which define a proposed solution to the problem that the
-4 KB (453 words) - 16:32, 18 February 2019
-
 Backpropagation (redirect from BP algorithm)
 optimization algorithm to adjust the weight of neurons by calculating the gradient of the loss function. The goal of any supervised learning algorithm is to
 27 KB (3,682 words) - 02:21, 10 April 2019
@@ -991,10 +972,6 @@ The Lempel–Ziv–Markov chain algorithm (LZMA) is an algorithm used to perform
 Cristian's algorithm
 Cristian's algorithm (introduced by Flaviu Cristian in 1989) is a method for clock synchronization which can be used in many fields of distributive computer
 3 KB (369 words) - 13:31, 15 July 2018
-
-Simulated annealing (redirect from Simulated annealing algorithms)
-variables. This notion of slow cooling implemented in the simulated annealing algorithm is interpreted as a slow decrease in the probability of accepting worse
-29 KB (3,884 words) - 08:27, 8 April 2019
 
 Nearest neighbor search (redirect from Post-office search algorithm)
 character recognition Statistical classification – see k-nearest neighbor algorithm Computer vision Computational geometry – see Closest pair of points problem
@@ -1024,10 +1001,6 @@ Distance-vector routing protocol (redirect from Distance-vector algorithm)
 Distance-vector routing protocols use the Bellman–Ford algorithm and Ford–Fulkerson algorithm to calculate the best route. Another way of calculating
 19 KB (1,511 words) - 18:35, 15 March 2019
 
-Clonal selection algorithm
-In artificial immune systems, clonal selection algorithms are a class of algorithms inspired by the clonal selection theory of acquired immunity that explains
-4 KB (328 words) - 22:52, 20 February 2019
-
 Integer factorization (redirect from Prime factorization algorithm)
 are sufficiently large, no efficient, non-quantum integer factorization algorithm is known. An effort by several researchers, concluded in 2009, to factor
 22 KB (2,915 words) - 12:19, 1 April 2019
@@ -1035,14 +1008,6 @@ are sufficiently large, no efficient, non-quantum integer factorization algorith
 Linde–Buzo–Gray algorithm
 The Linde–Buzo–Gray algorithm (introduced by Yoseph Linde, Andrés Buzo and Robert M. Gray in 1980) is a vector quantization algorithm to derive a good codebook
 1 KB (135 words) - 08:31, 14 March 2019
-
-Streaming algorithm
-In computer science, streaming algorithms are algorithms for processing data streams in which the input is presented as a sequence of items and can be
-26 KB (3,550 words) - 19:16, 23 November 2018
-
-Algorithm selection
-Algorithm selection (sometimes also called per-instance algorithm selection or offline algorithm selection) is a meta-algorithmic technique to choose
-13 KB (1,766 words) - 17:04, 23 March 2019
 
 God's algorithm
 God's algorithm is a notion originating in discussions of ways to solve the Rubik's Cube puzzle, but which can also be applied to other combinatorial
@@ -1076,17 +1041,9 @@ Verhoeff algorithm
 The Verhoeff algorithm is a checksum formula for error detection developed by the Dutch mathematician Jacobus Verhoeff and was first published in 1969
 14 KB (935 words) - 07:21, 23 January 2018
 
-List of genetic algorithm applications
-This is a list of genetic algorithm (GA) applications. Bayesian inference links to particle methods in Bayesian statistics and hidden Markov chain models
-22 KB (2,054 words) - 13:08, 22 February 2019
-
 Wagner–Fischer algorithm
 Wagner–Fischer algorithm is a dynamic programming algorithm that computes the edit distance between two strings of characters. The Wagner–Fischer algorithm has a
 10 KB (1,199 words) - 05:40, 17 February 2019
-
-Quantum computing (redirect from Quantum search algorithms)
-classical computer could not. In 1994, Peter Shor shocked the world with an algorithm that had the potential to decrypt all secured communications. There are
-99 KB (11,229 words) - 06:25, 3 April 2019
 
 Prime-factor FFT algorithm
 The prime-factor algorithm (PFA), also called the Good–Thomas algorithm (1958/1963), is a fast Fourier transform (FFT) algorithm that re-expresses the
@@ -1095,10 +1052,6 @@ The prime-factor algorithm (PFA), also called the Good–Thomas algorithm (1958/
 TF algorithm
 TF algorithm may refer to: Teknomo–Fernandez algorithm, an algorithm for generating the background image of a given video sequence TensorFlow, an open-source
 235 bytes (29 words) - 16:34, 21 August 2017
-
-Lossless compression (redirect from Magic compression algorithm)
-Lossless compression is a class of data compression algorithms that allows the original data to be perfectly reconstructed from the compressed data. By
-34 KB (4,310 words) - 09:06, 21 March 2019
 
 Chandy–Lamport algorithm
 The Chandy–Lamport algorithm is a snapshot algorithm that is used in distributed systems for recording a consistent global state of an asynchronous system
@@ -1111,10 +1064,6 @@ common prefixes and suffixes can be skipped in linear time. The first algorithm 
 Ostrich algorithm
 In computer science, the ostrich algorithm is a strategy of ignoring potential problems on the basis that they may be exceedingly rare. It is named for
 3 KB (434 words) - 17:14, 21 January 2019
-
-Algorithm (C++)
-the <algorithm> standard header. A handful of algorithms are also in the <numeric> header. All algorithms are in the std namespace. The algorithms in the
-3 KB (277 words) - 08:21, 29 November 2018
 
 Lehmer's GCD algorithm
 Lehmer's GCD algorithm, named after Derrick Henry Lehmer, is a fast GCD algorithm, an improvement on the simpler but slower Euclidean algorithm. It is mainly
@@ -1131,10 +1080,6 @@ reduction of overfitting. One of the questions that arises in a decision tree al
 Luhn mod N algorithm
 The Luhn mod N algorithm is an extension to the Luhn algorithm (also known as mod 10 algorithm) that allows it to work with sequences of non-numeric characters
 8 KB (919 words) - 23:36, 2 April 2019
-
-Empirical algorithmics
-science, empirical algorithmics (or experimental algorithmics) is the practice of using empirical methods to study the behavior of algorithms. The practice
-13 KB (1,194 words) - 19:43, 9 February 2019
 
 Trapdoor function (redirect from Trapdoor algorithm)
 mechanism that is added to a cryptographic algorithm (e.g., a key pair generation algorithm, digital signing algorithm, etc.) or operating system, for example
@@ -1180,10 +1125,6 @@ Block-matching algorithm
 A Block Matching Algorithm is a way of locating matching macroblocks in a sequence of digital video frames for the purposes of motion estimation. The
 16 KB (2,616 words) - 14:51, 9 February 2019
 
-Watershed (image processing) (redirect from Watershed segmentation algorithm)
-continuous domain. There are also many different algorithms to compute watersheds. Watershed algorithm is used in image processing primarily for segmentation
-13 KB (1,821 words) - 15:05, 1 April 2019
-
 CORDIC (redirect from CORDIC algorithm)
 Rotation DIgital Computer), also known as Volder's algorithm, is a simple and efficient algorithm to calculate hyperbolic and trigonometric functions
 57 KB (5,803 words) - 16:11, 30 March 2019
@@ -1196,17 +1137,9 @@ Aho–Corasick algorithm
 Aho–Corasick algorithm is a string-searching algorithm invented by Alfred V. Aho and Margaret J. Corasick. It is a kind of dictionary-matching algorithm that
 6 KB (778 words) - 07:03, 15 March 2019
 
-Deadlock prevention algorithms
-In computer science, deadlock prevention algorithms are used in concurrent programming when multiple processes must acquire more than one shared resource
-7 KB (972 words) - 07:36, 15 August 2018
-
 Emergent algorithm
 An emergent algorithm is an algorithm that exhibits emergent behavior. In essence an emergent algorithm implements a set of simple building block behaviors
 2 KB (176 words) - 21:27, 22 September 2017
-
-Memetic algorithm
-Memetic algorithms (MAs) represent one of the recent growing areas of research in evolutionary computation. The term MA is now widely used as a synergy
-23 KB (2,657 words) - 12:07, 20 February 2019
 
 Hyphenation algorithm
 A hyphenation algorithm is a set of rules, especially one codified for implementation in a computer program, that decides at which points a word can be
@@ -1252,10 +1185,6 @@ Chang and Roberts algorithm
 The Chang and Roberts algorithm is a ring-based coordinator election algorithm, employed in distributed computing. The algorithm assumes that each process
 4 KB (582 words) - 01:58, 20 November 2017
 
-Artificial neural network (redirect from Convergent recursive learning algorithm)
-The neural network itself is not an algorithm, but rather a framework for many different machine learning algorithms to work together and process complex
-167 KB (19,818 words) - 22:11, 6 April 2019
-
 Berndt–Hall–Hall–Hausman algorithm
 Berndt–Hall–Hall–Hausman (BHHH) algorithm is a numerical optimization algorithm similar to the Newton–Raphson algorithm, but it replaces the observed negative
 3 KB (417 words) - 22:44, 6 March 2019
@@ -1279,10 +1208,6 @@ thresholding, or, the reduction of a graylevel image to a binary image. The algo
 Loopless algorithm
 computational combinatorics, a loopless algorithm or loopless imperative algorithm is an imperative algorithm that generates successive combinatorial
 2 KB (196 words) - 09:18, 19 January 2016
-
-Data compression (redirect from Data compression algorithm)
-the earliest algorithms used in speech encoding (and audio data compression in general) were the A-law algorithm and the µ-law algorithm. A literature
-46 KB (5,519 words) - 17:47, 9 April 2019
 
 Leaky bucket (redirect from Leaky bucket algorithm)
 The leaky bucket is an algorithm based on an analogy of how a bucket with a leak will overflow if either the average rate at which water is poured in
@@ -1359,10 +1284,6 @@ Powell's method, strictly Powell's conjugate direction method, is an algorithm p
 Dijkstra–Scholten algorithm
 Dijkstra–Scholten algorithm (named after Edsger W. Dijkstra and Carel S. Scholten) is an algorithm for detecting termination in a distributed system. The algorithm was
 5 KB (754 words) - 20:46, 6 October 2017
-
-Heuristic (computer science) (redirect from Heuristic algorithm)
-called simply a heuristic, is a function that ranks alternatives in search algorithms at each branching step based on available information to decide which
-10 KB (1,521 words) - 23:11, 29 November 2018
 
 Mean shift (redirect from Mean-shift algorithm)
 for locating the maxima of a density function, a so-called mode-seeking algorithm. Application domains include cluster analysis in computer vision and image
@@ -1460,10 +1381,6 @@ Certifying algorithm
 In theoretical computer science, a certifying algorithm is an algorithm that outputs, together with a solution to the problem it solves, a proof that
 5 KB (666 words) - 12:31, 16 May 2018
 
-Independent set (graph theory) (redirect from Approximation algorithms for the maximum independent set problem)
-optimization problem. As such, it is unlikely that there exists an efficient algorithm for finding a maximum independent set of a graph. Every maximum independent
-23 KB (2,624 words) - 21:01, 20 February 2019
-
 Dykstra's projection algorithm
 Dykstra's algorithm is a method that computes a point in the intersection of convex sets, and is a variant of the alternating projection method (also
 4 KB (618 words) - 22:57, 26 January 2019
@@ -1492,10 +1409,6 @@ Water filling algorithm
 Water filling algorithm is a general name given to the ideas in communication systems design and practice for equalization strategies on communications
 2 KB (221 words) - 22:04, 19 March 2018
 
-Recursion (computer science) (redirect from Recursive algorithm)
-even if this program contains no explicit repetitions. — Niklaus Wirth, Algorithms + Data Structures = Programs, 1976 Most computer programming languages
-55 KB (6,705 words) - 18:58, 6 February 2019
-
 Path-based strong component algorithm
 strongly connected components of a directed graph may be found using an algorithm that uses depth-first search in combination with two stacks, one to keep
 4 KB (591 words) - 19:06, 9 March 2019
@@ -1507,10 +1420,6 @@ The difference-map algorithm is a search algorithm for general constraint satisf
 Bat algorithm
 The Bat algorithm is a metaheuristic algorithm for global optimization. It was inspired by the echolocation behaviour of microbats, with varying pulse
 3 KB (357 words) - 05:07, 9 October 2018
-
-External memory algorithm
-In computing, external memory algorithms or out-of-core algorithms are algorithms that are designed to process data that is too large to fit into a computer's
-8 KB (971 words) - 10:42, 13 February 2019
 
 Hunt–McIlroy algorithm
 the Hunt–McIlroy algorithm is a solution to the longest common subsequence problem. It was one of the first non-heuristic algorithms used in diff. To
@@ -1536,14 +1445,6 @@ Nelder–Mead method (redirect from Nelder-Mead algorithm)
 shrink the simplex towards a better point. An intuitive explanation of the algorithm is presented in: The downhill simplex method now takes a series of steps
 16 KB (2,204 words) - 21:38, 26 March 2019
 
-The Algorithm Auction
-The Algorithm Auction is the world’s first auction of computer algorithms. Created by Ruse Laboratories, the initial auction featured seven lots and was
-4 KB (442 words) - 14:43, 11 March 2017
-
-Replacement algorithm
-Two kinds of replacement algorithms exist: Local replacement algorithm Page replacement algorithm
-429 bytes (12 words) - 19:52, 2 August 2012
-
 Vatti clipping algorithm
 The Vatti clipping algorithm is used in computer graphics. It allows clipping of any number of arbitrarily shaped subject polygons by any number of arbitrarily
 3 KB (301 words) - 05:43, 30 March 2017
@@ -1555,10 +1456,6 @@ The Eisenberg & McGuire algorithm is an algorithm for solving the critical secti
 Polynomial greatest common divisor (redirect from Euclid's algorithm for polynomials)
 polynomial GCD may be computed, like for the integer GCD, by Euclid's algorithm using long division. The polynomial GCD is defined only up to the multiplication
 48 KB (8,064 words) - 20:56, 3 March 2019
-
-Post-quantum cryptography (redirect from Algorithms for post-quantum cryptography)
-quantum-safe or quantum-resistant) refers to cryptographic algorithms (usually public-key algorithms) that are thought to be secure against an attack by a
-42 KB (4,638 words) - 17:03, 26 March 2019
 
 Edge disjoint shortest pair algorithm
 Edge disjoint shortest pair algorithm is an algorithm in computer network routing. The algorithm is used for generating the shortest pair of edge disjoint
@@ -1612,10 +1509,6 @@ Temporally ordered routing algorithm
 The Temporally Ordered Routing Algorithm (TORA) is an algorithm for routing data across Wireless Mesh Networks or Mobile ad hoc networks. It was developed
 6 KB (936 words) - 11:36, 9 September 2017
 
-Quantum optimization algorithms
-respect to the best known classical algorithm. Among other quantum algorithms, there are quantum optimization algorithms which might suggest improvement in
-11 KB (1,713 words) - 16:33, 7 March 2019
-
 D* (redirect from Stentz's Algorithm)
 three related incremental search algorithms: The original D*, by Anthony Stentz, is an informed incremental search algorithm. Focussed D* is an informed incremental
 11 KB (1,422 words) - 03:13, 16 February 2019
@@ -1631,14 +1524,6 @@ In graph theory, the Stoer–Wagner algorithm is a recursive algorithm to solve 
 Bruun's FFT algorithm
 Bruun's algorithm is a fast Fourier transform (FFT) algorithm based on an unusual recursive polynomial-factorization approach, proposed for powers of
 11 KB (2,110 words) - 19:39, 28 October 2018
-
-RC algorithm
-The RC algorithms are a set of symmetric-key encryption algorithms invented by Ron Rivest. The "RC" may stand for either Rivest's cipher or, more informally
-864 bytes (122 words) - 09:00, 10 September 2017
-
-Outline of machine learning (redirect from Machine learning algorithms)
-explores the study and construction of algorithms that can learn from and make predictions on data. Such algorithms operate by building a model from an example
-41 KB (3,618 words) - 04:06, 21 March 2019
 
 Coffman–Graham algorithm
 In job shop scheduling and graph drawing, the Coffman–Graham algorithm is an algorithm, named after Edward G. Coffman, Jr. and Ronald Graham, for arranging
@@ -1659,10 +1544,6 @@ an anytime algorithm is an algorithm that can return a valid solution to a probl
 Hirschberg–Sinclair algorithm
 The Hirschberg–Sinclair algorithm is a distributed algorithm designed for leader election problem in a synchronous ring network. It is named after its
 2 KB (273 words) - 01:33, 10 July 2018
-
-Rendering (computer graphics) (redirect from The Viewing Algorithm)
-ways to simulate these efficiently. Some relate directly to particular algorithms and techniques, while others are produced together. Shading – how the
-52 KB (5,739 words) - 05:35, 16 March 2019
 
 Day–Stout–Warren algorithm
 The Day–Stout–Warren (DSW) algorithm is a method for efficiently balancing binary search trees — that is, decreasing their height to O(log n) nodes, where
@@ -1700,10 +1581,6 @@ Lander–Green algorithm
 The Lander–Green algorithm is an algorithm, due to Eric Lander and Philip Green for computing the likelihood of observed genotype data given a pedigree
 1 KB (98 words) - 19:41, 2 September 2017
 
-Local search (optimization) (redirect from Local search (algorithms))
-of local search algorithms are WalkSAT, the 2-opt algorithm for the Traveling Salesman Problem and the Metropolis–Hastings algorithm. Some problems where
-7 KB (944 words) - 23:48, 5 January 2019
-
 Schreier–Sims algorithm
 The Schreier–Sims algorithm is an algorithm in computational group theory named after mathematicians Otto Schreier and Charles Sims. Once performed, it
 7 KB (978 words) - 17:18, 9 April 2019
@@ -1712,14 +1589,6 @@ SMAWK algorithm
 The SMAWK algorithm is an algorithm for finding the minimum value in each row of an implicitly-defined totally monotone matrix. It is named after the
 6 KB (705 words) - 23:39, 9 February 2019
 
-Ray tracing (graphics) (redirect from Algorithms for ray tracing)
-objects in the scene. Once the nearest object has been identified, the algorithm will estimate the incoming light at the point of intersection, examine
-37 KB (5,322 words) - 22:20, 17 March 2019
-
-Algorithmic complexity
-Algorithmic complexity may refer to: In algorithmic information theory, the complexity of a particular string, in terms of all algorithms that generate
-457 bytes (60 words) - 01:20, 6 March 2018
-
 MD2 (hash function) (redirect from Message Digest Algorithm 2)
 The MD2 Message-Digest Algorithm is a cryptographic hash function developed by Ronald Rivest in 1989. The algorithm is optimized for 8-bit computers. MD2
 8 KB (973 words) - 20:49, 7 October 2018
@@ -1727,10 +1596,6 @@ The MD2 Message-Digest Algorithm is a cryptographic hash function developed by R
 Quantum algorithm for linear systems of equations
 The quantum algorithm for linear systems of equations, designed by Aram Harrow, Avinatan Hassidim, and Seth Lloyd, is a quantum algorithm formulated in
 26 KB (3,808 words) - 05:02, 30 March 2019
-
-Clique problem (redirect from Approximation algorithms for the clique problem)
-Then a clique represents a subset of people who all know each other, and algorithms for finding cliques can be used to discover these groups of mutual friends
-82 KB (9,713 words) - 13:33, 7 February 2019
 
 Schur algorithm
 the Schur algorithm may be: The Schur algorithm for expanding a function in the Schur class as a continued fraction The Lehmer–Schur algorithm for finding
@@ -1756,10 +1621,6 @@ Manhattan address algorithm
 The Manhattan address algorithm refers to the formulas used to estimate the closest east–west cross street for building numbers on north–south avenues
 8 KB (95 words) - 00:34, 4 April 2019
 
-Algorithmic composition
-Algorithmic composition is the technique of using algorithms to create music. Algorithms (or, at the very least, formal sets of rules) have been used to
-15 KB (1,790 words) - 10:15, 9 April 2019
-
 Chan's algorithm
 In computational geometry, Chan's algorithm, named after Timothy M. Chan, is an optimal output-sensitive algorithm to compute the convex hull of a set
 18 KB (3,594 words) - 18:22, 30 January 2019
@@ -1771,18 +1632,6 @@ The Lemke–Howson algorithm is an algorithm that computes a Nash equilibrium of
 Raita algorithm
 science, the Raita algorithm is a string searching algorithm which improves the performance of Boyer-Moore-Horspool algorithm. This algorithm preprocesses the
 4 KB (579 words) - 03:53, 21 August 2018
-
-Scheduling (computing) (redirect from Scheduling algorithm)
-scheduling algorithm is used as an alternative to first-come first-served queuing of data packets. The simplest best-effort scheduling algorithms are round-robin
-40 KB (5,088 words) - 19:07, 25 March 2019
-
-Fingerprint (computing) (redirect from Fingerprinting algorithm)
-In computer science, a fingerprinting algorithm is a procedure that maps an arbitrarily large data item (such as a computer file) to a much shorter bit
-8 KB (1,039 words) - 00:55, 15 February 2019
-
-Algorithm (album)
-Algorithm is the first studio album from My Heart to Fear. Solid State Records released the album on July 9, 2013. Awarding the album three stars from
-6 KB (353 words) - 20:10, 4 December 2018
 
 Google Panda (redirect from Panda algorithm)
 Google Panda is a major change to Google's search results ranking algorithm that was first released in February 2011. The change aimed to lower the rank
@@ -1799,10 +1648,6 @@ Huang's algorithm is an algorithm for detecting termination in a distributed sys
 Berlekamp–Zassenhaus algorithm
 particular in computational algebra, the Berlekamp–Zassenhaus algorithm is an algorithm for factoring polynomials over the integers, named after Elwyn
 3 KB (292 words) - 16:05, 17 September 2018
-
-Algorithmic game theory
-understanding and design of algorithms in strategic environments. Typically, in Algorithmic Game Theory problems, the input to a given algorithm is distributed among
-8 KB (935 words) - 03:18, 18 February 2019
 
 De Casteljau's algorithm
 In the mathematical field of numerical analysis, De Casteljau's algorithm is a recursive method to evaluate polynomials in Bernstein form or Bézier curves
@@ -1832,21 +1677,9 @@ Golden-section search (redirect from Golden ratio algorithm)
 the fact that the algorithm maintains the function values for triples of points whose distances form a golden ratio. The algorithm is the limit of Fibonacci
 18 KB (2,171 words) - 23:28, 27 November 2018
 
-Association rule learning (redirect from Eclat algorithm)
-user-specified significance level. Many algorithms for generating association rules have been proposed. Some well-known algorithms are Apriori, Eclat and FP-Growth
-37 KB (5,028 words) - 11:24, 1 April 2019
-
 Euclidean division (redirect from Division algorithm for integers)
 computation are called integer division algorithms, the best known being long division. Euclidean division, and algorithms to compute it, are fundamental for
 13 KB (1,805 words) - 12:04, 29 March 2019
-
-Competitive analysis (online algorithm)
-analysis is a method invented for analyzing online algorithms, in which the performance of an online algorithm (which must satisfy an unpredictable sequence
-6 KB (789 words) - 22:21, 29 December 2016
-
-NSA cryptography (redirect from NSA encryption algorithms)
-information about its cryptographic algorithms. The NSA has categorized encryption items into four product types, and algorithms into two suites. The following
-9 KB (419 words) - 05:24, 5 March 2019
 
 Brooks–Iyengar algorithm
 The Brooks–Iyengar algorithm or Brooks–Iyengar hybrid algorithm is a distributed algorithm that improves both the precision and accuracy of the interval
@@ -1868,10 +1701,6 @@ COmponent Detection Algorithm
 The Component Detection Algorithm (CODA) is a name for a type of LC-MS and chemometrics software algorithm focused on detecting peaks in noisy chromatograms
 2 KB (177 words) - 15:55, 30 March 2019
 
-Solution algorithms for pressure-velocity coupling in steady flows
-Solution algorithms for pressure-velocity coupling in steady flows are the standard prepossessing methods used to solve steady problems in computational
-7 KB (1,132 words) - 13:11, 19 January 2015
-
 Index calculus algorithm
 In computational number theory, the index calculus algorithm is a probabilistic algorithm for computing discrete logarithms. Dedicated to the discrete
 9 KB (1,513 words) - 05:46, 1 April 2019
@@ -1879,14 +1708,6 @@ In computational number theory, the index calculus algorithm is a probabilistic 
 BFR algorithm
 The BFR algorithm, named after its inventors Bradley, Fayyad and Reina, is a variant of k-means algorithm that is designed to cluster data in a high-dimensional
 841 bytes (91 words) - 19:13, 20 May 2018
-
-Semidefinite programming (redirect from Algorithms for semidefinite programming)
-tools for developing approximation algorithms for NP-hard maximization problems. The first approximation algorithm based on an SDP is due to Michel Goemans
-18 KB (3,340 words) - 15:13, 5 February 2019
-
-Timeline of Google Search (redirect from Google Algorithm updates in 2017)
-1.    "Explaining algorithm updates and data refreshes". 2006-12-23. Levy, Steven (February 22, 2010). "Exclusive: How Google's Algorithm Rules the Web"
-85 KB (4,115 words) - 08:18, 6 April 2019
 
 Tarjan's off-line lowest common ancestors algorithm
 In computer science, Tarjan's off-line lowest common ancestors algorithm is an algorithm for computing lowest common ancestors for pairs of nodes in a
@@ -1923,10 +1744,6 @@ Berndt–Hall–Hall–Hausman (BHHH) algorithm is a numerical optimization algo
 Correctness (computer science) (redirect from Partial algorithm)
 theoretical computer science, correctness of an algorithm is asserted when it is said that the algorithm is correct with respect to a specification. Functional
 6 KB (670 words) - 00:14, 13 January 2019
-
-Unsupervised learning (redirect from Algorithms for unsupervised learning)
-most common algorithms used in unsupervised learning include: Clustering hierarchical clustering, k-means mixture models DBSCAN OPTICS algorithm Anomaly detection
-9 KB (1,073 words) - 11:10, 9 April 2019
 
 Lenstra–Lenstra–Lovász lattice basis reduction algorithm
 Lenstra–Lenstra–Lovász (LLL) lattice basis reduction algorithm is a polynomial time lattice reduction algorithm invented by Arjen Lenstra, Hendrik Lenstra and
@@ -1992,10 +1809,6 @@ Sethi–Ullman algorithm
 In computer science, the Sethi–Ullman algorithm is an algorithm named after Ravi Sethi and Jeffrey D. Ullman, its inventors, for translating abstract
 6 KB (874 words) - 10:33, 22 December 2017
 
-Force-directed graph drawing (redirect from Spring based algorithm)
-Force-directed graph drawing algorithms are a class of algorithms for drawing graphs in an aesthetically-pleasing way. Their purpose is to position the
-18 KB (2,257 words) - 19:04, 2 January 2019
-
 Viola–Jones object detection framework (redirect from Viola-Jones algorithm)
 quite acceptable. The characteristics of Viola–Jones algorithm which make it a good detection algorithm are: Robust – very high detection rate (true-positive
 14 KB (1,980 words) - 15:44, 30 March 2019
@@ -2048,21 +1861,9 @@ Fiduccia-Mattheyses algorithm
 Fiduccia and Mattheyses. This heuristic is commonly called the FM algorithm. FM algorithm is a linear time heuristic for improving network partitions. New
 2 KB (224 words) - 23:40, 19 January 2015
 
-Decision tree learning (redirect from Decision Tree Training Algorithm)
-learning algorithms are based on heuristics such as the greedy algorithm where locally optimal decisions are made at each node. Such algorithms cannot guarantee
-31 KB (4,256 words) - 08:18, 11 April 2019
-
-Human-based genetic algorithm
-In evolutionary computation, a human-based genetic algorithm (HBGA) is a genetic algorithm that allows humans to contribute solution suggestions to the
-9 KB (977 words) - 11:59, 1 April 2019
-
 Nested radical (redirect from Landau's denesting algorithm)
 Susan Landau introduced the first algorithm for deciding which nested radicals can be denested. Earlier algorithms worked in some cases but not others
 11 KB (2,112 words) - 13:37, 13 February 2019
-
-Cultural algorithm
-component. In this sense, cultural algorithms can be seen as an extension to a conventional genetic algorithm. Cultural algorithms were introduced by Reynolds
-5 KB (545 words) - 04:10, 29 March 2019
 
 Kernighan–Lin algorithm
 Lin–Kernighan heuristic. The Kernighan–Lin algorithm is a heuristic algorithm for finding partitions of graphs. The algorithm has important applications in the
@@ -2104,25 +1905,9 @@ Sardinas–Patterson algorithm
 In coding theory, the Sardinas–Patterson algorithm is a classical algorithm for determining in polynomial time whether a given variable-length code is
 9 KB (1,365 words) - 20:17, 6 March 2018
 
-Comparison gallery of image scaling algorithms
-This gallery shows the results of a large number of image scaling algorithms which is too cumbersome to include in the main image scaling article. An image
-7 KB (217 words) - 09:18, 20 March 2019
-
-Automatic clustering algorithms
-Automatic clustering algorithms are algorithms that can perform clustering without prior knowledge of data sets. In contrast with other cluster analysis
-10 KB (1,259 words) - 00:22, 30 January 2019
-
-Fitness function (redirect from Fitness (genetic algorithm))
-genetic algorithms to guide simulations towards optimal design solutions. In particular, in the fields of genetic programming and genetic algorithms, each
-4 KB (492 words) - 20:40, 10 May 2018
-
 SAMV (algorithm)
 sparse asymptotic minimum variance) is a parameter-free superresolution algorithm for the linear inverse problem in spectral estimation, direction-of-arrival
 12 KB (1,802 words) - 19:04, 10 April 2019
-
-Hidden-line removal (redirect from Hidden-line algorithms)
-O(log n)-time, hidden-line algorithm. The hidden-surface algorithm, using n2/log n CREW PRAM processors, is work-optimal. The hidden-line algorithm uses n2 exclusive
-9 KB (1,348 words) - 23:17, 9 December 2018
 
 Out-of-kilter algorithm
 The out-of-kilter algorithm is an algorithm that computes the solution to the minimum-cost flow problem in a flow network. It was published in 1961 by
@@ -2148,10 +1933,6 @@ Williams's p + 1 algorithm
 theory, Williams's p + 1 algorithm is an integer factorization algorithm, one of the family of algebraic-group factorisation algorithms. It was invented by
 5 KB (826 words) - 01:20, 21 December 2017
 
-Estimation of distribution algorithm
-Estimation of distribution algorithms (EDAs), sometimes called probabilistic model-building genetic algorithms (PMBGAs), are stochastic optimization methods
-26 KB (3,989 words) - 23:26, 21 February 2019
-
 Marr–Hildreth algorithm
 In computer vision, the Marr–Hildreth algorithm is a method of detecting edges in digital images, that is, continuous curves where there are strong and
 2 KB (279 words) - 08:09, 8 February 2019
@@ -2160,10 +1941,6 @@ Pointcheval–Stern signature algorithm
 In cryptography, the Pointcheval–Stern signature algorithm is a digital signature scheme based on the closely related ElGamal signature scheme. It changes
 1 KB (134 words) - 20:17, 14 February 2016
 
-Algorithms (journal)
-Algorithms is a monthly peer-reviewed open-access scientific journal of mathematics, covering design, analysis, and experiments on algorithms. The journal
-3 KB (183 words) - 01:45, 20 November 2018
-
 Arnoldi iteration (redirect from Arnoldi's algorithm)
 In numerical linear algebra, the Arnoldi iteration is an eigenvalue algorithm and an important example of an iterative method. Arnoldi finds an approximation
 13 KB (1,953 words) - 20:22, 9 April 2019
@@ -2171,10 +1948,6 @@ In numerical linear algebra, the Arnoldi iteration is an eigenvalue algorithm an
 Beier–Neely morphing algorithm
 end-points are given for both images. The algorithm is widely used within morphing software. Also noteworthy, this algorithm only discussed about the situation
 2 KB (192 words) - 22:50, 10 November 2016
-
-Mark-compact algorithm
-science, a mark-compact algorithm is a type of garbage collection algorithm used to reclaim unreachable memory. Mark-compact algorithms can be regarded as
-5 KB (720 words) - 07:18, 16 March 2019
 
 Longest common subsequence problem (redirect from Difference Algorithm)
 linear in the lengths of the remaining sequences, so the time for this algorithm would be O ( 2 n 1 ∑ i > 1 n i ) . {\displaystyle O\left(2^{n_{1}}\sum
@@ -2188,10 +1961,6 @@ Minimax approximation algorithm
 A minimax approximation algorithm (or L∞ approximation or uniform approximation) is a method to find an approximation of a mathematical function that
 3 KB (295 words) - 23:52, 5 December 2016
 
-Pattern recognition (redirect from Algorithms for pattern recognition)
-automatic discovery of regularities in data through the use of computer algorithms and with the use of these regularities to take actions such as classifying
-34 KB (4,289 words) - 21:56, 17 February 2019
-
 RC6 (redirect from RC6 encryption algorithm)
 competition. The algorithm was one of the five finalists, and also was submitted to the NESSIE and CRYPTREC projects. It was a proprietary algorithm, patented
 6 KB (689 words) - 17:34, 20 November 2018
@@ -2203,10 +1972,6 @@ Liang–Barsky algorithm
 the Liang–Barsky algorithm (named after You-Dong Liang and Brian A. Barsky) is a line clipping algorithm. The Liang–Barsky algorithm uses the parametric
 6 KB (1,093 words) - 10:36, 3 February 2019
 
-Track algorithm
-A Track algorithm is a radar and sonar performance enhancement strategy. Tracking algorithms provide the ability to predict future position of multiple
-17 KB (2,378 words) - 12:23, 3 December 2017
-
 B* (redirect from B-star search algorithm)
 computer science, B* (pronounced "B star") is a best-first graph search algorithm that finds the least-cost path from a given initial node to any goal node
 7 KB (983 words) - 23:52, 31 October 2018
@@ -2214,10 +1979,6 @@ computer science, B* (pronounced "B star") is a best-first graph search algorith
 Commentz-Walter algorithm
 Commentz-Walter algorithm is a string searching algorithm invented by Beate Commentz-Walter. Like the Aho–Corasick string matching algorithm, it can search
 2 KB (172 words) - 23:36, 25 August 2017
-
-NSA product types (redirect from Type 1 algorithm)
-The U.S. National Security Agency (NSA) ranks cryptographic products or algorithms by a certification called product types. Product types are defined in
-5 KB (575 words) - 13:31, 9 April 2019
 
 Lawler's algorithm
 Lawler’s algorithm is a powerful technique for solving a variety of constrained scheduling problems. The algorithm handles any precedence constraints
@@ -2234,14 +1995,6 @@ Quantum counting algorithm is a quantum algorithm for efficiently counting the n
 Vector-radix FFT algorithm
 FFT algorithm, is a multidimensional fast Fourier transform (FFT) algorithm, which is a generalization of the ordinary Cooley–Tukey FFT algorithm that
 10 KB (2,258 words) - 23:33, 24 July 2018
-
-Butterfly diagram (redirect from Butterfly (FFT algorithm))
-diagrams in FFT algorithms; for the sunspot diagrams of the same name, see Solar cycle. In the context of fast Fourier transform algorithms, a butterfly
-6 KB (719 words) - 01:09, 28 July 2017
-
-Collation (redirect from Collation algorithm)
-are not placed in any defined order). A collation algorithm such as the Unicode collation algorithm defines an order through the process of comparing
-17 KB (2,388 words) - 02:06, 24 March 2019
 
 Double dabble (redirect from Shift-and-add-3 algorithm)
 dabble algorithm is used to convert binary numbers into binary-coded decimal (BCD) notation. It is also known as the shift-and-add-3 algorithm, and can
@@ -2283,10 +2036,6 @@ LZX (algorithm)
 LZX is an LZ77 family compression algorithm. It is also the name of a file archiver with the same name. Both were invented by Jonathan Forbes and Tomi
 4 KB (487 words) - 08:53, 30 November 2018
 
-Simple random sample (redirect from Algorithms for simple random sampling)
-choice. Several efficient algorithms for simple random sampling have been developed. A naive algorithm is the draw-by-draw algorithm where at each step we
-9 KB (1,419 words) - 00:52, 14 March 2019
-
 Jenkins–Traub algorithm
 The Jenkins–Traub algorithm for polynomial zeros is a fast globally convergent iterative method published in 1970 by Michael A. Jenkins and Joseph F.
 18 KB (3,411 words) - 19:20, 25 February 2019
@@ -2299,10 +2048,6 @@ Synchronizer (algorithm)
 In computer science, a synchronizer is an algorithm that can be used to run a synchronous algorithm on top of an asynchronous processor network, so enabling
 2 KB (199 words) - 21:03, 9 January 2013
 
-International Psychopharmacology Algorithm Project
-Psychopharmacology Algorithm Project (IPAP) is a non-profit corporation whose purpose is to "enable, enhance, and propagate" use of algorithms for the treatment
-2 KB (216 words) - 00:40, 1 June 2016
-
 Chew's second algorithm
 generation, Chew's second algorithm is a Delaunay refinement algorithm for creating quality constrained Delaunay triangulations. The algorithm takes a piecewise
 3 KB (283 words) - 14:13, 28 February 2018
@@ -2311,17 +2056,9 @@ One-pass algorithm
 one-pass algorithm is a streaming algorithm which reads its input exactly once, in order, without unbounded buffering. A one-pass algorithm generally
 2 KB (326 words) - 18:25, 25 January 2019
 
-List of numerical analysis topics (redirect from List of eigenvalue algorithms)
-zero matrix Algorithms for matrix multiplication: Strassen algorithm Coppersmith–Winograd algorithm Cannon's algorithm — a distributed algorithm, especially
-69 KB (8,234 words) - 18:24, 18 November 2018
-
 Hybrid algorithm (constraint satisfaction)
 In constraint satisfaction, a hybrid algorithm solves a constraint satisfaction problem by the combination of two different methods, for example variable
 7 KB (1,035 words) - 17:19, 7 May 2016
-
-Resource allocation (redirect from Algorithms for resource allocation)
-problems e.g. resources can be allocated using a manual approach, an algorithmic approach (see below), or a combination of both. There may be contingency
-5 KB (495 words) - 11:08, 12 March 2019
 
 LIRS caching algorithm
 page replacement algorithm with an improved performance over LRU (Least Recently Used) and many other newer replacement algorithms. This is achieved
@@ -2330,10 +2067,6 @@ page replacement algorithm with an improved performance over LRU (Least Recently
 Datafly algorithm
 Datafly algorithm is an algorithm for providing anonymity in medical data. The algorithm was developed by Latanya Arvette Sweeney in 1997−98. Anonymization
 5 KB (574 words) - 10:07, 11 September 2017
-
-Matrix multiplication (redirect from Fast matrix multiplication algorithms)
-for the basic algorithm (this complexity is O ( n 2.373 ) {\displaystyle O(n^{2.373})} for the asymptotically fastest known algorithm). This nonlinear
-36 KB (5,926 words) - 13:18, 7 April 2019
 
 Kleitman–Wang algorithms
 The Kleitman–Wang algorithms are two different algorithms in graph theory solving the digraph realization problem, i.e. the question if there exists for
@@ -2355,10 +2088,6 @@ Swendsen–Wang algorithm
 The Swendsen–Wang algorithm is the first non-local or cluster algorithm for Monte Carlo simulation for large systems near criticality. It has been introduced
 8 KB (1,777 words) - 19:00, 9 November 2018
 
-Motion planning (redirect from Motion planning algorithms)
-task while avoiding walls and not falling down stairs. A motion planning algorithm would take a description of these tasks as input, and produce the speed
-22 KB (2,776 words) - 09:03, 2 April 2019
-
 Yarowsky algorithm
 In computational linguistics the Yarowsky algorithm is an unsupervised learning algorithm for word sense disambiguation that uses the "one sense per collocation"
 6 KB (914 words) - 04:00, 2 January 2012
@@ -2374,13 +2103,6 @@ Knuth algorithm is a program introduced by Donald Knuth and Luis Trabb Pardo to 
 Condensation algorithm
 The condensation algorithm (Conditional Density Propagation) is a computer vision algorithm. The principal application is to detect and track the contour
 12 KB (1,799 words) - 12:45, 1 April 2019
-
-Dictionary of Algorithms and Data Structures
-The Dictionary of Algorithms and Data Structures is a dictionary style reference for many of the algorithms, algorithmic techniques, archetypal problems
-1,008 bytes (84 words) - 08:07, 1 February 2019
-Odlyzko–Schönhage algorithm
-In mathematics, the Odlyzko–Schönhage algorithm is a fast algorithm for evaluating the Riemann zeta function at many points, introduced by (Odlyzko &
-2 KB (284 words) - 05:26, 6 October 2018
 
 Davidon–Fletcher–Powell formula (redirect from Davidon–Fletcher–Powell algorithm)
 algorithm of Khachiyan Projective algorithm of Karmarkar Basis-exchange Simplex algorithm of Dantzig Revised simplex algorithm Criss-cross algorithm Principal
@@ -2398,10 +2120,6 @@ Chaff algorithm
 Chaff is an algorithm for solving instances of the Boolean satisfiability problem in programming. It was designed by researchers at Princeton University
 2 KB (165 words) - 08:08, 9 April 2019
 
-Navigational algorithms
-Navigational Algorithms is a web site whose purpose is to make available the scientific part of the art of navigation, containing specialized articles
-4 KB (404 words) - 20:54, 28 November 2018
-
 Block Wiedemann algorithm
 The block Wiedemann algorithm for computing kernel vectors of a matrix over a finite field is a generalisation of an algorithm due to Don Coppersmith.
 4 KB (784 words) - 21:40, 13 May 2016
@@ -2417,10 +2135,6 @@ In group theory, the Todd–Coxeter algorithm, created by J. A. Todd and H. S. M
 Yarrow algorithm
 The Yarrow algorithm is a family of cryptographic pseudorandom number generators (PRNG) devised by John Kelsey, Bruce Schneier, and Niels Ferguson. The
 11 KB (1,427 words) - 00:39, 11 September 2018
-
-Adversary model (redirect from Adversary (online algorithm))
-computer science, an online algorithm measures its competitiveness against different adversary models. For deterministic algorithms, the adversary is the same
-3 KB (285 words) - 02:47, 6 January 2019
 
 Lubachevsky–Stillinger algorithm
 Lubachevsky-Stillinger (compression) algorithm (LS algorithm, LSA, or LS protocol) is a numerical procedure suggested by F. H. Stillinger and B.D. Lubachevsky
@@ -2446,33 +2160,13 @@ Daitch–Mokotoff Soundex (redirect from Beider–Morse Phonetic Name Matching A
 algorithm invented in 1985 by Jewish genealogists Gary Mokotoff and Randy Daitch. It is a refinement of the Russell and American Soundex algorithms designed
 3 KB (340 words) - 00:06, 2 September 2016
 
-Heart failure (redirect from ESC algorithm)
-with NYHA Class IV. There are various algorithms for the diagnosis of heart failure. For example, the algorithm used by the Framingham Heart Study adds
-99 KB (11,097 words) - 18:35, 5 April 2019
-
 Seidel's algorithm
 Seidel's algorithm is an algorithm designed by Raimund Seidel in 1992 for the all-pairs-shortest-path problem for undirected, unweighted, connected graphs
 5 KB (759 words) - 21:21, 9 March 2018
 
-Dynamic problem (algorithms)
-dynamic algorithm. Many algorithmic problems stated in terms of fixed input data (called static problems in this context and solved by static algorithms) have
-3 KB (414 words) - 14:54, 11 September 2017
-
-IP routing (redirect from IP forwarding algorithm)
-forwarding algorithm is a specific implementation of routing for IP networks. In order to achieve a successful transfer of data, the algorithm uses a routing
-6 KB (932 words) - 13:08, 16 February 2019
-
-Hash function (redirect from Hash algorithm)
-potentially equal pieces, as above. The Rabin–Karp algorithm is a relatively fast string searching algorithm that works in O(n) time on average. It is based
-40 KB (5,654 words) - 02:33, 9 April 2019
-
 Gibbs algorithm
 In statistical mechanics, the Gibbs algorithm, introduced by J. Willard Gibbs in 1902, is a criterion for choosing a probability distribution for the
 2 KB (244 words) - 05:15, 30 April 2016
-
-Domain generation algorithm
-Domain generation algorithms (DGA) are algorithms seen in various families of malware that are used to periodically generate a large number of domain
-10 KB (1,098 words) - 20:57, 22 March 2019
 
 Fly algorithm
 The Fly Algorithm is a type of cooperative coevolution based on the Parisian approach. The Fly Algorithm has first been developed in 1999 in the scope
@@ -2481,18 +2175,6 @@ The Fly Algorithm is a type of cooperative coevolution based on the Parisian app
 Levinson recursion (redirect from Levinson-Durbin algorithm)
 The algorithm runs in Θ(n2) time, which is a strong improvement over Gauss–Jordan elimination, which runs in Θ(n3). The Levinson–Durbin algorithm was
 17 KB (2,670 words) - 14:21, 4 December 2018
-
-Pairwise Algorithm
-A Pairwise Algorithm is an algorithmic technique with its origins in Dynamic programming. Pairwise algorithms have several uses including comparing a protein
-3 KB (399 words) - 17:05, 23 March 2019
-
-Divide-and-conquer eigenvalue algorithm
-Divide-and-conquer eigenvalue algorithms are a class of eigenvalue algorithms for Hermitian or real symmetric matrices that have recently (circa 1990s)
-10 KB (1,875 words) - 14:58, 12 February 2019
-
-Join-based tree algorithms
-computer science, join-based tree algorithms are a class of algorithms for self-balancing binary search trees. The algorithmic framework is based on a single
-18 KB (2,524 words) - 15:51, 21 September 2018
 
 Margin-infused relaxed algorithm
 Margin-infused relaxed algorithm (MIRA) is a machine learning algorithm, an online algorithm for multiclass classification problems. It is designed to
@@ -2509,10 +2191,6 @@ In statistics, the backfitting algorithm is a simple iterative procedure used to
 Double Ratchet Algorithm
 cryptography, the Double Ratchet Algorithm (previously referred to as the Axolotl Ratchet) is a key management algorithm that was developed by Trevor Perrin
 14 KB (1,370 words) - 04:46, 14 March 2019
-
-Criss-cross algorithm
-optimization, the criss-cross algorithm is any of a family of algorithms for linear programming. Variants of the criss-cross algorithm also solve more general
-24 KB (2,389 words) - 01:08, 16 February 2019
 
 Island algorithm
 The island algorithm is an algorithm for performing inference on hidden Markov models, or their generalization, dynamic Bayesian networks. It calculates
@@ -2542,14 +2220,6 @@ Output-sensitive algorithm
 In computer science, an output-sensitive algorithm is an algorithm whose running time depends on the size of the output, instead of, or in addition to
 3 KB (490 words) - 16:02, 4 July 2017
 
-Jumble algorithm
-unique when creating puzzles. Algorithms have been designed to solve Jumbles, using a dictionary. Common algorithms work by printing all words that
-2 KB (410 words) - 23:28, 27 September 2017
-
-Nearest-neighbor interpolation (redirect from Nearest neighbor interpolation algorithm)
-function in points around (neighboring) that point. The nearest neighbor algorithm selects the value of the nearest point and does not consider the values
-2 KB (199 words) - 05:38, 3 February 2017
-
 Glushkov's construction algorithm
 theory – particularly formal language theory – the Glushkov Construction Algorithm, invented by Victor Mikhailovich Glushkov, transforms a given regular
 10 KB (1,560 words) - 22:21, 2 February 2019
@@ -2565,14 +2235,6 @@ Stochastic Approach for Link-Structure Analysis (SALSA) is a web page ranking al
 Bland's rule (redirect from Bland's Algorithm)
 Bland's rule (also known as Bland's algorithm, Bland's anti-cycling rule or Bland's pivot rule) is an algorithmic refinement of the simplex method for
 5 KB (661 words) - 17:33, 14 January 2019
-
-Stochastic approximation (redirect from Robbins-Monro algorithm)
-Stochastic approximation algorithms are recursive update rules that can be used, among other things, to solve optimization problems and fixed point equations
-26 KB (4,106 words) - 12:50, 3 April 2019
-
-Boolean satisfiability algorithm heuristics
-Stalmarck's algorithm. Some of these algorithms are deterministic, while others may be stochastic. As there exist polynomial-time algorithms to convert
-13 KB (2,201 words) - 01:31, 21 November 2018
 
 Transduction (machine learning) (redirect from Transduction algorithm)
 learning algorithm, and then have it predict labels for all of the unlabeled points. With this problem, however, the supervised learning algorithm will only
@@ -2614,10 +2276,6 @@ Rabin signature algorithm
 Rabin signature algorithm is a method of digital signature originally proposed by Michael O. Rabin in 1979. The Rabin signature algorithm was one of the
 7 KB (1,249 words) - 04:20, 18 July 2018
 
-Timeline of algorithms
-The following timeline outlines the development of algorithms (mainly "mathematical recipes") since their inception. Before – writing about "recipes" (on
-14 KB (1,583 words) - 17:33, 1 January 2019
-
 Xulvi-Brunet–Sokolov algorithm
 Xulvi-Brunet and Sokolov’s algorithm generates networks with chosen degree correlations. This method is based on link rewiring, in which the desired degree
 3 KB (470 words) - 03:00, 4 March 2019
@@ -2625,26 +2283,6 @@ Xulvi-Brunet and Sokolov’s algorithm generates networks with chosen degree cor
 Key exchange (redirect from Key exchange algorithm)
 keys are exchanged between two parties, allowing use of a cryptographic algorithm. If the sender and receiver wish to exchange encrypted messages, each
 11 KB (1,422 words) - 07:34, 26 February 2019
-
-Methods of computing square roots (redirect from Square root algorithm)
-numerical analysis, a branch of mathematics, there are several square root algorithms or methods of computing the principal square root of a non-negative real
-60 KB (11,424 words) - 06:55, 21 March 2019
-
-Image scaling (redirect from Algorithms for image scaling)
-algorithms aim to preserve edges in the image after scaling, unlike other algorithms, which can introduce staircase artifacts. Examples of algorithms
-14 KB (1,541 words) - 11:59, 9 April 2019
-
-Graph theory (redirect from Algorithmic graph theory)
-algorithm Hopcroft–Karp algorithm Hungarian algorithm Kosaraju's algorithm Kruskal's algorithm Nearest neighbour algorithm Network simplex algorithm Planarity
-45 KB (5,399 words) - 21:14, 10 April 2019
-
-Interchangeability algorithm
-In computer science, an interchangeability algorithm is a technique used to more efficiently solve constraint satisfaction problems (CSP). A CSP is a
-6 KB (912 words) - 17:16, 22 November 2017
-
-Electric power quality (redirect from Power quality compression algorithm)
-unchecked degrade power quality. A power quality compression algorithm is an algorithm used in the analysis of power quality. To provide high quality
-17 KB (2,273 words) - 00:40, 15 March 2019
 
 Lucifer (cipher) (redirect from "Lucifer" algorithm)
 permutation. The second stage mixes bits between the bytes. The key-scheduling algorithm is relatively simple. Initially, the 128 key bits are loaded into a shift
@@ -2658,14 +2296,6 @@ Nested sampling algorithm
 The nested sampling algorithm is a computational approach to the problem of comparing models in Bayesian statistics, developed in 2004 by physicist John
 9 KB (1,417 words) - 10:20, 20 June 2018
 
-Longest path problem (redirect from Approximation algorithms for the longest path problem)
-longest path in G can be found in linear time by applying a linear time algorithm for shortest paths in −G, which is also a directed acyclic graph. For
-20 KB (2,413 words) - 08:45, 14 March 2019
-
-Stability (learning theory) (redirect from Algorithmic stability)
-Stability, also known as algorithmic stability, is a notion in computational learning theory of how a machine learning algorithm is perturbed by small changes
-16 KB (2,708 words) - 02:28, 27 July 2018
-
 Preconditioned Crank–Nicolson algorithm
 In computational statistics, the preconditioned Crank–Nicolson algorithm (pCN) is a Markov chain Monte Carlo (MCMC) method for obtaining random samples
 6 KB (1,052 words) - 01:22, 16 September 2018
@@ -2677,14 +2307,6 @@ The BHT algorithm is a quantum algorithm that solves the collision problem. In t
 Minimum degree algorithm
 In numerical analysis the minimum degree algorithm is an algorithm used to permute the rows and columns of a symmetric sparse matrix before applying the
 5 KB (672 words) - 02:05, 25 October 2018
-
-Super-recursive algorithm
-In computability theory, super-recursive algorithms are a generalization of ordinary algorithms that are more powerful, that is, compute more than Turing
-16 KB (2,086 words) - 16:51, 23 August 2018
-
-Run-time algorithm specialisation
-In computer science, run-time algorithm specialization is a methodology for creating efficient algorithms for costly computation tasks of certain kinds
-6 KB (1,028 words) - 18:29, 18 March 2016
 
 Generic cell rate algorithm
 The generic cell rate algorithm (GCRA) is a leaky bucket-type scheduling algorithm for the network scheduler that is used in Asynchronous Transfer Mode
@@ -2706,25 +2328,9 @@ Strachey Love Letter algorithm
 Christopher Strachey wrote a combinatory love letter algorithm for the Manchester Mark 1 computer in 1952. The poems it generated have been seen as the
 3 KB (256 words) - 19:46, 27 July 2018
 
-Void (astronomy) (redirect from VoidFinder algorithm)
-results of large-scale surveys of the universe. Of the many different algorithms, virtually all fall into one of three general categories. The first class
-33 KB (4,113 words) - 21:34, 4 April 2019
-
-Randomized weighted majority algorithm
-weighted majority algorithm is an algorithm in machine learning theory. It improves the mistake bound of the weighted majority algorithm. Imagine that every
-7 KB (1,216 words) - 21:36, 21 May 2017
-
-Multi-objective optimization (redirect from Non-dominated Sorting Genetic Algorithm-II)
-algorithm is repeated and each run of the algorithm produces one Pareto optimal solution, and evolutionary algorithms where one run of the algorithm produces
-69 KB (8,898 words) - 12:11, 8 April 2019
-
 CN2 algorithm
 The CN2 induction algorithm is a learning algorithm for rule induction. It is designed to work even when the training data is imperfect. It is based on
 3 KB (345 words) - 15:09, 8 September 2016
-
-Hamiltonian path problem (redirect from Algorithms for solving the Hamiltonian path problem)
-graph), so a brute force search algorithm that tests all possible sequences would be very slow. An early exact algorithm for finding an Hamiltonian cycle
-14 KB (1,697 words) - 11:43, 18 March 2019
 
 Gale–Church alignment algorithm
 In computational linguistics, the Gale–Church algorithm is a method for aligning corresponding sentences in a parallel corpus. It works on the principle
@@ -2737,14 +2343,6 @@ science, an algorithmic technique is a general approach for implementing a proce
 Apostolico–Giancarlo algorithm
 computer science, the Apostolico–Giancarlo algorithm is a variant of the Boyer–Moore string search algorithm, the basic application of which is searching
 3 KB (403 words) - 06:00, 13 June 2018
-
-Verification-based message-passing algorithms in compressed sensing
-Verification-based message-passing algorithms (VB-MPAs) in compressed sensing (CS), a branch of digital signal processing that deals with measuring sparse
-21 KB (3,547 words) - 08:46, 24 November 2018
-
-Distributed algorithmic mechanism design
-Distributed algorithmic mechanism design (DAMD) is an extension of algorithmic mechanism design. DAMD differs from Algorithmic mechanism design since the
-7 KB (884 words) - 22:42, 19 November 2017
 
 Vinberg's algorithm
 In mathematics, Vinberg's algorithm is an algorithm, introduced by Ernest Borisovich Vinberg, for finding a fundamental domain of a hyperbolic reflection
@@ -2762,17 +2360,9 @@ KISS (algorithm)
 KISS (Keep it Simple Stupid) is a family of pseudorandom number generators introduced by George Marsaglia. Starting from 1998 Marsaglia posted on various
 3 KB (383 words) - 13:07, 3 February 2019
 
-SWAT and WADS conferences (redirect from Workshop on Algorithms and Data Structures)
-the Algorithms and Data Structures Symposium, is an international academic conference in the field of computer science, focusing on algorithms and data
-5 KB (491 words) - 20:25, 30 April 2018
-
 Evdokimov's algorithm
 computational number theory, Evdokimov's algorithm, named after Sergei Evdokimov, is the asymptotically fastest known algorithm for factorization of polynomials
 3 KB (508 words) - 05:45, 21 March 2019
-
-Biclustering (redirect from Biclustering algorithms)
-used by Mirkin. This algorithm was not generalized until 2000 when Y. Cheng and G. M. Church proposed a biclustering algorithm based on variance and
-25 KB (3,041 words) - 22:37, 15 March 2019
 
 Even–Paz protocol (redirect from Even-Paz algorithm)
 The Even-Paz algorithm is an computationally-efficient algorithm for fair cake-cutting. It involves a certain heterogeneous and divisible resource, such
@@ -2786,33 +2376,17 @@ Pseudo-marginal Metropolis–Hastings algorithm
 Metropolis–Hastings algorithm is a Monte Carlo method to sample from a probability distribution. It is an instance of the popular Metropolis–Hastings algorithm that
 6 KB (1,176 words) - 21:44, 26 February 2019
 
-Corner detection (redirect from Moravec corner detection algorithm)
-of the earliest corner detection algorithms and defines a corner to be a point with low self-similarity. The algorithm tests each pixel in the image to
-52 KB (8,814 words) - 12:31, 25 February 2019
-
 False position method (redirect from Illinois algorithm)
 proposed; two of them, the Illinois algorithm and the Anderson−Björk algorithm, are described below. The Illinois algorithm halves the y-value of the retained
 28 KB (4,150 words) - 17:40, 28 March 2019
-
-Bisection method (redirect from Bisection algorithm)
-Budan's theorem). They allow extending bisection method into efficient algorithms for finding all real roots of a polynomial; see Real-root isolation. The
-13 KB (1,506 words) - 15:38, 7 April 2019
 
 APX (redirect from Constant-factor approximation algorithm)
 polynomial-time approximation algorithms with approximation ratio bounded by a constant (or constant-factor approximation algorithms for short). In simple terms
 7 KB (979 words) - 22:12, 11 February 2019
 
-Content ID (algorithm)
-Content ID is a digital fingerprinting system developed by Google which is used to easily identify and manage copyrighted content on YouTube. Videos uploaded
-15 KB (1,691 words) - 13:31, 7 April 2019
-
 Bulirsch–Stoer algorithm
 In numerical analysis, the Bulirsch–Stoer algorithm is a method for the numerical solution of ordinary differential equations which combines three powerful
 5 KB (592 words) - 07:30, 21 April 2013
-
-Round-robin (redirect from Round robin algorithm)
-of radio nodes organized in a mesh topology Round-robin scheduling, an algorithm used in computer science Round-robin (document), a document signed by
-1 KB (187 words) - 10:04, 28 September 2017
 
 Ruzzo–Tompa algorithm
 The Ruzzo–Tompa algorithm is a linear-time algorithm for finding all non-overlapping, contiguous, maximal scoring subsequences in a sequence of real numbers
@@ -2822,10 +2396,6 @@ VEGAS algorithm
 The VEGAS algorithm, due to G. Peter Lepage, is a method for reducing error in Monte Carlo simulations by using a known or approximate probability distribution
 4 KB (579 words) - 19:17, 4 December 2018
 
-Statistical classification (redirect from Algorithms for statistical classification)
-classification. Algorithms of this nature use statistical inference to find the best class for a given instance. Unlike other algorithms, which simply output
-15 KB (1,865 words) - 03:10, 28 March 2019
-
 Whirlpool (hash function) (redirect from Whirlpool (algorithm))
 diffusion matrix was found that lowered the estimated security of the algorithm below its potential. Changing the 8x8 rotating matrix constants from (1
 12 KB (994 words) - 20:21, 9 August 2018
@@ -2834,17 +2404,9 @@ Lather, rinse, repeat (redirect from Shampoo algorithm)
 thought.[citation needed] It is known as the shampoo algorithm, and is a classic example of an algorithm in introductory computer science classes. In Benjamin
 2 KB (160 words) - 10:04, 2 June 2017
 
-Data stream clustering (redirect from Algorithms for clustering data streams)
-transactions etc. Data stream clustering is usually studied as a streaming algorithm and the objective is, given a sequence of points, to construct a good
-9 KB (1,117 words) - 09:30, 7 February 2019
-
 Solitaire (cipher) (redirect from Solitaire algorithm)
 The Solitaire cryptographic algorithm was designed by Bruce Schneier at the request of Neal Stephenson for use by field agents in his novel Cryptonomicon
 6 KB (1,078 words) - 21:13, 17 July 2018
-
-Reachability (redirect from Kameda's algorithm)
-different algorithms and data structures for three different, increasingly specialized situations are outlined below. The Floyd–Warshall algorithm can be
-15 KB (2,417 words) - 19:56, 24 February 2019
 
 Chandy–Misra–Haas algorithm resource model
 The Chandy–Misra–Haas algorithm resource model checks for deadlock in a distributed system. It was developed by K. Mani Chandy, Jayadev Misra and Laura
@@ -2861,10 +2423,6 @@ Gröbner bases were introduced in 1965, together with an algorithm to compute th
 Alpha algorithm
 The α-algorithm is an algorithm used in process mining, aimed at reconstructing causality from a set of sequences of events. It was first put forward
 5 KB (881 words) - 13:08, 10 February 2019
-
-List of terms relating to algorithms and data structures
-adjacency-matrix representation adversary algorithm algorithm BSTW algorithm FGK algorithmic efficiency algorithmically solvable algorithm V all pairs shortest path alphabet
-33 KB (3,027 words) - 13:11, 10 September 2018
 
 Garsia–Wachs algorithm
 The Garsia–Wachs algorithm is an efficient method for computers to construct optimal binary search trees and alphabetic Huffman codes, in linearithmic
@@ -2922,14 +2480,6 @@ WACA clustering algorithm
 WACA is a clustering algorithm for dynamic networks. WACA (Weighted Application-aware Clustering Algorithm) uses a heuristic weight function for self-organized
 1 KB (137 words) - 05:29, 14 March 2019
 
-Constrained optimization (redirect from Algorithms for solving constrained optimization problems)
-Constraint optimization can be solved by branch and bound algorithms. These are backtracking algorithms storing the cost of the best solution found during execution
-9 KB (1,480 words) - 05:10, 14 September 2018
-
-Dimensionality reduction (redirect from Dimensionality reduction algorithm)
-reduction is usually performed prior to applying a K-nearest neighbors algorithm (k-NN) in order to avoid the effects of the curse of dimensionality. Feature
-18 KB (1,922 words) - 18:40, 9 March 2019
-
 Jacobi eigenvalue algorithm
 In numerical linear algebra, the Jacobi eigenvalue algorithm is an iterative method for the calculation of the eigenvalues and eigenvectors of a real
 21 KB (3,480 words) - 11:47, 8 April 2019
@@ -2941,10 +2491,6 @@ The Stationary wavelet transform (SWT) is a wavelet transform algorithm designed
 Dixon's factorization method (redirect from Dixon's algorithm)
 (also Dixon's random squares method or Dixon's algorithm) is a general-purpose integer factorization algorithm; it is the prototypical factor base method
 9 KB (1,626 words) - 07:26, 18 February 2019
-
-Color mapping (redirect from Algorithms for color mapping)
-A color mapping may be referred to as the algorithm that results in the mapping function or the algorithm that transforms the image colors. Color mapping
-4 KB (376 words) - 14:59, 2 May 2018
 
 SM3 (hash function) (redirect from SM3 algorithm)
 cryptographic hash algorithm". SM3 is mainly used in digital signatures, message authentication codes, and pseudorandom number generators. The algorithm is public
@@ -2966,10 +2512,6 @@ Solovay–Strassen primality test (redirect from Solovay-Strassen algorithm)
 composite return probably prime Using fast algorithms for modular exponentiation, the running time of this algorithm is O(k·log3 n), where k is the number
 9 KB (1,381 words) - 13:21, 15 February 2019
 
-Learning to rank (redirect from List of learning-to-rank algorithms)
-commonly used to judge how well an algorithm is doing on training data and to compare the performance of different MLR algorithms. Often a learning-to-rank problem
-31 KB (2,514 words) - 11:03, 9 March 2019
-
 Synthetic-aperture radar (redirect from SAR algorithm)
 popular algorithm used as new variant of FFT algorithms for the processing in multidimensional synthetic-aperture radar (SAR) systems. This algorithm uses
 104 KB (15,309 words) - 20:19, 24 March 2019
@@ -2978,37 +2520,17 @@ Demon algorithm
 The demon algorithm is a Monte Carlo method for efficiently sampling members of a microcanonical ensemble with a given energy. An additional degree of
 4 KB (617 words) - 14:45, 16 January 2014
 
-Genetic algorithms in economics
-Genetic algorithms have increasingly been applied to economics since the pioneering work by John H. Miller in 1986. It has been used to characterize a
-4 KB (537 words) - 21:26, 28 August 2017
-
 SM4 (cipher) (redirect from SM4 Algorithm)
 fast-track proposal by the IEEE. The SM4 algorithm was invented by Lu Shuwang (Chinese: 吕述望). The algorithm was declassified in January, 2006, and it
 5 KB (581 words) - 14:41, 23 January 2019
-
-Tree traversal (redirect from Tree search algorithm)
-classified by the order in which the nodes are visited. The following algorithms are described for a binary tree, but they may be generalized to other
-18 KB (2,214 words) - 12:26, 19 March 2019
 
 Split-radix FFT algorithm
 The split-radix FFT is a fast Fourier transform (FFT) algorithm for computing the discrete Fourier transform (DFT), and was first described in an initially
 8 KB (1,626 words) - 19:41, 28 October 2018
 
-Euclidean minimum spanning tree (redirect from Algorithms for finding Euclidean minimum spanning trees in two dimensions)
-minimum spanning tree algorithms such as Borůvka's algorithm, Prim's algorithm, or Kruskal's algorithm. The final result is an algorithm taking O(n log n)
-13 KB (1,775 words) - 10:02, 2 October 2018
-
-Numerical analysis (redirect from Numerical algorithm)
-Numerical analysis is the study of algorithms that use numerical approximation (as opposed to general symbolic manipulations) for the problems of mathematical
-30 KB (3,321 words) - 20:02, 29 March 2019
-
 Buddy memory allocation (redirect from Buddy memory allocation algorithm)
 The buddy memory allocation technique is a memory allocation algorithm that divides memory into partitions to try to satisfy a memory request as suitably
 12 KB (1,448 words) - 17:39, 29 December 2018
-
-Subgraph isomorphism problem (redirect from Algorithms for solving subgraph isomorphism problems)
-update to the 1976 subgraph isomorphism algorithm paper. Cordella (2004) proposed in 2004 another algorithm based on Ullmann's, VF2, which improves the
-12 KB (1,536 words) - 23:10, 13 October 2018
 
 Steensgaard's algorithm
 type checking, thereby modeling a linear space and almost linear time algorithm for points-to set computation. Steensgaard proposed the points-to analysis
@@ -3018,29 +2540,18 @@ Whitehead's algorithm
 algorithm is a mathematical algorithm in group theory for solving the automorphic equivalence problem in the finite rank free group Fn. The algorithm
 26 KB (4,857 words) - 18:08, 26 March 2019
 
-Minimum bounding box algorithms
-determine the orientation of the box. For the convex polygon, a linear time algorithm for the minimum-area enclosing rectangle is known. It is based on the
-5 KB (690 words) - 08:40, 5 October 2018
-
 Berlekamp–Welch algorithm
 Berlekamp–Welch algorithm, also known as the Welch–Berlekamp algorithm, is named for Elwyn R. Berlekamp and Lloyd R. Welch. This is a decoder algorithm that efficiently
 6 KB (1,596 words) - 15:00, 5 November 2018
-
-BCH code (redirect from Peterson–Gorenstein–Zierler algorithm)
-t.} Two popular algorithms for this task are: Peterson–Gorenstein–Zierler algorithm Berlekamp–Massey algorithm Peterson's algorithm is the step 2 of
-43 KB (9,643 words) - 19:56, 8 February 2019
 
 Richardson–Lucy deconvolution (redirect from Lucy-Richardson algorithm)
 The Richardson–Lucy algorithm, also known as Lucy–Richardson deconvolution, is an iterative procedure for recovering an underlying image that has been
 5 KB (694 words) - 09:05, 30 March 2019
 
-Sequential pattern mining (redirect from Algorithms for sequential pattern mining)
-classified as string mining which is typically based on string processing algorithms and itemset mining which is typically based on association rule learning
-8 KB (974 words) - 17:14, 6 April 2019
-
 Universal portfolio algorithm
 universal portfolio algorithm is a portfolio selection algorithm from the field of machine learning and information theory. The algorithm learns adaptively
 1,000 bytes (116 words) - 09:55, 29 January 2019
+
 Genetic Algorithm for Rule Set Production
 Genetic Algorithm for Rule Set Production (GARP) is a computer program based on genetic algorithm that creates ecological niche models for species. The
 2 KB (185 words) - 15:47, 29 June 2016
@@ -3069,18 +2580,6 @@ Scanline rendering (redirect from Scanline algorithm)
 Scanline rendering (also scan line rendering and scan-line rendering) is an algorithm for visible surface determination, in 3D computer graphics, that works
 7 KB (1,061 words) - 19:44, 17 January 2019
 
-Nesting algorithm
-Nesting algorithms are used to make the most efficient use of material or space by evaluating many different possible combinations via recursion. Linear
-2 KB (182 words) - 05:21, 17 September 2015
-
-Parameterized complexity (redirect from Fixed-parameter algorithm)
-solving algorithms for NP-complete, or otherwise NP-hard, problems is considered unlikely, if input parameters are not fixed; all known solving algorithms for
-15 KB (2,168 words) - 22:02, 30 March 2019
-
-Communication-avoiding algorithms
-Communication-Avoiding Algorithms minimize movement of data within a memory hierarchy for improving its running-time and energy consumption. These minimize
-8 KB (1,046 words) - 21:00, 1 January 2018
-
 Simon's problem (redirect from Simon's Algorithm)
 algorithm, usually called Simon's algorithm, that solves the problem exponentially faster than any deterministic or probabilistic classical algorithm
 23 KB (4,996 words) - 01:39, 18 March 2019
@@ -3088,10 +2587,6 @@ algorithm, usually called Simon's algorithm, that solves the problem exponential
 Critical path method (redirect from Critical path algorithm)
 The critical path method (CPM), or critical path analysis (CPA), is an algorithm for scheduling a set of project activities. It is commonly used in conjunction
 18 KB (2,147 words) - 14:02, 20 March 2019
-
-Simultaneous localization and mapping (redirect from Algorithms for simultaneous localization and mapping)
-this initially appears to be a chicken-and-egg problem there are several algorithms known for solving it, at least approximately, in tractable time for certain
-26 KB (3,294 words) - 20:03, 11 April 2019
 
 Pollard's rho algorithm for logarithms
 Pollard's rho algorithm for logarithms is an algorithm introduced by John Pollard in 1978 to solve the discrete logarithm problem, analogous to Pollard's
@@ -3104,14 +2599,6 @@ Hybrid input-output (HIO) algorithm for phase retrieval is a modification of the
 Toom–Cook multiplication (redirect from Tom-Cook multiplication algorithm)
 introduced the new algorithm with its low complexity, and Stephen Cook, who cleaned the description of it, is a multiplication algorithm for large integers
 20 KB (2,895 words) - 09:17, 29 March 2019
-
-Domain reduction algorithm
-Domain reduction algorithms are algorithms used to reduce constraints and degrees of freedom in order to provide solutions for partial differential equations
-557 bytes (50 words) - 12:23, 27 October 2016
-
-XDAIS algorithms
-XDAIS or eXpressDsp Algorithm Interoperability Standard is a standard for algorithm development by Texas Instruments for the TMS320 DSP family. The standard
-2 KB (292 words) - 10:04, 16 April 2018
 
 Reduction (complexity) (redirect from Algorithmic reducibility)
 computability theory and computational complexity theory, a reduction is an algorithm for transforming one problem into another problem. A reduction from one
@@ -3197,10 +2684,6 @@ Quasi-Newton method (redirect from Quasi-Newton algorithm)
 quasi-Newton algorithm was proposed by William C. Davidon, a physicist working at Argonne National Laboratory. He developed the first quasi-Newton algorithm in
 16 KB (2,063 words) - 15:42, 27 March 2019
 
-Rubik's Cube (redirect from Algorithms for solving Rubik's Cubes)
-desired effect on the cube is called an algorithm. This terminology is derived from the mathematical use of algorithm, meaning a list of well-defined instructions
-72 KB (8,621 words) - 19:36, 10 April 2019
-
 Kaczmarz method (redirect from Kaczmar's algorithm)
 The Kaczmarz method or Kaczmarz's algorithm is an iterative algorithm for solving linear equation systems A x = b {\displaystyle Ax=b} . It was first
 24 KB (4,046 words) - 15:04, 30 January 2019
@@ -3233,17 +2716,9 @@ Gomory–Hu tree (redirect from Gomory–Hu algorithm)
 s-t cut in G, and c(Se, Te) is the capacity of the cut in G. Gomory–Hu Algorithm Input: A weighted undirected graph G = ((VG, EG), c) Output: A Gomory–Hu
 17 KB (960 words) - 02:32, 15 January 2019
 
-Convex volume approximation (redirect from Polynomial time algorithm for approximating the volume of convex bodies)
-In the analysis of algorithms, several authors have studied the computation of the volume of high-dimensional convex bodies, a problem that can also be
-6 KB (748 words) - 16:29, 10 February 2019
-
 Petkovšek's algorithm
 Petkovšek's algorithm (also Hyper) is a computer algebra algorithm that computes a basis of hypergeometric terms solution of its input linear recurrence
 9 KB (1,418 words) - 18:57, 16 August 2018
-
-Probabilistic analysis of algorithms
-In analysis of algorithms, probabilistic analysis of algorithms is an approach to estimate the computational complexity of an algorithm or a computational
-1 KB (192 words) - 07:16, 11 December 2018
 
 Water-pouring algorithm
 The water-pouring algorithm is a technique used in digital communications systems for allocating power among different channels in multicarrier schemes
@@ -3252,10 +2727,6 @@ The water-pouring algorithm is a technique used in digital communications system
 MCS algorithm
 Multilevel Coordinate Search (MCS) is an efficient algorithm for bound constrained global optimization using function values only. To do so, the n-dimensional
 5 KB (629 words) - 15:43, 11 October 2018
-
-List of hash functions (redirect from List of checksum algorithms)
-32 bits sum xor8 8 bits sum Luhn algorithm 1 decimal digit sum Verhoeff algorithm 1 decimal digit sum Damm algorithm 1 decimal digit Quasigroup operation
-7 KB (136 words) - 01:25, 9 March 2019
 
 Promoter based genetic algorithm
 The promoter based genetic algorithm (PBGA) is a genetic algorithm for neuroevolution developed by F. Bellas and R.J. Duro in the Integrated Group for
@@ -3292,10 +2763,6 @@ delay-gradient congestion control refers to a class of congestion control algori
 XaoS (redirect from Hubička algorithm)
 efficient zooming, using a technique sometimes called the XaoS algorithm or Hubička algorithm. At the time fractal zoom movies were produced by completely
 5 KB (564 words) - 01:43, 24 December 2018
-
-List of common shading algorithms
-This article lists common shading algorithms used in computer graphics. These techniques can be combined with any illumination model: Flat shading Gouraud
-3 KB (319 words) - 08:26, 5 July 2017
 
 Thalmann algorithm
 The Thalmann Algorithm (VVAL 18) is a deterministic decompression model originally designed in 1980 to produce a decompression schedule for divers using
@@ -3377,29 +2844,13 @@ Pantelides algorithm
 Pantelides algorithm gives a systematic method for reducing high-index systems of differential-algebraic equations to lower index, by selectively adding
 2 KB (185 words) - 17:04, 11 March 2018
 
-Non-negative matrix factorization (redirect from Algorithms for non-negative matrix factorization)
-factorization (NMF or NNMF), also non-negative matrix approximation is a group of algorithms in multivariate analysis and linear algebra where a matrix V is factorized
-57 KB (6,353 words) - 13:46, 10 April 2019
-
 Zeller's congruence (redirect from Zeller's Algorithm)
 Zeller's congruence is an algorithm devised by Christian Zeller to calculate the day of the week for any Julian or Gregorian calendar date. It can be
 10 KB (1,808 words) - 22:17, 12 March 2019
 
-Randomized algorithms as zero-sum games
-Randomized algorithms are algorithms that employ a degree of randomness as part of their logic. These algorithms can be used to give good average-case
-3 KB (423 words) - 14:01, 24 November 2018
-
 Zassenhaus algorithm
 In mathematics, the Zassenhaus algorithm is a method to calculate a basis for the intersection and sum of two subspaces of a vector space. It is named
 6 KB (1,349 words) - 14:39, 4 October 2016
-
-Astronomical algorithm
-Astronomical algorithms are the algorithms used to calculate ephemerides, calendars, and positions (as in celestial navigation or satellite navigation)
-2 KB (150 words) - 02:36, 11 July 2017
-
-Prediction by partial matching (redirect from PPM compression algorithm)
-uncompressed symbol stream to predict the next symbol in the stream. PPM algorithms can also be used to cluster data into predicted groupings in cluster analysis
-6 KB (747 words) - 07:22, 18 February 2019
 
 Cellular Message Encryption Algorithm
 In cryptography, the Cellular Message Encryption Algorithm (CMEA) is a block cipher which was used for securing mobile phones in the United States. CMEA
@@ -3412,10 +2863,6 @@ Algorithmic pricing is the practice of automatically setting the requested price
 Parsing (redirect from Parsing algorithms)
 used to perform a first pass. Algorithms which use context-free grammars often rely on some variant of the CYK algorithm, usually with some heuristic to
 28 KB (3,682 words) - 08:15, 8 April 2019
-
-Analysis of parallel algorithms
-article discusses the analysis of parallel algorithms. Like in the analysis of "ordinary", sequential, algorithms, one is typically interested in asymptotic
-6 KB (818 words) - 17:45, 8 March 2019
 
 Multiple kernel learning (redirect from Algorithms for multiple kernel learning)
 an optimal linear or non-linear combination of kernels as part of the algorithm. Reasons to use multiple kernel learning include a) the ability to select
@@ -3645,18 +3092,6 @@ Permutation (redirect from Permutation algorithms)
 of science. In computer science, they are used for analyzing sorting algorithms; in quantum physics, for describing states of particles, and in biology
 67 KB (8,984 words) - 20:11, 7 April 2019
 
-Algorithms-Aided Design (AAD)
-Algorithms-Aided Design (AAD) is the use of specific algorithms-editors to assist in the creation, modification, analysis, or optimization of a design
-2 KB (197 words) - 04:07, 30 September 2018
-
-Concurrent computing (redirect from Concurrent algorithm)
-deadlocks, and resource starvation. For example, consider the following algorithm to make withdrawals from a checking account represented by the shared
-25 KB (2,661 words) - 01:13, 8 April 2019
-
-Algorithms of Oppression
-interaction. Algorithms of Oppression is a text based on over six years of academic research on Google search algorithms. Noble argues that search algorithms become
-6 KB (509 words) - 04:17, 25 March 2019
-
 Faddeev–LeVerrier algorithm
 In mathematics (linear algebra), the Faddeev–LeVerrier algorithm is a recursive method to calculate the coefficients of the characteristic polynomial
 11 KB (2,344 words) - 17:40, 10 July 2018
@@ -3725,10 +3160,6 @@ Linear discriminant analysis (redirect from LDA algorithm)
 self-organized LDA algorithm for updating the LDA features. In other work, Demir and Ozmehmet proposed online local learning algorithms for updating LDA
 41 KB (5,638 words) - 21:09, 6 April 2019
 
-Data analysis (redirect from Algorithms for data analysis)
-the messages within the data. Mathematical formulas or models called algorithms may be applied to the data to identify relationships among the variables
-46 KB (5,136 words) - 09:04, 27 March 2019
-
 Edge coloring (redirect from Algorithms for edge coloring)
 the number of colors may be as large as 3Δ/2. There are polynomial time algorithms that construct optimal colorings of bipartite graphs, and colorings of
 63 KB (8,335 words) - 07:42, 8 April 2019
@@ -3756,10 +3187,6 @@ of mathematical optimization that is related to operations research, algorithm t
 Edmonds–Pruhs protocol (redirect from Edmonds-Pruhs algorithm)
 possible algorithm for achieving full proportionality when the pieces must be contiguous, and it is the fastest possible deterministic algorithm for achieving
 9 KB (1,568 words) - 02:23, 13 February 2019
-
-Global illumination (redirect from Global illumination algorithms)
-name for a group of algorithms used in 3D computer graphics that are meant to add more realistic lighting to 3D scenes. Such algorithms take into account
-12 KB (947 words) - 01:17, 1 February 2019
 
 Lin–Kernighan heuristic (redirect from Lin-Kernighan algorithm)
 (optimization) Lin, Shen; Kernighan, B. W. (1973). "An Effective Heuristic Algorithm for the Traveling-Salesman Problem". Operations Research. 21 (2): 498–516
@@ -3985,14 +3412,6 @@ Polynomial decomposition (redirect from Algorithms for polynomial decomposition)
 h} of polynomials g and h, where g and h have degree greater than 1. Algorithms are known for decomposing polynomials in polynomial time. Polynomials
 6 KB (1,071 words) - 01:47, 28 March 2018
 
-Instruction scheduling (redirect from Instruction scheduling algorithm)
-can proceed with the target instruction without stalling. The simplest algorithm to find a topological sort is frequently used and is known as list scheduling
-7 KB (944 words) - 23:00, 3 March 2019
-
-Mean value analysis (redirect from Mean value analysis algorithm)
-at each of the nodes and throughput of the system we use an iterative algorithm starting with a network with 0 customers. Write μi for the service rate
-12 KB (1,572 words) - 18:26, 18 February 2019
-
 Matrix completion (redirect from Algorithms for matrix completion)
 matrix completion problem is in general NP-hard, but there are tractable algorithms that achieve exact reconstruction with high probability. In statistical
 28 KB (4,860 words) - 09:11, 31 January 2019
@@ -4201,10 +3620,6 @@ Shanks's square forms factorization (redirect from Shank’s Algorithm)
 x-y} will give a non-trivial factor of N {\displaystyle N} . A practical algorithm for finding pairs ( x , y ) {\displaystyle (x,y)} which satisfy x 2 ≡
 8 KB (1,116 words) - 17:44, 10 November 2018
 
-Item tree analysis (redirect from Algorithms for item tree analysis)
-quasi-order on the items. A different algorithm to perform an ITA was suggested in Schrepp (1999). This algorithm is called Inductive ITA. Classical ITA
-9 KB (1,366 words) - 14:57, 17 December 2014
-
 Eikonal equation (redirect from Algorithms for solving the eikonal equation)
 efficient algorithms to solve the eikonal equation have been developed since the 1990s. Many of these algorithms take advantage of algorithms developed
 19 KB (3,390 words) - 22:56, 14 July 2018
@@ -4381,10 +3796,6 @@ Eternity (novel) (redirect from Taylor algorithms (fiction))
 will return and report back to it. The "Taylor algorithms" are a set of fictional mathematical algorithms that allow intelligent programs or agents in a
 9 KB (1,409 words) - 05:19, 10 October 2018
 
-Formal concept analysis (redirect from Algorithms for formal concept analysis)
-lattices, i.e. Boolean algebras. There is a number of simple and fast algorithms for generating formal concepts and for constructing and navigating concept
-40 KB (4,598 words) - 09:47, 7 March 2019
-
 Schulze method (redirect from Schulze algorithm)
 therefore, is a variant of the Floyd–Warshall algorithm. The following pseudocode illustrates the algorithm. 1 # Input: d[i,j], the number of voters who
 44 KB (3,984 words) - 10:10, 30 March 2019
@@ -4425,10 +3836,6 @@ Contrast set learning (redirect from Algorithms for contrast set learning)
 evidence is examined (typically by feeding a training set to a learning algorithm), these guesses are refined and improved. Contrast set learning works
 16 KB (2,174 words) - 12:40, 8 April 2019
 
-European Joint Conferences on Theory and Practice of Software (redirect from Tools and Algorithms for the Construction and Analysis of Systems)
-Fundamental Approaches to Software Engineering (FASE, since 1998) Tools and Algorithms for the Construction and Analysis of Systems (TACAS, since 1998) From
-3 KB (265 words) - 07:31, 7 May 2018
-
 Circle packing theorem (redirect from Circle packing algorithm)
 this type. Collins & Stephenson (2003) describe a numerical relaxation algorithm for finding circle packings, based on ideas of William Thurston. The version
 26 KB (3,370 words) - 06:39, 19 June 2018
@@ -4437,64 +3844,65 @@ K-minimum spanning tree (redirect from Approximation algorithms for k-minimum sp
 problem has instead concentrated on approximation algorithms for the problem. The goal of such algorithms is to find an approximate solution in polynomial
 8 KB (1,048 words) - 17:05, 16 May 2018
 
-Document layout analysis (redirect from Algorithms for document layout analysis)
-common assumption in both document layout analysis algorithms and optical character recognition algorithms that the characters in the document image are oriented
-9 KB (1,275 words) - 22:51, 19 February 2019
-
-Image rectification (redirect from Algorithms for image rectification)
-its extraction. There are three main categories for image rectification algorithms: planar rectification, cylindrical rectification and polar rectification
-17 KB (1,799 words) - 11:47, 19 February 2019
-
-Recursive language (redirect from Algorithmically solvable)
-definition, any decision problem can be shown to be decidable by exhibiting an algorithm for it that terminates on all inputs. An undecidable problem is a problem
-6 KB (795 words) - 22:29, 14 March 2019
-
-Self-organization (redirect from Self-organizing algorithms)
-presenting self-organized behavior is an active research area. Optimization algorithms can be considered self-organizing because they aim to find the optimal
-54 KB (5,990 words) - 21:11, 3 April 2019
-
-Glossary of computer graphics (redirect from Incremental error algorithm)
-vector a two-dimensional vector, a common data type in rasterization algorithms, 2D computer graphics, graphical user interface libraries. 3D graphics
-40 KB (4,198 words) - 22:19, 21 March 2019
-
-Algorithmic inference
-Algorithmic inference gathers new developments in the statistical inference methods made feasible by the powerful computing devices widely available to
-17 KB (1,771 words) - 13:08, 14 April 2018
-
-Contextual image classification (redirect from Algorithms for contextual image classification)
-Contextual image classification, a topic of pattern recognition in computer vision, is an approach of classification based on contextual information in
-9 KB (1,409 words) - 04:50, 9 April 2019
-
 Chen–Ho encoding (redirect from Chen–Ho algorithm)
 prefix code. The encoding became known as Chen–Ho encoding or Chen–Ho algorithm only since 2000. After having filed a patent in 2001, Michael F. Cowlishaw
 44 KB (1,562 words) - 21:53, 10 January 2019
 
-Outline of object recognition (redirect from Genetic algorithms for object recognition)
-images of planar objects, but can be applied to other cases as well An algorithm that uses geometric invariants to vote for object hypotheses Similar to
-24 KB (2,633 words) - 20:30, 9 April 2019
-
-Computer graphics (computer science) (redirect from Algorithms in computer graphics)
-Animation: studies ways to represent and manipulate motion Rendering: studies algorithms to reproduce light transport Imaging: studies image acquisition or image
-18 KB (1,640 words) - 16:28, 6 April 2019
-
-International Symposium on Distributed Computing (redirect from Workshop on Distributed Algorithms on Graphs)
-dates back to 1985, when it began as a biannual Workshop on Distributed Algorithms on Graphs (WDAG); it became annual in 1989. The name changed to the present
-4 KB (358 words) - 13:20, 6 June 2018
-
-Matrix analytic method (redirect from Ramaswami's algorithm)
-network Traffic equations Gordon–Newell theorem Mean value analysis Buzen's algorithm Kelly network G-network BCMP network Service policies FIFO LIFO Processor
-7 KB (909 words) - 17:00, 18 February 2019
-
 ## Further Reading
 
-- [List of Algorithms][Wikipedia - List of Algorithms]
-- [List of algorithm general topics][Wikipedia - List of algorithm general topics]
+### [List of Algorithms][Wikipedia - List of Algorithms]
+
+### [List of algorithm general topics][Wikipedia - List of algorithm general topics]
 
     This is a list of algorithm general topics. Analysis of algorithms Ant colony algorithm Approximation algorithm Best and worst cases Big O notation Combinatorial
 
-- [Analysis of algorithms][Wikipedia - nalysis of algorithms]
+### [Analysis of algorithms][Wikipedia - Analysis of algorithms]
   
     In computer science, the analysis of algorithms is the determination of the computational complexity of algorithms, that is the amount of time, storage
+
+### List of metaphor-based metaheuristics (redirect from Harmony search algorithm)
+
+ordered list of metaphor-based metaheuristics and swarm intelligence algorithms. Simulated annealing (SA) is a probabilistic technique inspired by a heat
+
+### Dynamic programming (redirect from List of algorithms that use dynamic programming)
+
+Algorithms). Hence, one can easily formulate the solution for finding shortest paths in a recursive manner, which is what the Bellman–Ford algorithm or
+
+### List of genetic algorithm applications
+
+This is a list of genetic algorithm (GA) applications. Bayesian inference links to particle methods in Bayesian statistics and hidden Markov chain models
+
+### List of numerical analysis topics (redirect from List of eigenvalue algorithms)
+
+zero matrix Algorithms for matrix multiplication: Strassen algorithm Coppersmith–Winograd algorithm Cannon's algorithm — a distributed algorithm, especially
+
+### List of terms relating to algorithms and data structures
+
+adjacency-matrix representation adversary algorithm algorithm BSTW algorithm FGK algorithmic efficiency algorithmically solvable algorithm V all pairs shortest path alphabet
+
+### Learning to rank (redirect from List of learning-to-rank algorithms)
+
+commonly used to judge how well an algorithm is doing on training data and to compare the performance of different MLR algorithms. Often a learning-to-rank problem
+
+### Rubik's Cube (redirect from Algorithms for solving Rubik's Cubes)
+
+desired effect on the cube is called an algorithm. This terminology is derived from the mathematical use of algorithm, meaning a list of well-defined instructions
+
+### Probabilistic analysis of algorithms
+
+In analysis of algorithms, probabilistic analysis of algorithms is an approach to estimate the computational complexity of an algorithm or a computational
+
+### List of hash functions (redirect from List of checksum algorithms)
+
+32 bits sum xor8 8 bits sum Luhn algorithm 1 decimal digit sum Verhoeff algorithm 1 decimal digit sum Damm algorithm 1 decimal digit Quasigroup operation
+
+### List of common shading algorithms
+
+This article lists common shading algorithms used in computer graphics. These techniques can be combined with any illumination model: Flat shading Gouraud
+
+Timeline of algorithms
+The following timeline outlines the development of algorithms (mainly "mathematical recipes") since their inception. Before – writing about "recipes" (on
+14 KB (1,583 words) - 17:33, 1 January 2019
 
 ## Glossary of Related Terms
 
@@ -4510,226 +3918,873 @@ takes to run an algorithm. Time complexity is commonly estimated by counting the
 
 In computer science, a sorting algorithm is an algorithm that puts elements of a list in a certain order. The most frequently used orders are numerical
 
-Encryption (redirect from Encryption algorithm)
+### Encryption (redirect from Encryption algorithm)
+
 or message, referred to as plaintext, is encrypted using an encryption algorithm – a cipher – generating ciphertext that can be read only if decrypted
 
-Greedy algorithm
+### Greedy algorithm
+
 A greedy algorithm is an algorithmic paradigm that follows the problem solving heuristic of making the locally optimal choice at each stage with the intent
 
-Nondeterministic algorithm
+### Nondeterministic algorithm
+
 algorithm is an algorithm that, even for the same input, can exhibit different behaviors on different runs, as opposed to a deterministic algorithm.
-5 KB (558 words) - 23:36, 15 March 2019
 
-Maze solving algorithm
+### Maze solving algorithm
+
 maze solving algorithms, that is, automated methods for the solving of mazes. The random mouse, wall follower, Pledge, and Trémaux's algorithms are designed
-17 KB (2,511 words) - 02:08, 16 February 2019
 
-Machine learning (redirect from Machine learning algorithm)
+### Machine learning (redirect from Machine learning algorithm)
+
 Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without
-69 KB (7,957 words) - 00:02, 3 April 2019
 
-Algorithm (disambiguation)
+### Algorithm (disambiguation)
+
 An algorithm is a self-contained step-by-step set of operations to be performed. Algorithm may also refer to: Algorithm (C++), components that perform
-743 bytes (79 words) - 13:54, 5 September 2018
 
-Public-key cryptography (redirect from Asymmetric key algorithm)
+### Public-key cryptography (redirect from Asymmetric key algorithm)
+
 only to the owner. The generation of such keys depends on cryptographic algorithms based on mathematical problems to produce one-way functions. Effective
-22 KB (2,694 words) - 17:11, 3 April 2019
 
-Linear programming (redirect from Algorithms for linear programming)
+### Linear programming (redirect from Algorithms for linear programming)
+
 affine (linear) function defined on this polyhedron. A linear programming algorithm finds a point in the polyhedron where this function has the smallest (or
-55 KB (6,287 words) - 00:18, 5 April 2019
 
-Selection algorithm
+### Selection algorithm
+
 In computer science, a selection algorithm is an algorithm for finding the kth smallest number in a list or array; such a number is called the kth order
-21 KB (3,207 words) - 12:15, 9 January 2019
 
-Search algorithm
+### Search algorithm
+
 In computer science, a search algorithm is any algorithm which solves the search problem, namely, to retrieve information stored within some data structure
-11 KB (1,418 words) - 20:46, 1 April 2019
 
-In-place algorithm
+### In-place algorithm
+
 In computer science, an in-place algorithm is an algorithm which transforms input using no auxiliary data structure. However a small amount of extra storage
-8 KB (1,175 words) - 19:53, 23 February 2019
 
-Online algorithm
+### Online algorithm
+
 online algorithm is one that can process its input piece-by-piece in a serial fashion, i.e., in the order that the input is fed to the algorithm, without
-5 KB (688 words) - 05:22, 27 December 2018
 
-TCP congestion control (redirect from TCP congestion avoidance algorithms)
+### TCP congestion control (redirect from TCP congestion avoidance algorithms)
+
 Transmission Control Protocol (TCP) uses a network congestion-avoidance algorithm that includes various aspects of an additive increase/multiplicative decrease
-39 KB (4,746 words) - 19:20, 10 April 2019
 
-Matrix multiplication algorithm
+### Matrix multiplication algorithm
+
 central operation in many numerical algorithms, much work has been invested in making matrix multiplication algorithms efficient. Applications of matrix
-29 KB (3,614 words) - 06:30, 8 February 2019
 
-Distributed algorithm
+### Distributed algorithm
+
 distributed algorithm is an algorithm designed to run on computer hardware constructed from interconnected processors. Distributed algorithms are used in
-5 KB (623 words) - 11:08, 15 August 2018
 
-Parallel algorithm
+### Parallel algorithm
+
 In computer science, a parallel algorithm, as opposed to a traditional serial algorithm, is an algorithm which can be executed a piece at a time on many
-5 KB (647 words) - 10:31, 28 March 2018
 
-Cache replacement policies (redirect from Cache algorithm)
+### Cache replacement policies (redirect from Cache algorithm)
+
 cache algorithms (also frequently called cache replacement algorithms or cache replacement policies) are optimizing instructions, or algorithms, that
-24 KB (3,548 words) - 10:18, 4 April 2019
 
-Multiplication algorithm
+### Multiplication algorithm
+
 multiplication algorithm is an algorithm (or method) to multiply two numbers. Depending on the size of the numbers, different algorithms are in use. Efficient
-39 KB (5,216 words) - 18:49, 30 March 2019
 
-Consensus algorithm
+### Consensus algorithm
+
 Consensus algorithm may refer to one of several proposed protocols for solving the consensus problem in the field of Computer Science. Some of these include:
-312 bytes (35 words) - 16:02, 8 January 2019
 
-Quantum algorithm
+### Quantum algorithm
+
 In quantum computing, a quantum algorithm is an algorithm which runs on a realistic model of quantum computation, the most commonly used model being the
-33 KB (3,913 words) - 20:30, 19 March 2019
 
-Secure Hash Algorithms
+### Secure Hash Algorithms
+
 The Secure Hash Algorithms are a family of cryptographic hash functions published by the National Institute of Standards and Technology (NIST) as a U.S
-2 KB (377 words) - 09:50, 21 April 2018
 
-Branch and bound (redirect from Branch-and-bound algorithm)
+### Branch and bound (redirect from Branch-and-bound algorithm)
+
 an algorithm design paradigm for discrete and combinatorial optimization problems, as well as mathematical optimization. A branch-and-bound algorithm consists
-14 KB (1,600 words) - 21:20, 6 April 2019
 
-Mathematical optimization (redirect from Optimization algorithm)
+### Mathematical optimization (redirect from Optimization algorithm)
+
 simplex algorithm that are especially suited for network optimization. Combinatorial algorithms Quantum optimization algorithms Optimization algorithms in
-61 KB (7,215 words) - 08:28, 8 April 2019
 
-Division algorithm
+### Division algorithm
+
 A division algorithm is an algorithm which, given two integers N and D, computes their quotient and/or remainder, the result of division. Some are applied
-31 KB (4,726 words) - 18:17, 11 April 2019
 
-Metaheuristic (redirect from Meta-algorithm)
+### Metaheuristic (redirect from Meta-algorithm)
+
 heuristic designed to find, generate, or select a heuristic (partial search algorithm) that may provide a sufficiently good solution to an optimization problem
-23 KB (2,190 words) - 11:37, 27 March 2019
 
-Algorithms for calculating variance
+### Algorithms for calculating variance
+
 Algorithms for calculating variance play a major role in computational statistics. A key difficulty in the design of good algorithms for this problem is
-29 KB (5,475 words) - 17:28, 3 April 2019
 
-Iterative method (redirect from Iterative algorithm)
+### Iterative method (redirect from Iterative algorithm)
+
 implementation of an iterative method, including the termination criteria, is an algorithm of the iterative method. An iterative method is called convergent if the
-9 KB (1,363 words) - 04:06, 11 January 2019
 
-Stemming (redirect from Stemming Algorithms)
+### Stemming (redirect from Stemming Algorithms)
+
 algorithm, or stemmer. A stemmer for English operating on the stem cat should identify such strings as cats, catlike, and catty. A stemming algorithm
-30 KB (3,750 words) - 02:00, 11 April 2019
 
-Sequential algorithm
+### Sequential algorithm
+
 In computer science, a sequential algorithm or serial algorithm is an algorithm that is executed sequentially – once through, from start to finish, without
-1 KB (140 words) - 18:49, 12 July 2015
 
-Stable algorithm
+### Stable algorithm
+
 a stable sorting algorithm preserves the order of records with equal keys. In numerical analysis, a numerically stable algorithm avoids magnifying small
-306 bytes (30 words) - 10:46, 24 March 2014
 
-Merge algorithm
+### Merge algorithm
+
 Merge algorithms are a family of algorithms that take multiple sorted lists as input and produce a single list as output, containing all the elements
-13 KB (1,673 words) - 08:28, 11 March 2019
 
-String-searching algorithm
+### String-searching algorithm
+
 science, string-searching algorithms, sometimes called string-matching algorithms, are an important class of string algorithms that try to find a place
-13 KB (1,664 words) - 17:54, 5 April 2019
 
-Shortest path problem (redirect from Shortest path algorithms)
+### Shortest path problem (redirect from Shortest path algorithms)
+
 have significantly more efficient algorithms than the simplistic approach of running a single-pair shortest path algorithm on all relevant pairs of vertices
-34 KB (3,879 words) - 00:05, 3 April 2019
 
 Bin packing problem (redirect from First fit algorithm)
 produced with sophisticated algorithms. In addition, many heuristics have been developed: for example, the first fit algorithm provides a fast but often
-17 KB (2,258 words) - 01:23, 21 February 2019
 
-Monte Carlo algorithm
+### Monte Carlo algorithm
+
 Carlo algorithm is a randomized algorithm whose output may be incorrect with a certain (typically small) probability. Two examples of such algorithms are
-7 KB (857 words) - 10:44, 11 October 2018
 
-Root-finding algorithm
+### Root-finding algorithm
+
 In mathematics and computing, a root-finding algorithm is an algorithm for finding roots of continuous functions. A root of a function f, from the real
-25 KB (3,784 words) - 15:17, 29 March 2019
 
-Medical algorithm
+### Medical algorithm
+
 A medical algorithm is any computation, formula, statistical survey, nomogram, or look-up table, useful in healthcare. Medical algorithms include decision
-5 KB (676 words) - 02:10, 18 February 2019
 
-Randomized algorithm
+### Randomized algorithm
+
 A randomized algorithm is an algorithm that employs a degree of randomness as part of its logic. The algorithm typically uses uniformly random bits as
-25 KB (3,541 words) - 01:43, 7 March 2019
 
-Supervised learning (redirect from Algorithms for supervised learning)
+### Supervised learning (redirect from Algorithms for supervised learning)
+
 scenario will allow for the algorithm to correctly determine the class labels for unseen instances. This requires the learning algorithm to generalize from the
-21 KB (2,995 words) - 19:34, 5 April 2019
 
-Algorithmic efficiency
+### Algorithmic efficiency
+
 science, algorithmic efficiency is a property of an algorithm which relates to the number of computational resources used by the algorithm. An algorithm must
-32 KB (3,919 words) - 17:12, 25 March 2019
 
-Convex hull algorithms
+### Convex hull algorithms
+
 Algorithms that construct convex hulls of various objects have a broad range of applications in mathematics and computer science. In computational geometry
-15 KB (2,171 words) - 09:24, 9 February 2019
 
-Deterministic algorithm
+### Deterministic algorithm
+
 In computer science, a deterministic algorithm is an algorithm which, given a particular input, will always produce the same output, with the underlying
-8 KB (956 words) - 18:59, 14 January 2019
 
-Computational complexity theory (redirect from Complexity of algorithms)
+### Computational complexity theory (redirect from Complexity of algorithms)
+
 such as an algorithm. A problem is regarded as inherently difficult if its solution requires significant resources, whatever the algorithm used. The theory
-47 KB (6,168 words) - 22:03, 5 April 2019
 
-Integer programming (redirect from Algorithms for integer programming)
+### Integer programming (redirect from Algorithms for integer programming)
+
 Branch and bound algorithms have a number of advantages over algorithms that only use cutting planes. One advantage is that the algorithms can be terminated
-17 KB (2,498 words) - 18:42, 27 March 2019
 
-Sudoku solving algorithms
+### Sudoku solving algorithms
+
 solution. Players and investigators may use a wide range of computer algorithms to solve Sudokus, study their properties, and make new puzzles, including
-14 KB (1,683 words) - 10:36, 27 March 2019
 
-Cycle detection (redirect from Floyd's cycle-finding algorithm.)
+### Cycle detection (redirect from Floyd's cycle-finding algorithm.)
+
 In computer science, cycle detection or cycle finding is the algorithmic problem of finding a cycle in a sequence of iterated function values. For any
-27 KB (3,625 words) - 08:32, 20 February 2019
 
-Approximation algorithm
+### Approximation algorithm
+
 computer science and operations research, approximation algorithms are efficient algorithms that find approximate solutions to NP-hard optimization problems
-20 KB (2,685 words) - 06:36, 7 February 2019
 
-Crossover (genetic algorithm)
+### Crossover (genetic algorithm)
+
 In genetic algorithms and evolutionary computation, crossover, also called recombination, is a genetic operator used to combine the genetic information
-5 KB (687 words) - 10:23, 20 October 2018
 
-Graph coloring (redirect from Colouring algorithm)
+### Graph coloring (redirect from Colouring algorithm)
+
 these algorithms are sometimes called sequential coloring algorithms. The maximum (worst) number of colors that can be obtained by the greedy algorithm, by
-56 KB (6,777 words) - 12:18, 1 April 2019
 
-Pathfinding (redirect from List of algorithms used in pathfinding)
+### Pathfinding (redirect from List of algorithms used in pathfinding)
+
 solving mazes. This field of research is based heavily on Dijkstra's algorithm for finding a shortest path on a weighted graph. Pathfinding is closely
-16 KB (2,356 words) - 20:25, 28 March 2019
 
-Hybrid algorithm
+### Hybrid algorithm
+
 A hybrid algorithm is an algorithm that combines two or more other algorithms that solve the same problem, either choosing one (depending on the data)
-4 KB (603 words) - 23:01, 3 August 2018
 
-Algorithmic bias
+### Algorithmic bias
+
 Algorithmic bias describes systematic and repeatable errors in a computer system that create unfair outcomes, such as privileging one arbitrary group
-74 KB (8,331 words) - 22:50, 27 March 2019
 
-Boosting (machine learning) (redirect from Boosting (meta-algorithm))
+### Boosting (machine learning) (redirect from Boosting (meta-algorithm))
+
 ensemble meta-algorithm for primarily reducing bias, and also variance in supervised learning, and a family of machine learning algorithms that convert
-20 KB (2,219 words) - 12:46, 8 April 2019
 
-Exact algorithm
+### Exact algorithm
+
 research, exact algorithms are algorithms that always solve an optimization problem to optimality. Unless P = NP, such an algorithm cannot run in worst-case
-1 KB (122 words) - 21:27, 8 February 2018
+
+### Non-blocking algorithm
+
+In computer science, an algorithm is called non-blocking if failure or suspension of any thread cannot cause failure or suspension of another thread;
+
+### Phonetic algorithm
+
+A phonetic algorithm is an algorithm for indexing of words by their pronunciation. Most phonetic algorithms were developed for use with the English language[citation
+
+### Asymptotically optimal algorithm
+
+In computer science, an algorithm is said to be asymptotically optimal if, roughly speaking, for large inputs it performs at worst a constant factor (independent
+
+### Algorithmic art
+
+Algorithmic art, also known as algorithm art, is art, mostly visual art, of which the design is generated by an algorithm. Algorithmic artists are sometimes
+
+### Cluster analysis (redirect from Clustering algorithm)
+
+analysis itself is not one specific algorithm, but the general task to be solved. It can be achieved by various algorithms that differ significantly in their
+
+### Algorithm engineering
+Algorithm engineering foc
+uses on the design, analysis, implementation, optimization, profiling and experimental evaluation of computer algorithms, bridging
+
+### Competitive analysis (online algorithm)
+
+analysis is a method invented for analyzing online algorithms, in which the performance of an online algorithm (which must satisfy an unpredictable sequence
+
+### NSA cryptography (redirect from NSA encryption algorithms)
+
+information about its cryptographic algorithms. The NSA has categorized encryption items into four product types, and algorithms into two suites. The following
+
+### Automatic clustering algorithms
+Automatic clustering algorithms are
+ algorithms that can perform clustering without prior knowledge of data sets. In contrast with other cluster analysis
+
+### Algorithms (journal)
+
+Algorithms is a monthly peer-reviewed open-access scientific journal of mathematics, covering design, analysis, and experiments on algorithms. The journal
+
+### Methods of computing square roots (redirect from Square root algorithm)
+
+numerical analysis, a branch of mathematics, there are several square root algorithms or methods of computing the principal square root of a non-negative real
+
+### Image scaling (redirect from Algorithms for image scaling)
+
+algorithms aim to preserve edges in the image after scaling, unlike other algorithms, which can introduce staircase artifacts. Examples of algorithms
+
+### Graph theory (redirect from Algorithmic graph theory)
+
+algorithm Hopcroft–Karp algorithm Hungarian algorithm Kosaraju's algorithm Kruskal's algorithm Nearest neighbour algorithm Network simplex algorithm Planarity
+
+### Interchangeability algorithm
+
+In computer science, an interchangeability algorithm is a technique used to more efficiently solve constraint satisfaction problems (CSP). A CSP is a
+
+### Electric power quality (redirect from Power quality compression algorithm)
+
+unchecked degrade power quality. A power quality compression algorithm is an algorithm used in the analysis of power quality. To provide high quality
+
+### Numerical analysis (redirect from Numerical algorithm)
+
+Numerical analysis is the study of algorithms that use numerical approximation (as opposed to general symbolic manipulations) for the problems of mathematical
+
+### Convex volume approximation (redirect from Polynomial time algorithm for approximating the volume of convex bodies)
+
+In the analysis of algorithms, several authors have studied the computation of the volume of high-dimensional convex bodies, a problem that can also be
+
+### Non-negative matrix factorization (redirect from Algorithms for non-negative matrix factorization)
+
+factorization (NMF or NNMF), also non-negative matrix approximation is a group of algorithms in multivariate analysis and linear algebra where a matrix V is factorized
+
+### Randomized algorithms as zero-sum games
+
+Randomized algorithms are algorithms that employ a degree of randomness as part of their logic. These algorithms can be used to give good average-case
+
+### Astronomical algorithm
+
+Astronomical algorithms are the algorithms used to calculate ephemerides, calendars, and positions (as in celestial navigation or satellite navigation)
+
+### Prediction by partial matching (redirect from PPM compression algorithm)
+
+uncompressed symbol stream to predict the next symbol in the stream. PPM algorithms can also be used to cluster data into predicted groupings in cluster analysis
+
+### Analysis of parallel algorithms
+
+article discusses the analysis of parallel algorithms. Like in the analysis of "ordinary", sequential, algorithms, one is typically interested in asymptotic
+
+### Algorithms-Aided Design (AAD)
+
+Algorithms-Aided Design (AAD) is the use of specific algorithms-editors to assist in the creation, modification, analysis, or optimization of a design
+
+### Concurrent computing (redirect from Concurrent algorithm)
+
+deadlocks, and resource starvation. For example, consider the following algorithm to make withdrawals from a checking account represented by the shared
+
+### Global illumination (redirect from Global illumination algorithms)
+
+name for a group of algorithms used in 3D computer graphics that are meant to add more realistic lighting to 3D scenes. Such algorithms take into account
+
+### Instruction scheduling (redirect from Instruction scheduling algorithm)
+
+can proceed with the target instruction without stalling. The simplest algorithm to find a topological sort is frequently used and is known as list scheduling
+
+### Data analysis (redirect from Algorithms for data analysis)
+
+the messages within the data. Mathematical formulas or models called algorithms may be applied to the data to identify relationships among the variables
+
+### Mean value analysis (redirect from Mean value analysis algorithm)
+
+at each of the nodes and throughput of the system we use an iterative algorithm starting with a network with 0 customers. Write μi for the service rate
+
+### Item tree analysis (redirect from Algorithms for item tree analysis)
+
+quasi-order on the items. A different algorithm to perform an ITA was suggested in Schrepp (1999). This algorithm is called Inductive ITA. Classical ITA
+
+### Formal concept analysis (redirect from Algorithms for formal concept analysis)
+
+lattices, i.e. Boolean algebras. There is a number of simple and fast algorithms for generating formal concepts and for constructing and navigating concept
+
+### European Joint Conferences on Theory and Practice of Software (redirect from Tools and Algorithms for the Construction and Analysis of Systems)
+
+Fundamental Approaches to Software Engineering (FASE, since 1998) Tools and Algorithms for the Construction and Analysis of Systems (TACAS, since 1998) From
+
+### Document layout analysis (redirect from Algorithms for document layout analysis)
+
+common assumption in both document layout analysis algorithms and optical character recognition algorithms that the characters in the document image are oriented
+
+### Image rectification (redirect from Algorithms for image rectification)
+
+its extraction. There are three main categories for image rectification algorithms: planar rectification, cylindrical rectification and polar rectification
+
+### Recursive language (redirect from Algorithmically solvable)
+
+definition, any decision problem can be shown to be decidable by exhibiting an algorithm for it that terminates on all inputs. An undecidable problem is a problem
+
+### Self-organization (redirect from Self-organizing algorithms)
+
+presenting self-organized behavior is an active research area. Optimization algorithms can be considered self-organizing because they aim to find the optimal
+
+### Glossary of computer graphics (redirect from Incremental error algorithm)
+
+vector a two-dimensional vector, a common data type in rasterization algorithms, 2D computer graphics, graphical user interface libraries. 3D graphics
+
+### Algorithmic inference
+
+Algorithmic inference gathers new developments in the statistical inference methods made feasible by the powerful computing devices widely available to
+
+### Contextual image classification (redirect from Algorithms for contextual image classification)
+
+Contextual image classification, a topic of pattern recognition in computer vision, is an approach of classification based on contextual information in
+
+### Outline of object recognition (redirect from Genetic algorithms for object recognition)
+
+images of planar objects, but can 
+be applied to other cases as well An algorithm that uses geometric invariants to vote for object hypotheses Similar to
+
+### Computer graphics (computer science) (redirect from Algorithms in computer graphics)
+
+Animation: studies ways to represent and manipulate motion Rendering: studies algorithms to reproduce light transport Imaging: studies image acquisition or image
+
+### International Symposium on Distributed Computing (redirect from Workshop on Distributed Algorithms on Graphs)
+
+dates back to 1985, when it began as a biannual Workshop on Distributed Algorithms on Graphs (WDAG); it became annual in 1989. The name changed to the present
+
+### Matrix analytic method (redirect from Ramaswami's algorithm)
+
+network Traffic equations Gordon–Newell theorem Mean value analysis Buzen's algorithm Kelly network G-network BCMP network Service policies FIFO LIFO Processor
+
+### Knapsack problem (redirect from Algorithms for solving knapsack problems)
+
+luggage. A 1998 study of the Stony Brook University Algorithm Repository showed that, out of 75 algorithmic problems, the knapsack problem was the 19th most
+
+### Boolean satisfiability problem (redirect from Algorithms for solving the boolean satisfiability problem)
+
+SAT. There is no known algorithm that efficiently solves each SAT problem, and it is generally believed that no such algorithm exists; yet this belief
+
+### K-way merge algorithm
+
+In computer science, k-way merge algorithms or multiway merges are a specific type of sequence merge algorithms that specialize in taking in multiple sorted
+
+### Markov algorithm
+
+science, a Markov algorithm is a string rewriting system that uses grammar-like rules to operate on strings of symbols. Markov algorithms have been shown
+
+### Algorithmic paradigm
+
+algorithmic paradigm or algorithm design paradigm is a generic model or framework which underlies the design of a class of algorithms. An algorithmic
+
+### Routing (redirect from Routing algorithm)
+
+Interior Gateway Routing Protocol (EIGRP). Distance vector algorithms use the Bellman–Ford algorithm. This approach assigns a cost number to each of the links
+
+### Cholesky decomposition (redirect from Cholesky algorithm)
+
+computational complexity of commonly used algorithms is O(n3) in general.[citation needed] The algorithms described below all involve about n3/3 FLOPs
+
+### Exponentiation by squaring (redirect from Square-and-multiply algorithm)
+
+matrix. Some variants are commonly referred to as square-and-multiply algorithms or binary exponentiation. These can be of quite general use, for example
+
+### Advanced cardiac life support (redirect from Algorithms for advanced cardiac life support)
+
+(VT) Algorithm Bradycardia Algorithm Tachycardia Algorithms Respiratory Arrest Algorithm Opioid Emergency Algorithm Post-Cardiac Arrest Algorithm Suspected
+
+### Travelling salesman problem (redirect from Approximation algorithms for the traveling salesman problem)
+
+problems. Thus, it is possible that the worst-case running time for any algorithm for the TSP increases superpolynomially (but no more than exponentially)
+
+### Chromosome (genetic algorithm)
+
+In genetic algorithms, a chromosome (also sometimes called a genotype) is a set of parameters which define a proposed solution to the problem that the
+
+### Simulated annealing (redirect from Simulated annealing algorithms)
+
+variables. This notion of slow cooling implemented in the simulated annealing algorithm is interpreted as a slow decrease in the probability of accepting worse
+
+### Clonal selection algorithm
+
+In artificial immune systems, clonal selection algorithms are a class of algorithms inspired by the clonal selection theory of acquired immunity that explains
+
+### Streaming algorithm
+
+In computer science, streaming algorithms are algorithms for processing data streams in which the input is presented as a sequence of items and can be
+
+### Algorithm selection
+
+Algorithm selection (sometimes also called per-instance algorithm selection or offline algorithm selection) is a meta-algorithmic technique to choose
+
+### Quantum computing (redirect from Quantum search algorithms)
+
+classical computer could not. In 1994, Peter Shor shocked the world with an algorithm that had the potential to decrypt all secured communications. There are
+
+### Lossless compression (redirect from Magic compression algorithm)
+
+Lossless compression is a class of data compression algorithms that allows the original data to be perfectly reconstructed from the compressed data. By
+
+### Algorithm (C++)
+
+the <algorithm> standard header. A handful of algorithms are also in the <numeric> header. All algorithms are in the std namespace. The algorithms in the
+
+### Empirical algorithmics
+
+science, empirical algorithmics (or experimental algorithmics) is the practice of using empirical methods to study the behavior of algorithms. The practice
+
+### Watershed (image processing) (redirect from Watershed segmentation algorithm)
+
+continuous domain. There are also many different algorithms to compute watersheds. Watershed algorithm is used in image processing primarily for segmentation
+
+### Deadlock prevention algorithms
+
+In computer science, deadlock prevention algorithms are used in concurrent programming when multiple processes must acquire more than one shared resource
+
+### Memetic algorithm
+
+Memetic algorithms (MAs) represent one of the recent growing areas of research in evolutionary computation. The term MA is now widely used as a synergy
+
+### Artificial neural network (redirect from Convergent recursive learning algorithm)
+
+The neural network itself is not an algorithm, but rather a framework for many different machine learning algorithms to work together and process complex
+
+### Data compression (redirect from Data compression algorithm)
+
+the earliest algorithms used in speech encoding (and audio data compression in general) were the A-law algorithm and the µ-law algorithm. A literature
+
+### Heuristic (computer science) (redirect from Heuristic algorithm)
+
+called simply a heuristic, is a function that ranks alternatives in search algorithms at each branching step based on available information to decide which
+
+### Independent set (graph theory) (redirect from Approximation algorithms for the maximum independent set problem)
+
+optimization problem. As such, it is unlikely that there exists an efficient algorithm for finding a maximum independent set of a graph. Every maximum independent
+
+### Recursion (computer science) (redirect from Recursive algorithm)
+
+even if this program contains no explicit repetitions. — Niklaus Wirth, Algorithms + Data Structures = Programs, 1976 Most computer programming languages
+
+### External memory algorithm
+
+In computing, external memory algorithms or out-of-core algorithms are algorithms that are designed to process data that is too large to fit into a computer's
+
+### The Algorithm Auction
+
+The Algorithm Auction is the world’s first auction of computer algorithms. Created by Ruse Laboratories, the initial auction featured seven lots and was
+
+### Replacement algorithm
+
+Two kinds of replacement algorithms exist: Local replacement algorithm Page replacement algorithm
+
+### Post-quantum cryptography (redirect from Algorithms for post-quantum cryptography)
+
+quantum-safe or quantum-resistant) refers to cryptographic algorithms (usually public-key algorithms) that are thought to be secure against an attack by a
+
+### Quantum optimization algorithms
+
+respect to the best known classical algorithm. Among other quantum algorithms, there are quantum optimization algorithms which might suggest improvement in
+
+### RC algorithm
+
+The RC algorithms are a set of symmetric-key encryption algorithms invented by Ron Rivest. The "RC" may stand for either Rivest's cipher or, more informally
+
+### Outline of machine learning (redirect from Machine learning algorithms)
+
+explores the study and construction of algorithms that can learn from and make predictions on data. Such algorithms operate by building a model from an example
+
+### Rendering (computer graphics) (redirect from The Viewing Algorithm)
+
+ways to simulate these efficiently. Some relate directly to particular algorithms and techniques, while others are produced together. Shading – how the
+
+### Local search (optimization) (redirect from Local search (algorithms))
+
+of local search algorithms are WalkSAT, the 2-opt algorithm for the Traveling Salesman Problem and the Metropolis–Hastings algorithm. Some problems where
+
+### Ray tracing (graphics) (redirect from Algorithms for ray tracing)
+
+objects in the scene. Once the nearest object has been identified, the algorithm will estimate the incoming light at the point of intersection, examine
+
+### Algorithmic complexity
+
+Algorithmic complexity may refer to: In algorithmic information theory, the complexity of a particular string, in terms of all algorithms that generate
+
+### Clique problem (redirect from Approximation algorithms for the clique problem)
+
+Then a clique represents a subset of people who all know each other, and algorithms for finding cliques can be used to discover these groups of mutual friends
+
+### Algorithmic composition
+
+Algorithmic composition is the technique of using algorithms to create music. Algorithms (or, at the very least, formal sets of rules) have been used to
+
+### Scheduling (computing) (redirect from Scheduling algorithm)
+
+scheduling algorithm is used as an alternative to first-come first-served queuing of data packets. The simplest best-effort scheduling algorithms are round-robin
+
+### Fingerprint (computing) (redirect from Fingerprinting algorithm)
+
+In computer science, a fingerprinting algorithm is a procedure that maps an arbitrarily large data item (such as a computer file) to a much shorter bit
+
+### Algorithmic game theory
+
+understanding and design of algorithms in strategic environments. Typically, in Algorithmic Game Theory problems, the input to a given algorithm is distributed among
+
+### Association rule learning (redirect from Eclat algorithm)
+
+user-specified significance level. Many algorithms for generating association rules have been proposed. Some well-known algorithms are Apriori, Eclat and FP-Growth
+
+### Solution algorithms for pressure-velocity coupling in steady flows
+
+Solution algorithms for pressure-velocity coupling in steady flows are the standard prepossessing methods used to solve steady problems in computational
+
+### Semidefinite programming (redirect from Algorithms for semidefinite programming)
+
+tools for developing approximation algorithms for NP-hard maximization problems. The first approximation algorithm based on an SDP is due to Michel Goemans
+
+### Timeline of Google Search (redirect from Google Algorithm updates in 2017)
+
+1.    "Explaining algorithm updates and data refreshes". 2006-12-23. Levy, Steven (February 22, 2010). "Exclusive: How Google's Algorithm Rules the Web"
+
+### Unsupervised learning (redirect from Algorithms for unsupervised learning)
+
+most common algorithms used in unsupervised learning include: Clustering hierarchical clustering, k-means mixture models DBSCAN OPTICS algorithm Anomaly detection
+
+### Force-directed graph drawing (redirect from Spring based algorithm)
+
+Force-directed graph drawing algorithms are a class of algorithms for drawing graphs in an aesthetically-pleasing way. Their purpose is to position the
+
+### Decision tree learning (redirect from Decision Tree Training Algorithm)
+
+learning algorithms are based on heuristics such as the greedy algorithm where locally optimal decisions are made at each node. Such algorithms cannot guarantee
+
+### Human-based genetic algorithm
+
+In evolutionary computation, a human-based genetic algorithm (HBGA) is a genetic algorithm that allows humans to contribute solution suggestions to the
+
+### Cultural algorithm
+
+component. In this sense, cultural algorithms can be seen as an extension to a conventional genetic algorithm. Cultural algorithms were introduced by Reynolds
+
+### Comparison gallery of image scaling algorithms
+
+This gallery shows the results of a large number of image scaling algorithms which is too cumbersome to include in the main image scaling article. An image
+
+### Fitness function (redirect from Fitness (genetic algorithm))
+
+genetic algorithms to guide simulations towards optimal design solutions. In particular, in the fields of genetic programming and genetic algorithms, each
+
+### Hidden-line removal (redirect from Hidden-line algorithms)
+
+O(log n)-time, hidden-line algorithm. The hidden-surface algorithm, using n2/log n CREW PRAM processors, is work-optimal. The hidden-line algorithm uses n2 exclusive
+
+### Estimation of distribution algorithm
+
+Estimation of distribution algorithms (EDAs), sometimes called probabilistic model-building genetic algorithms (PMBGAs), are stochastic optimization methods
+
+### Mark-compact algorithm
+
+science, a mark-compact algorithm is a type of garbage collection algorithm used to reclaim unreachable memory. Mark-compact algorithms can be regarded as
+
+### Pattern recognition (redirect from Algorithms for pattern recognition)
+
+automatic discovery of regularities in data through the use of computer algorithms and with the use of these regularities to take actions such as classifying
+
+### Track algorithm
+
+A Track algorithm is a radar and sonar performance enhancement strategy. Tracking algorithms provide the ability to predict future position of multiple
+
+### NSA product types (redirect from Type 1 algorithm)
+
+The U.S. National Security Agency (NSA) ranks cryptographic products or algorithms by a certification called product types. Product types are defined in
+
+### Butterfly diagram (redirect from Butterfly (FFT algorithm))
+
+diagrams in FFT algorithms; for the sunspot diagrams of the same name, see Solar cycle. In the context of fast Fourier transform algorithms, a butterfly
+
+### Collation (redirect from Collation algorithm)
+
+are not placed in any defined order). A collation algorithm such as the Unicode collation algorithm defines an order through the process of comparing
+
+### Simple random sample (redirect from Algorithms for simple random sampling)
+
+choice. Several efficient algorithms for simple random sampling have been developed. A naive algorithm is the draw-by-draw algorithm where at each step we
+
+### International Psychopharmacology Algorithm Project
+
+Psychopharmacology Algorithm Project (IPAP) is a non-profit corporation whose purpose is to "enable, enhance, and propagate" use of algorithms for the treatment
+
+### Resource allocation (redirect from Algorithms for resource allocation)
+
+problems e.g. resources can be allocated using a manual approach, an algorithmic approach (see below), or a combination of both. There may be contingency
+
+### Motion planning (redirect from Motion planning algorithms)
+
+task while avoiding walls and not falling down stairs. A motion planning algorithm would take a description of these tasks as input, and produce the speed
+
+### Dictionary of Algorithms and Data Structures
+
+The Dictionary of Algorithms and Data Structures is a dictionary style reference for many of the algorithms, algorithmic techniques, archetypal problems
+
+### Odlyzko–Schönhage algorithm
+
+In mathematics, the Odlyzko–Schönhage algorithm is a fast algorithm for evaluating the Riemann zeta function at many points, introduced by (Odlyzko &
+
+### Navigational algorithms
+
+Navigational Algorithms is a web site whose purpose is to make available the scientific part of the art of navigation, containing specialized articles
+
+### Adversary model (redirect from Adversary (online algorithm))
+
+computer science, an online algorithm measures its competitiveness against different adversary models. For deterministic algorithms, the adversary is the same
+
+### Heart failure (redirect from ESC algorithm)
+
+with NYHA Class IV. There are various algorithms for the diagnosis of heart failure. For example, the algorithm used by the Framingham Heart Study adds
+
+### Dynamic problem (algorithms)
+
+dynamic algorithm. Many algorithmic problems stated in terms of fixed input data (called static problems in this context and solved by static algorithms) have
+
+### IP routing (redirect from IP forwarding algorithm)
+
+forwarding algorithm is a specific implementation of routing for IP networks. In order to achieve a successful transfer of data, the algorithm uses a routing
+
+### Hash function (redirect from Hash algorithm)
+
+potentially equal pieces, as above. The Rabin–Karp algorithm is a relatively fast string searching algorithm that works in O(n) time on average. It is based
+
+### Domain generation algorithm
+
+Domain generation algorithms (DGA) are algorithms seen in various families of malware that are used to periodically generate a large number of domain
+
+### Pairwise Algorithm
+
+A Pairwise Algorithm is an algorithmic technique with its origins in Dynamic programming. Pairwise algorithms have several uses including comparing a protein
+
+### Divide-and-conquer eigenvalue algorithm
+
+Divide-and-conquer eigenvalue algorithms are a class of eigenvalue algorithms for Hermitian or real symmetric matrices that have recently (circa 1990s)
+
+### Join-based tree algorithms
+
+computer science, join-based tree algorithms are a class of algorithms for self-balancing binary search trees. The algorithmic framework is based on a single
+
+### Criss-cross algorithm
+
+optimization, the criss-cross algorithm is any of a family of algorithms for linear programming. Variants of the criss-cross algorithm also solve more general
+
+### Jumble algorithm
+
+unique when creating puzzles. Algorithms have been designed to solve Jumbles, using a dictionary. Common algorithms work by printing all words that
+
+### Nearest-neighbor interpolation (redirect from Nearest neighbor interpolation algorithm)
+
+function in points around (neighboring) that point. The nearest neighbor algorithm selects the value of the nearest point and does not consider the values
+
+### Stochastic approximation (redirect from Robbins-Monro algorithm)
+
+Stochastic approximation algorithms are recursive update rules that can be used, among other things, to solve optimization problems and fixed point equations
+
+### Boolean satisfiability algorithm heuristics
+
+Stalmarck's algorithm. Some of these algorithms are deterministic, while others may be stochastic. As there exist polynomial-time algorithms to convert
+
+### Matrix multiplication (redirect from Fast matrix multiplication algorithms)
+
+for the basic algorithm (this complexity is O ( n 2.373 ) {\displaystyle O(n^{2.373})} for the asymptotically fastest known algorithm). This nonlinear
+
+### Longest path problem (redirect from Approximation algorithms for the longest path problem)
+
+longest path in G can be found in linear time by applying a linear time algorithm for shortest paths in −G, which is also a directed acyclic graph. For
+
+### Stability (learning theory) (redirect from Algorithmic stability)
+
+Stability, also known as algorithmic stability, is a notion in computational learning theory of how a machine learning algorithm is perturbed by small changes
+
+### Super-recursive algorithm
+
+In computability theory, super-recursive algorithms are a generalization of ordinary algorithms that are more powerful, that is, compute more than Turing
+
+### Run-time algorithm specialisation
+
+In computer science, run-time algorithm specialization is a methodology for creating efficient algorithms for costly computation tasks of certain kinds
+
+### Void (astronomy) (redirect from VoidFinder algorithm)
+
+results of large-scale surveys of the universe. Of the many different algorithms, virtually all fall into one of three general categories. The first class
+
+### Randomized weighted majority algorithm
+
+weighted majority algorithm is an algorithm in machine learning theory. It improves the mistake bound of the weighted majority algorithm. Imagine that every
+
+### Multi-objective optimization (redirect from Non-dominated Sorting Genetic Algorithm-II)
+
+algorithm is repeated and each run of the algorithm produces one Pareto optimal solution, and evolutionary algorithms where one run of the algorithm produces
+
+### Hamiltonian path problem (redirect from Algorithms for solving the Hamiltonian path problem)
+
+graph), so a brute force search algorithm that tests all possible sequences would be very slow. An early exact algorithm for finding an Hamiltonian cycle
+
+### Verification-based message-passing algorithms in compressed sensing
+
+Verification-based message-passing algorithms (VB-MPAs) in compressed sensing (CS), a branch of digital signal processing that deals with measuring sparse
+
+### Distributed algorithmic mechanism design
+
+Distributed algorithmic mechanism design (DAMD) is an extension of algorithmic mechanism design. DAMD differs from Algorithmic mechanism design since the
+
+### SWAT and WADS conferences (redirect from Workshop on Algorithms and Data Structures)
+
+the Algorithms and Data Structures Symposium, is an international academic conference in the field of computer science, focusing on algorithms and data
+
+### Biclustering (redirect from Biclustering algorithms)
+
+used by Mirkin. This algorithm was not generalized until 2000 when Y. Cheng and G. M. Church proposed a biclustering algorithm based on variance and
+
+### Corner detection (redirect from Moravec corner detection algorithm)
+
+of the earliest corner detection algorithms and defines a corner to be a point with low self-similarity. The algorithm tests each pixel in the image to
+
+### Bisection method (redirect from Bisection algorithm)
+
+Budan's theorem). They allow extending bisection method into efficient algorithms for finding all real roots of a polynomial; see Real-root isolation. The
+
+### Content ID (algorithm)
+
+Content ID is a digital fingerprinting system developed by Google which is used to easily identify and manage copyrighted content on YouTube. Videos uploaded
+
+### Round-robin (redirect from Round robin algorithm)
+
+of radio nodes organized in a mesh topology Round-robin scheduling, an algorithm used in computer science Round-robin (document), a document signed by
+
+### Statistical classification (redirect from Algorithms for statistical classification)
+
+classification. Algorithms of this nature use statistical inference to find the best class for a given instance. Unlike other algorithms, which simply output
+
+### Data stream clustering (redirect from Algorithms for clustering data streams)
+
+transactions etc. Data stream clustering is usually studied as a streaming algorithm and the objective is, given a sequence of points, to construct a good
+
+### Reachability (redirect from Kameda's algorithm)
+
+different algorithms and data structures for three different, increasingly specialized situations are outlined below. The Floyd–Warshall algorithm can be
+
+### Constrained optimization (redirect from Algorithms for solving constrained optimization problems)
+
+Constraint optimization can be solved by branch and bound algorithms. These are backtracking algorithms storing the cost of the best solution found during execution
+
+### Dimensionality reduction (redirect from Dimensionality reduction algorithm)
+
+reduction is usually performed prior to applying a K-nearest neighbors algorithm (k-NN) in order to avoid the effects of the curse of dimensionality. Feature
+
+### Color mapping (redirect from Algorithms for color mapping)
+
+A color mapping may be referred to as the algorithm that results in the mapping function or the algorithm that transforms the image colors. Color mapping
+
+### Genetic algorithms in economics
+
+Genetic algorithms have increasingly been applied to economics since the pioneering work by John H. Miller in 1986. It has been used to characterize a
+
+### Tree traversal (redirect from Tree search algorithm)
+
+classified by the order in which the nodes are visited. The following algorithms are described for a binary tree, but they may be generalized to other
+
+### Euclidean minimum spanning tree (redirect from Algorithms for finding Euclidean minimum spanning trees in two dimensions)
+
+minimum spanning tree algorithms such as Borůvka's algorithm, Prim's algorithm, or Kruskal's algorithm. The final result is an algorithm taking O(n log n)
+
+### Subgraph isomorphism problem (redirect from Algorithms for solving subgraph isomorphism problems)
+
+update to the 1976 subgraph isomorphism algorithm paper. Cordella (2004) proposed in 2004 another algorithm based on Ullmann's, VF2, which improves the
+
+### Minimum bounding box algorithms
+
+determine the orientation of the box. For the convex polygon, a linear time algorithm for the minimum-area enclosing rectangle is known. It is based on the
+
+### BCH code (redirect from Peterson–Gorenstein–Zierler algorithm)
+
+t.} Two popular algorithms for this task are: Peterson–Gorenstein–Zierler algorithm Berlekamp–Massey algorithm Peterson's algorithm is the step 2 of
+
+### Sequential pattern mining (redirect from Algorithms for sequential pattern mining)
+
+classified as string mining which is typically based on string processing algorithms and itemset mining which is typically based on association rule learning
+
+### Nesting algorithm
+
+Nesting algorithms are used to make the most efficient use of material or space by evaluating many different possible combinations via recursion. Linear
+
+### Parameterized complexity (redirect from Fixed-parameter algorithm)
+
+solving algorithms for NP-complete, or otherwise NP-hard, problems is considered unlikely, if input parameters are not fixed; all known solving algorithms for
+
+### Communication-avoiding algorithms
+
+Communication-Avoiding Algorithms minimize movement of data within a memory hierarchy for improving its running-time and energy consumption. These minimize
+
+### Simultaneous localization and mapping (redirect from Algorithms for simultaneous localization and mapping)
+
+this initially appears to be a chicken-and-egg problem there are several algorithms known for solving it, at least approximately, in tractable time for certain
+
+### Domain reduction algorithm
+
+Domain reduction algorithms are algorithms used to reduce constraints and degrees of freedom in order to provide solutions for partial differential equations
+
+### XDAIS algorithms
+
+XDAIS or eXpressDsp Algorithm Interoperability Standard is a standard for algorithm development by Texas Instruments for the TMS320 DSP family. The standard
+
 
 ---
 [//]: # (Links for Further Reading)
 
 [Wikipedia - List of Algorithms]: https://en.wikipedia.org/w/index.php?title=List_of_algorithms&gettingStartedReturn=true
 [Wikipedia - List of algorithm general topics]: https://en.wikipedia.org/wiki/List_of_algorithm_general_topics
-[Wikipedia - nalysis of algorithms]: https://en.wikipedia.org/wiki/Analysis_of_algorithms
+[Wikipedia - Analysis of algorithms]: https://en.wikipedia.org/wiki/Analysis_of_algorithms
 
 [//]: # (Links for Glossary of Related Terms)
 
