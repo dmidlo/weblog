@@ -4,9 +4,147 @@
 - [ ] Update Wikipedia Article with new references
 - [ ] Create Glossary of Related Terms for this document
 
+## Automated Planning
 
+## Combinatorial Algorithms
+
+### General Combinatoral Algorithms
+
+### Graph Algorithms
+
+#### Graph Drawing
+
+#### Network Theory
+
+#### Routing for Graphs
+
+#### Graph Search
+
+#### Subgraphs
+
+### Sequence Algorithms
+
+#### Approximate Sequence Matching
+
+#### Selection Algorithms
+
+#### Sequence Search
+
+#### Sequence Merging
+
+#### Sequence Permutations
+
+#### Sequence Alignment
+
+#### Sequence Sorting
+
+#### Subsequences
+
+#### Substrings
+
+## Computational Mathematics
+
+### Abstract Algebra
+
+### Computer Algebra
+
+### Geometry
+
+### Number Theoretic Algorithms
+
+### Numerical Algorithms
+
+#### Differential Equation Solving
+
+#### Elementary and Special Functions
+
+#### Geometric
+
+#### Interpolation and Extrapolation
+
+#### Linear Algebra
+
+#### Monte Carlo
+
+#### Numerical Integration
+
+#### Root Finding
+
+### Optimization Algorithms
+
+## Computational Science
+
+### Astronomy
+
+### Bioinformatics
+
+### Geoscience
+
+### Linguistics
+
+### Medicine
+
+### Physics
+
+### Statistics
+
+## Computer Science
+
+### Computer Architecture
+
+### Computer Graphics
+
+### Cryptography
+
+### Digital Logic
+
+### Machine Learning and Statistical Classification
+
+### Programming Language Theory
+
+#### Parsing
+
+### Quantum Algorithms
+
+### Theory of Computation and Automata
+
+## Information Theory and Signal Processing
+
+### Coding Theory
+
+#### Error Detection and Correction
+
+#### Lossless Compression Algorithms
+
+#### Lossy Compression Algorithms
+
+### Digital Signal Processing
+
+#### Image Processing
+
+## Software Engineering
+
+## Database Algorithms
+
+## Distributed Systems Algorithms
+
+### Memory Allocation and Deallocation Algorithms
+
+## Networking
+
+## Operating Systems Algorithms
+
+### Process Synchronization
+
+### Scheduling
+
+### I/O Scheduling
+
+#### Disk Scheduling
 
 ## List of Algorithms
+
+### Remove Me
 
 #### [Dijkstra's algorithm][[Wikipedia - Dijkstra's algorithm]]
 
@@ -307,6 +445,7 @@ Symmetric-key algorithms are algorithms for cryptography that use the same crypt
 8 KB (866 words) - 14:01, 31 March 2019
 
 #### SIMPLE algorithm
+
 In computational fluid dynamics (CFD), the SIMPLE algorithm is a widely used numerical procedure to solve the Navier-Stokes equations. SIMPLE is an acronym
 3 KB (392 words) - 09:23, 17 July 2018
 
@@ -4154,6 +4293,7 @@ Algorithmic art, also known as algorithm art, is art, mostly visual art, of whic
 analysis itself is not one specific algorithm, but the general task to be solved. It can be achieved by various algorithms that differ significantly in their
 
 ### Algorithm engineering
+
 Algorithm engineering foc
 uses on the design, analysis, implementation, optimization, profiling and experimental evaluation of computer algorithms, bridging
 
@@ -4166,6 +4306,7 @@ analysis is a method invented for analyzing online algorithms, in which the perf
 information about its cryptographic algorithms. The NSA has categorized encryption items into four product types, and algorithms into two suites. The following
 
 ### Automatic clustering algorithms
+
 Automatic clustering algorithms are
  algorithms that can perform clustering without prior knowledge of data sets. In contrast with other cluster analysis
 
@@ -4287,8 +4428,7 @@ Contextual image classification, a topic of pattern recognition in computer visi
 
 ### Outline of object recognition (redirect from Genetic algorithms for object recognition)
 
-images of planar objects, but can 
-be applied to other cases as well An algorithm that uses geometric invariants to vote for object hypotheses Similar to
+images of planar objects, but can be applied to other cases as well An algorithm that uses geometric invariants to vote for object hypotheses Similar to
 
 ### Computer graphics (computer science) (redirect from Algorithms in computer graphics)
 
@@ -4488,7 +4628,7 @@ tools for developing approximation algorithms for NP-hard maximization problems.
 
 ### Timeline of Google Search (redirect from Google Algorithm updates in 2017)
 
-1.    "Explaining algorithm updates and data refreshes". 2006-12-23. Levy, Steven (February 22, 2010). "Exclusive: How Google's Algorithm Rules the Web"
+   "Explaining algorithm updates and data refreshes". 2006-12-23. Levy, Steven (February 22, 2010). "Exclusive: How Google's Algorithm Rules the Web"
 
 ### Unsupervised learning (redirect from Algorithms for unsupervised learning)
 
@@ -4778,7 +4918,6 @@ Domain reduction algorithms are algorithms used to reduce constraints and degree
 
 XDAIS or eXpressDsp Algorithm Interoperability Standard is a standard for algorithm development by Texas Instruments for the TMS320 DSP family. The standard
 
-
 ---
 [//]: # (Links for Further Reading)
 
@@ -4793,4 +4932,3 @@ XDAIS or eXpressDsp Algorithm Interoperability Standard is a standard for algori
 [Wikipedia - Prim's algorithm]: https://en.wikipedia.org/wiki/Prim%27s_algorithm
 [Wikipedia - Algorithmic time complexity]: https://en.wikipedia.org/wiki/Time_complexity
 [Wikipedia - Sorting algorithm]: https://en.wikipedia.org/wiki/Sorting_algorithm
-
