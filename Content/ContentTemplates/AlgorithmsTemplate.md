@@ -1,12 +1,13 @@
-Algorithm
-computer science, an algorithm (/ˈælɡərɪðəm/ (listen)) is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation
-100 KB (13,203 words) - 12:37, 11 April 2019
+# AlgorithmsTemplate.md
 
-The Algorithm
-The Algorithm is the musical project of French musician Rémi Gallego (born 7 October 1989) from Perpignan. His style is characterised by an unusual combination
-11 KB (999 words) - 17:56, 7 April 2019
+- [ ] Audit This list against "List of Algorithms" on Wikipedia.  
+- [ ] Update Wikipedia Article with new references
+- [ ] Create Glossary of Related Terms for this document
 
-Dijkstra's algorithm
+## List of Algorithms
+
+### Dijkstra's algorithm
+
 Dijkstra's algorithm (or Dijkstra's Shortest Path First algorithm, SPF algorithm) is an algorithm for finding the shortest paths between nodes in a graph
 43 KB (5,472 words) - 21:52, 3 April 2019
 
@@ -410,10 +411,6 @@ Booth's multiplication algorithm
 multiplication algorithm is a multiplication algorithm that multiplies two signed binary numbers in two's complement notation. The algorithm was invented
 12 KB (1,611 words) - 17:18, 19 February 2019
 
-Introduction to Algorithms
-Introduction to Algorithms is a book by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. The book has been widely used as
-7 KB (780 words) - 01:23, 18 March 2019
-
 Las Vegas algorithm
 In computing, a Las Vegas algorithm is a randomized algorithm that always gives correct results; that is, it always produces the correct result or it
 17 KB (2,607 words) - 11:37, 22 March 2019
@@ -522,10 +519,6 @@ Pollard's rho algorithm
 Pollard's rho algorithm is an algorithm for integer factorization. It was invented by John Pollard in 1975. It uses only a small amount of space, and
 12 KB (1,736 words) - 17:37, 7 April 2019
 
-Algorithmic trading
-Algorithmic trading is a method of executing a large order (too large to fill all at once) using automated pre-programmed trading instructions accounting
-68 KB (8,398 words) - 11:04, 13 March 2019
-
 Μ-law algorithm
 The µ-law algorithm (sometimes written "mu-law", often approximated as "u-law") is a companding algorithm, primarily used in 8-bit PCM digital telecommunication
 8 KB (911 words) - 21:35, 27 October 2018
@@ -601,10 +594,6 @@ The MD5 message-digest algorithm is a widely used hash function producing a 128-
 Edmonds–Karp algorithm
 In computer science, the Edmonds–Karp algorithm is an implementation of the Ford–Fulkerson method for computing the maximum flow in a flow network in
 7 KB (802 words) - 20:39, 26 February 2019
-
-The Master Algorithm
-The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World is a book by Pedro Domingos released in 2015. Domingos wrote
-5 KB (454 words) - 01:52, 23 January 2019
 
 Data Encryption Standard (redirect from Data Encryption Algorithm)
 The Data Encryption Standard (DES /ˌdiːˌiːˈɛs, dɛz/) is a symmetric-key algorithm for the encryption of electronic data. Although its short key length of
@@ -1826,10 +1815,6 @@ Day–Stout–Warren algorithm
 The Day–Stout–Warren (DSW) algorithm is a method for efficiently balancing binary search trees — that is, decreasing their height to O(log n) nodes, where
 6 KB (727 words) - 21:21, 19 December 2018
 
-9 Algorithms That Changed the Future
-9 Algorithms that Changed the Future is a 2012 book by John MacCormick on algorithms. The book seeks to explain commonly encountered computer algorithms
-3 KB (186 words) - 23:19, 5 February 2019
-
 Min-conflicts algorithm
 In computer science, the min conflicts algorithm is a search algorithm or heuristic method to solve constraint satisfaction problems (CSP). Given an initial
 8 KB (1,030 words) - 19:20, 7 February 2019
@@ -2047,7 +2032,7 @@ tools for developing approximation algorithms for NP-hard maximization problems.
 18 KB (3,340 words) - 15:13, 5 February 2019
 
 Timeline of Google Search (redirect from Google Algorithm updates in 2017)
-2014. "Explaining algorithm updates and data refreshes". 2006-12-23. Levy, Steven (February 22, 2010). "Exclusive: How Google's Algorithm Rules the Web"
+1.    "Explaining algorithm updates and data refreshes". 2006-12-23. Levy, Steven (February 22, 2010). "Exclusive: How Google's Algorithm Rules the Web"
 85 KB (4,115 words) - 08:18, 6 April 2019
 
 Tarjan's off-line lowest common ancestors algorithm
@@ -2093,10 +2078,6 @@ most common algorithms used in unsupervised learning include: Clustering hierarc
 Lenstra–Lenstra–Lovász lattice basis reduction algorithm
 Lenstra–Lenstra–Lovász (LLL) lattice basis reduction algorithm is a polynomial time lattice reduction algorithm invented by Arjen Lenstra, Hendrik Lenstra and
 17 KB (3,280 words) - 20:29, 5 April 2019
-
-Algorithms + Data Structures = Programs
-Algorithms + Data Structures = Programs is a 1976 book written by Niklaus Wirth covering some of the fundamental topics of computer programming, particularly
-3 KB (178 words) - 04:47, 5 May 2018
 
 GLR parser (redirect from Tomita's Algorithm)
 stands for "rightmost (derivation)") is an extension of an LR parser algorithm to handle nondeterministic and ambiguous grammars. The theoretical foundation
@@ -3955,10 +3936,6 @@ Samuelson–Berkowitz algorithm
 In mathematics, the Samuelson–Berkowitz algorithm efficiently computes the characteristic polynomial of an n × n {\displaystyle n\times n} matrix who
 3 KB (545 words) - 22:38, 28 March 2017
 
-Algorithms Unlocked
-Algorithms Unlocked is a book by Thomas H. Cormen about the basic principles and applications of computer algorithms. The book consists of ten chapters
-1 KB (64 words) - 23:58, 30 September 2016
-
 Lychrel number (redirect from 196-algorithm)
 adding the resulting numbers. This process is sometimes called the 196-algorithm, after the most famous number associated with the process. In base ten
 15 KB (1,625 words) - 01:11, 10 February 2019
@@ -4162,10 +4139,6 @@ can proceed with the target instruction without stalling. The simplest algorithm
 Mean value analysis (redirect from Mean value analysis algorithm)
 at each of the nodes and throughput of the system we use an iterative algorithm starting with a network with 0 customers. Write μi for the service rate
 12 KB (1,572 words) - 18:26, 18 February 2019
-
-HAL 9000 (redirect from Heuristically programmed algorithmic computer 9000)
-in the 1968 film 2001: A Space Odyssey, HAL (Heuristically programmed ALgorithmic computer) is a sentient computer (or artificial general intelligence)
-30 KB (3,777 words) - 14:45, 4 April 2019
 
 Matrix completion (redirect from Algorithms for matrix completion)
 matrix completion problem is in general NP-hard, but there are tractable algorithms that achieve exact reconstruction with high probability. In statistical
@@ -4403,10 +4376,6 @@ Self-propelled particles (redirect from Couzin-Vicsek algorithm)
 Self-propelled particles (SPP), also referred to as self-driven particles, are terms used by physicists to describe autonomous agents, which convert energy
 32 KB (3,482 words) - 09:55, 11 February 2019
 
-Algorithms and Combinatorics
-Algorithms and Combinatorics (ISSN 0937-5511) is a book series in mathematics, and particularly in combinatorics and the design and analysis of algorithms
-4 KB (533 words) - 00:09, 25 May 2018
-
 Algorithmic entities
 Algorithmic entities are autonomous algorithms that operate without human control. Recently, attention is being given to legal algorithmic entities that
 3 KB (366 words) - 16:23, 25 January 2019
@@ -4535,10 +4504,6 @@ Abcodia (redirect from Risk of Ovarian Cancer Algorithm)
 an agreement for an exclusive license for the Risk of Ovarian Cancer Algorithm (ROCA), a test studied for screening of ovarian cancer. The use of this
 6 KB (497 words) - 14:47, 12 December 2016
 
-Maximum Power Point Tracking Using novel Bisection search Algorithm
-Find sources: "Maximum Power Point Tracking Using novel Bisection search Algorithm" – news · newspapers · books · scholar · JSTOR (June 2013) (Learn how
-5 KB (730 words) - 03:15, 28 July 2018
-
 IT operations analytics (redirect from Algorithmic IT Operations)
 Forrester Research defined IT analytics as "The use of mathematical algorithms and other innovations to extract meaningful information from the sea of
 12 KB (1,166 words) - 15:24, 24 January 2019
@@ -4631,10 +4596,6 @@ Recursive language (redirect from Algorithmically solvable)
 definition, any decision problem can be shown to be decidable by exhibiting an algorithm for it that terminates on all inputs. An undecidable problem is a problem
 6 KB (795 words) - 22:29, 14 March 2019
 
-Pairs trade (redirect from Algorithmic pairs trading)
-create the long position. Today, pairs trading is often conducted using algorithmic trading strategies on an execution management system. These strategies
-10 KB (1,382 words) - 08:33, 10 February 2019
-
 Self-organization (redirect from Self-organizing algorithms)
 presenting self-organized behavior is an active research area. Optimization algorithms can be considered self-organizing because they aim to find the optimal
 54 KB (5,990 words) - 21:11, 3 April 2019
@@ -4646,10 +4607,6 @@ vector a two-dimensional vector, a common data type in rasterization algorithms,
 Algorithmic inference
 Algorithmic inference gathers new developments in the statistical inference methods made feasible by the powerful computing devices widely available to
 17 KB (1,771 words) - 13:08, 14 April 2018
-
-Automate This (redirect from Automate This: How Algorithms Came to Rule Our World)
-How Algorithms Came to Rule Our World is a book written by Christopher Steiner and published by Penguin Group. Steiner begins his study of algorithms on
-3 KB (262 words) - 07:27, 3 August 2017
 
 Contextual image classification (redirect from Algorithms for contextual image classification)
 Contextual image classification, a topic of pattern recognition in computer vision, is an approach of classification based on contextual information in
@@ -4679,10 +4636,12 @@ ALGOL 68 (redirect from ALGOrithmic Language 1968)
 ALGOL 68 (short for Algorithmic Language 1968) is an imperative computer programming language that was conceived as a successor to the ALGOL 60 programming
 88 KB (7,905 words) - 04:52, 11 March 2019
 
-Resistance Is Futile (album) (redirect from Broken Algorithms)
-Hold Me Like a Heaven trace back to "Everything Must Go", and "Broken Algorithms" "has a bit of 'Sleepflower' in it as well." For the first song on the
-29 KB (2,952 words) - 02:14, 5 December 2018
+## Glossary of Related Terms
 
-Trading strategy index (redirect from Algorithmic Index)
-indices are indices that track the performance of an algorithmic trading strategy. The algorithm clearly and transparently specifies all the actions that
-6 KB (891 words) - 21:48, 13 March 2018
+### [Algorithm][Wikipedia - Algorithm]
+
+computer science, an algorithm (/ˈælɡərɪðəm/ (listen)) is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation.
+
+---
+
+[Wikipedia - Algorithm]: https://en.wikipedia.org/wiki/Algorithm
