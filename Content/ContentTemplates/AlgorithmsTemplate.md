@@ -239,73 +239,70 @@ Borůvka's algorithm is a greedy algorithm for finding a minimum spanning tree i
 The painter's algorithm, also known as a priority fill, is one of the simplest solutions to the visibility problem in 3D computer graphics. When projecting
 5 KB (653 words) - 19:44, 19 February 2019
 
-Hill climbing (redirect from Hill-climbing algorithm)
+#### Hill climbing (redirect from Hill-climbing algorithm)
+
 technique which belongs to the family of local search. It is an iterative algorithm that starts with an arbitrary solution to a problem, then attempts to
 11 KB (1,519 words) - 10:26, 1 February 2019
 
-Ramer–Douglas–Peucker algorithm
+#### Ramer–Douglas–Peucker algorithm
+
 Ramer–Douglas–Peucker algorithm, also known as the Douglas–Peucker algorithm and iterative end-point fit algorithm, is an algorithm that decimates a curve
 9 KB (967 words) - 08:40, 14 March 2019
 
-Gaussian algorithm
+#### Gaussian algorithm
+
 Gaussian algorithm may refer to: Gaussian elimination for solving systems of linear equations Gauss's algorithm for Determination of the day of the week
 334 bytes (32 words) - 03:50, 14 January 2019
 
-Strassen algorithm
+#### Strassen algorithm
+
 Strassen algorithm, named after Volker Strassen, is an algorithm for matrix multiplication. It is faster than the standard matrix multiplication algorithm and
 20 KB (2,566 words) - 02:03, 5 November 2018
 
-Kosaraju's algorithm
+#### Kosaraju's algorithm
+
 In computer science, Kosaraju's algorithm (also known as the Kosaraju–Sharir algorithm) is a linear time algorithm to find the strongly connected components
 6 KB (917 words) - 22:34, 7 March 2019
 
-Nagle's algorithm
+#### Nagle's algorithm
+
 Nagle's algorithm is a means of improving the efficiency of TCP/IP networks by reducing the number of packets that need to be sent over the network. It
 8 KB (1,012 words) - 17:44, 9 May 2018
 
-QR algorithm
+#### QR algorithm
+
 the QR algorithm is an eigenvalue algorithm: that is, a procedure to calculate the eigenvalues and eigenvectors of a matrix. The QR algorithm was developed
 11 KB (1,508 words) - 07:06, 8 December 2017
 
-Maximum subarray problem (redirect from Kadane’s Algorithm)
+#### Maximum subarray problem (redirect from Kadane’s Algorithm)
+
 designed an O(n)-time algorithm for the one-dimensional problem, which is clearly as fast as possible. The same O(n)-time algorithm was later automatically
 15 KB (1,854 words) - 16:21, 10 April 2019
 
-Algorithmic
-Algorithmic may refer to: Algorithm, step-by-step instructions for a calculation Algorithmic art, art made by an algorithm Algorithmic composition, music
-1 KB (131 words) - 20:27, 17 April 2018
+#### Ant colony optimization algorithms
 
-Ant colony optimization algorithms
 computer science and operations research, the ant colony optimization algorithm (ACO) is a probabilistic technique for solving computational problems
 69 KB (8,740 words) - 17:24, 5 April 2019
 
-Johnson's algorithm
+#### Johnson's algorithm
+
 Johnson's algorithm is a way to find the shortest paths between all pairs of vertices in a sparse, edge-weighted, directed graph. It allows some of the
 7 KB (1,031 words) - 12:49, 4 December 2017
 
-Boyer–Moore majority vote algorithm
+#### Boyer–Moore majority vote algorithm
+
 The Boyer–Moore majority vote algorithm is an algorithm for finding the majority of a sequence of elements using linear time and constant space. It is
 7 KB (932 words) - 19:31, 25 November 2017
 
-C4.5 algorithm
+#### C4.5 algorithm
+
 C4.5 is an algorithm used to generate a decision tree developed by Ross Quinlan. C4.5 is an extension of Quinlan's earlier ID3 algorithm. The decision
 6 KB (827 words) - 02:10, 16 February 2019
 
-Symmetric-key algorithm
+#### Symmetric-key algorithm
+
 Symmetric-key algorithms are algorithms for cryptography that use the same cryptographic keys for both encryption of plaintext and decryption of ciphertext
 8 KB (866 words) - 14:01, 31 March 2019
-
-String-searching algorithm
-science, string-searching algorithms, sometimes called string-matching algorithms, are an important class of string algorithms that try to find a place
-13 KB (1,664 words) - 17:54, 5 April 2019
-
-Sequential algorithm
-In computer science, a sequential algorithm or serial algorithm is an algorithm that is executed sequentially – once through, from start to finish, without
-1 KB (140 words) - 18:49, 12 July 2015
-
-Stable algorithm
-a stable sorting algorithm preserves the order of records with equal keys. In numerical analysis, a numerically stable algorithm avoids magnifying small
-306 bytes (30 words) - 10:46, 24 March 2014
 
 SIMPLE algorithm
 In computational fluid dynamics (CFD), the SIMPLE algorithm is a widely used numerical procedure to solve the Navier-Stokes equations. SIMPLE is an acronym
@@ -331,17 +328,9 @@ Las Vegas algorithm
 In computing, a Las Vegas algorithm is a randomized algorithm that always gives correct results; that is, it always produces the correct result or it
 17 KB (2,607 words) - 11:37, 22 March 2019
 
-Shortest path problem (redirect from Shortest path algorithms)
-have significantly more efficient algorithms than the simplistic approach of running a single-pair shortest path algorithm on all relevant pairs of vertices
-34 KB (3,879 words) - 00:05, 3 April 2019
-
 Firefly algorithm
 In mathematical optimization, the firefly algorithm is a metaheuristic proposed by Xin-She Yang and inspired by the flashing behavior of fireflies. The
 5 KB (772 words) - 04:40, 11 March 2019
-
-Merge algorithm
-Merge algorithms are a family of algorithms that take multiple sorted lists as input and produce a single list as output, containing all the elements
-13 KB (1,673 words) - 08:28, 11 March 2019
 
 Time-based One-time Password algorithm
 The Time-based One-Time Password algorithm (TOTP) is an extension of the HMAC-based One-time Password algorithm (HOTP) generating a one-time password by
@@ -355,21 +344,9 @@ Depth-first search (redirect from DFS algorithm)
 Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node (selecting some
 18 KB (2,365 words) - 22:47, 8 March 2019
 
-Analysis of algorithms
-In computer science, the analysis of algorithms is the determination of the computational complexity of algorithms, that is the amount of time, storage
-24 KB (3,727 words) - 16:47, 25 March 2019
-
 ID3 algorithm
 Dichotomiser 3) is an algorithm invented by Ross Quinlan used to generate a decision tree from a dataset. ID3 is the precursor to the C4.5 algorithm, and is typically
 12 KB (1,537 words) - 22:17, 9 April 2019
-
-Pixel-art scaling algorithms
-Pixel-art scaling algorithms are graphical filters that are often used in video game emulators to enhance hand-drawn 2D pixel art graphics. The re-scaling
-22 KB (2,931 words) - 04:13, 5 December 2018
-
-Bin packing problem (redirect from First fit algorithm)
-produced with sophisticated algorithms. In addition, many heuristics have been developed: for example, the first fit algorithm provides a fast but often
-17 KB (2,258 words) - 01:23, 21 February 2019
 
 Risch algorithm
 the intersection of mathematics and computer science, the Risch algorithm is an algorithm for indefinite integration. It is used in some computer algebra
@@ -382,10 +359,6 @@ algorithm, also known as Stein's algorithm, is an algorithm that computes the gr
 Elevator algorithm
 The elevator algorithm (also SCAN) is a disk scheduling algorithm to determine the motion of the disk's arm and head in servicing read and write requests
 5 KB (791 words) - 10:37, 13 March 2019
-
-Monte Carlo algorithm
-Carlo algorithm is a randomized algorithm whose output may be incorrect with a certain (typically small) probability. Two examples of such algorithms are
-7 KB (857 words) - 10:44, 11 October 2018
 
 MM algorithm
 The MM algorithm is an iterative optimization method which exploits the convexity of a function in order to find their maxima or minima. The MM stands
@@ -411,10 +384,6 @@ Exponential backoff (redirect from Exponential backoff algorithm)
 Exponential backoff is an algorithm that uses feedback to multiplicatively decrease the rate of some process, in order to gradually find an acceptable
 5 KB (769 words) - 01:13, 25 March 2019
 
-Root-finding algorithm
-In mathematics and computing, a root-finding algorithm is an algorithm for finding roots of continuous functions. A root of a function f, from the real
-25 KB (3,784 words) - 15:17, 29 March 2019
-
 Triple DES (redirect from Triple Data Encryption Algorithm)
 Triple Data Encryption Algorithm (TDEA or Triple DEA), is a symmetric-key block cipher, which applies the DES cipher algorithm three times to each data
 19 KB (2,460 words) - 19:23, 1 March 2019
@@ -422,14 +391,6 @@ Triple Data Encryption Algorithm (TDEA or Triple DEA), is a symmetric-key block 
 Ricart–Agrawala algorithm
 The Ricart-Agrawala Algorithm is an algorithm for mutual exclusion on a distributed system. This algorithm is an extension and optimization of Lamport's
 3 KB (422 words) - 16:57, 13 February 2019
-
-Medical algorithm
-A medical algorithm is any computation, formula, statistical survey, nomogram, or look-up table, useful in healthcare. Medical algorithms include decision
-5 KB (676 words) - 02:10, 18 February 2019
-
-Randomized algorithm
-A randomized algorithm is an algorithm that employs a degree of randomness as part of its logic. The algorithm typically uses uniformly random bits as
-25 KB (3,541 words) - 01:43, 7 March 2019
 
 Pollard's rho algorithm
 Pollard's rho algorithm is an algorithm for integer factorization. It was invented by John Pollard in 1975. It uses only a small amount of space, and
@@ -450,10 +411,6 @@ science, the Davis–Putnam–Logemann–Loveland (DPLL) algorithm is a complete
 A-law algorithm
 An A-law algorithm is a standard companding algorithm, used in European 8-bit PCM digital communications systems to optimize, i.e. modify, the dynamic
 2 KB (363 words) - 08:53, 20 November 2018
-
-Algorithmics
-Algorithmics is the science of algorithms. It includes algorithm design, the art of building a procedure which can solve efficiently a specific problem
-600 bytes (77 words) - 15:29, 12 November 2015
 
 Minimum spanning tree (redirect from Spanning tree algorithm)
 randomized algorithm based on a combination of Borůvka's algorithm and the reverse-delete algorithm. The fastest non-randomized comparison-based algorithm with
@@ -478,10 +435,6 @@ Example of Lloyd's algorithm. The Voronoi diagram of the current points at each 
 Eulerian path (redirect from Fleury's algorithm)
 bridge-finding algorithm after the removal of every edge, Fleury's algorithm will have a time complexity of O(|E|2). A dynamic bridge-finding algorithm of Thorup
 20 KB (2,575 words) - 15:19, 8 April 2019
-
-Supervised learning (redirect from Algorithms for supervised learning)
-scenario will allow for the algorithm to correctly determine the class labels for unseen instances. This requires the learning algorithm to generalize from the
-21 KB (2,995 words) - 19:34, 5 April 2019
 
 Heap's algorithm
 Heap's algorithm generates all possible permutations of n objects. It was first proposed by B. R. Heap in 1963. The algorithm minimizes movement: it generates
@@ -515,10 +468,6 @@ Data Encryption Standard (redirect from Data Encryption Algorithm)
 The Data Encryption Standard (DES /ˌdiːˌiːˈɛs, dɛz/) is a symmetric-key algorithm for the encryption of electronic data. Although its short key length of
 54 KB (6,061 words) - 13:26, 9 April 2019
 
-Algorithmic efficiency
-science, algorithmic efficiency is a property of an algorithm which relates to the number of computational resources used by the algorithm. An algorithm must
-32 KB (3,919 words) - 17:12, 25 March 2019
-
 Gillespie algorithm
 In probability theory, the Gillespie algorithm (or occasionally the Doob-Gillespie algorithm) generates a statistically correct trajectory (possible solution)
 23 KB (3,229 words) - 03:33, 2 April 2019
@@ -530,10 +479,6 @@ Baum–Welch algorithm is used to find the unknown parameters of a hidden Markov
 Christofides algorithm
 The Christofides algorithm is an algorithm for finding approximate solutions to the travelling salesman problem, on instances where the distances form
 6 KB (771 words) - 21:54, 6 January 2019
-
-Convex hull algorithms
-Algorithms that construct convex hulls of various objects have a broad range of applications in mathematics and computer science. In computational geometry
-15 KB (2,171 words) - 09:24, 9 February 2019
 
 ElGamal encryption (redirect from ElGamal encryption algorithm)
 cryptography, the ElGamal encryption system is an asymmetric key encryption algorithm for public-key cryptography which is based on the Diffie–Hellman key exchange
@@ -559,14 +504,6 @@ Maximum flow problem (redirect from Flow algorithm)
 augmenting path algorithm of Edmonds and Karp and independently Dinitz; the blocking flow algorithm of Dinitz; the push-relabel algorithm of Goldberg and
 27 KB (3,108 words) - 18:51, 8 February 2019
 
-Deterministic algorithm
-In computer science, a deterministic algorithm is an algorithm which, given a particular input, will always produce the same output, with the underlying
-8 KB (956 words) - 18:59, 14 January 2019
-
-Computational complexity theory (redirect from Complexity of algorithms)
-such as an algorithm. A problem is regarded as inherently difficult if its solution requires significant resources, whatever the algorithm used. The theory
-47 KB (6,168 words) - 22:03, 5 April 2019
-
 Diamond-square algorithm
 The diamond-square algorithm is a method for generating heightmaps for computer graphics. It is a slightly better algorithm than the three-dimensional
 6 KB (659 words) - 01:16, 20 February 2019
@@ -582,10 +519,6 @@ cover problem. Technically, Algorithm X is a recursive, nondeterministic, depth-
 Neville's algorithm
 In mathematics, Neville's algorithm is an algorithm used for polynomial interpolation that was derived by the mathematician Eric Harold Neville. Given
 5 KB (414 words) - 09:48, 20 February 2019
-
-Integer programming (redirect from Algorithms for integer programming)
-Branch and bound algorithms have a number of advantages over algorithms that only use cutting planes. One advantage is that the algorithms can be terminated
-17 KB (2,498 words) - 18:42, 27 March 2019
 
 Nearest neighbour algorithm
 The nearest neighbour algorithm was one of the first algorithms used to solve the travelling salesman problem. In it, the salesman starts at a random
@@ -631,10 +564,6 @@ Backtracking (redirect from Backtracking algorithm)
 Backtracking is a general algorithm for finding all (or some) solutions to some computational problems, notably constraint satisfaction problems, that
 14 KB (1,938 words) - 21:40, 7 December 2018
 
-Sudoku solving algorithms
-solution. Players and investigators may use a wide range of computer algorithms to solve Sudokus, study their properties, and make new puzzles, including
-14 KB (1,683 words) - 10:36, 27 March 2019
-
 Bentley–Ottmann algorithm
 In computational geometry, the Bentley–Ottmann algorithm is a sweep line algorithm for listing all crossings in a set of line segments, i.e. it finds
 23 KB (3,260 words) - 13:09, 28 February 2019
@@ -642,14 +571,6 @@ In computational geometry, the Bentley–Ottmann algorithm is a sweep line algor
 Xiaolin Wu's line algorithm
 Xiaolin Wu's line algorithm is an algorithm for line antialiasing. Xiaolin Wu's line algorithm was presented in the article "An Efficient Antialiasing
 5 KB (574 words) - 01:48, 29 July 2018
-
-Cycle detection (redirect from Floyd's cycle-finding algorithm.)
-In computer science, cycle detection or cycle finding is the algorithmic problem of finding a cycle in a sequence of iterated function values. For any
-27 KB (3,625 words) - 08:32, 20 February 2019
-
-Approximation algorithm
-computer science and operations research, approximation algorithms are efficient algorithms that find approximate solutions to NP-hard optimization problems
-20 KB (2,685 words) - 06:36, 7 February 2019
 
 Graph traversal (redirect from Graph exploration algorithm)
 the algorithm visits each vertex. If the vertex has already been visited, it is ignored and the path is pursued no further; otherwise, the algorithm checks/updates
@@ -663,17 +584,9 @@ Lamport's bakery algorithm
 Lamport's bakery algorithm is a computer algorithm devised by computer scientist Leslie Lamport, which is intended to improve the safety in the usage
 11 KB (1,595 words) - 04:37, 21 March 2019
 
-Crossover (genetic algorithm)
-In genetic algorithms and evolutionary computation, crossover, also called recombination, is a genetic operator used to combine the genetic information
-5 KB (687 words) - 10:23, 20 October 2018
-
 Point in polygon (redirect from Ray casting algorithm)
 This algorithm is sometimes also known as the crossing number algorithm or the even–odd rule algorithm, and is known as early as 1962. The algorithm is
 10 KB (1,336 words) - 16:58, 10 April 2019
-
-Graph coloring (redirect from Colouring algorithm)
-these algorithms are sometimes called sequential coloring algorithms. The maximum (worst) number of colors that can be obtained by the greedy algorithm, by
-56 KB (6,777 words) - 12:18, 1 April 2019
 
 HMAC-based One-time Password algorithm
 HMAC-based One-time Password algorithm (HOTP) is a one-time password (OTP) algorithm based on hash-based message authentication codes (HMAC). It is a
@@ -691,29 +604,13 @@ Advanced Encryption Standard (redirect from Rijndael encryption algorithm)
 Standard (DES), which was published in 1977. The algorithm described by AES is a symmetric-key algorithm, meaning the same key is used for both encrypting
 46 KB (5,320 words) - 07:04, 21 March 2019
 
-Pathfinding (redirect from List of algorithms used in pathfinding)
-solving mazes. This field of research is based heavily on Dijkstra's algorithm for finding a shortest path on a weighted graph. Pathfinding is closely
-16 KB (2,356 words) - 20:25, 28 March 2019
-
 Topological sorting (redirect from Kahn's algorithm)
 acyclic graph (DAG). Any DAG has at least one topological ordering, and algorithms are known for constructing a topological ordering of any DAG in linear
 15 KB (2,029 words) - 09:03, 8 April 2019
 
-Hybrid algorithm
-A hybrid algorithm is an algorithm that combines two or more other algorithms that solve the same problem, either choosing one (depending on the data)
-4 KB (603 words) - 23:01, 3 August 2018
-
 K shortest path routing (redirect from Eppstein's algorithm)
 The k shortest path routing algorithm is an extension algorithm of the shortest path routing algorithm in a given network. It is sometimes crucial to have
 11 KB (1,205 words) - 23:17, 9 April 2019
-
-Algorithmic bias
-Algorithmic bias describes systematic and repeatable errors in a computer system that create unfair outcomes, such as privileging one arbitrary group
-74 KB (8,331 words) - 22:50, 27 March 2019
-
-Boosting (machine learning) (redirect from Boosting (meta-algorithm))
-ensemble meta-algorithm for primarily reducing bias, and also variance in supervised learning, and a family of machine learning algorithms that convert
-20 KB (2,219 words) - 12:46, 8 April 2019
 
 Weighted majority algorithm (machine learning)
 weighted majority algorithm (WMA) is a meta-learning algorithm used to construct a compound algorithm from a pool of prediction algorithms, which could be
@@ -754,10 +651,6 @@ The Sutherland–Hodgman algorithm is used for clipping polygons. It works by ex
 Breadth-first search (redirect from BFS algorithm)
 Breadth-first search (BFS) is an algorithm for traversing or searching tree or graph data structures. It starts at the tree root (or some arbitrary node
 11 KB (1,453 words) - 22:20, 26 March 2019
-
-Exact algorithm
-research, exact algorithms are algorithms that always solve an optimization problem to optimality. Unless P = NP, such an algorithm cannot run in worst-case
-1 KB (122 words) - 21:27, 8 February 2018
 
 List of metaphor-based metaheuristics (redirect from Harmony search algorithm)
 ordered list of metaphor-based metaheuristics and swarm intelligence algorithms. Simulated annealing (SA) is a probabilistic technique inspired by a heat
@@ -4555,7 +4448,9 @@ network Traffic equations Gordon–Newell theorem Mean value analysis Buzen's al
 
     This is a list of algorithm general topics. Analysis of algorithms Ant colony algorithm Approximation algorithm Best and worst cases Big O notation Combinatorial
 
-- [next entry]
+- [Analysis of algorithms][Wikipedia - nalysis of algorithms]
+  
+    In computer science, the analysis of algorithms is the determination of the computational complexity of algorithms, that is the amount of time, storage
 
 ## Glossary of Related Terms
 
@@ -4681,12 +4576,118 @@ Stemming (redirect from Stemming Algorithms)
 algorithm, or stemmer. A stemmer for English operating on the stem cat should identify such strings as cats, catlike, and catty. A stemming algorithm
 30 KB (3,750 words) - 02:00, 11 April 2019
 
+Sequential algorithm
+In computer science, a sequential algorithm or serial algorithm is an algorithm that is executed sequentially – once through, from start to finish, without
+1 KB (140 words) - 18:49, 12 July 2015
+
+Stable algorithm
+a stable sorting algorithm preserves the order of records with equal keys. In numerical analysis, a numerically stable algorithm avoids magnifying small
+306 bytes (30 words) - 10:46, 24 March 2014
+
+Merge algorithm
+Merge algorithms are a family of algorithms that take multiple sorted lists as input and produce a single list as output, containing all the elements
+13 KB (1,673 words) - 08:28, 11 March 2019
+
+String-searching algorithm
+science, string-searching algorithms, sometimes called string-matching algorithms, are an important class of string algorithms that try to find a place
+13 KB (1,664 words) - 17:54, 5 April 2019
+
+Shortest path problem (redirect from Shortest path algorithms)
+have significantly more efficient algorithms than the simplistic approach of running a single-pair shortest path algorithm on all relevant pairs of vertices
+34 KB (3,879 words) - 00:05, 3 April 2019
+
+Bin packing problem (redirect from First fit algorithm)
+produced with sophisticated algorithms. In addition, many heuristics have been developed: for example, the first fit algorithm provides a fast but often
+17 KB (2,258 words) - 01:23, 21 February 2019
+
+Monte Carlo algorithm
+Carlo algorithm is a randomized algorithm whose output may be incorrect with a certain (typically small) probability. Two examples of such algorithms are
+7 KB (857 words) - 10:44, 11 October 2018
+
+Root-finding algorithm
+In mathematics and computing, a root-finding algorithm is an algorithm for finding roots of continuous functions. A root of a function f, from the real
+25 KB (3,784 words) - 15:17, 29 March 2019
+
+Medical algorithm
+A medical algorithm is any computation, formula, statistical survey, nomogram, or look-up table, useful in healthcare. Medical algorithms include decision
+5 KB (676 words) - 02:10, 18 February 2019
+
+Randomized algorithm
+A randomized algorithm is an algorithm that employs a degree of randomness as part of its logic. The algorithm typically uses uniformly random bits as
+25 KB (3,541 words) - 01:43, 7 March 2019
+
+Supervised learning (redirect from Algorithms for supervised learning)
+scenario will allow for the algorithm to correctly determine the class labels for unseen instances. This requires the learning algorithm to generalize from the
+21 KB (2,995 words) - 19:34, 5 April 2019
+
+Algorithmic efficiency
+science, algorithmic efficiency is a property of an algorithm which relates to the number of computational resources used by the algorithm. An algorithm must
+32 KB (3,919 words) - 17:12, 25 March 2019
+
+Convex hull algorithms
+Algorithms that construct convex hulls of various objects have a broad range of applications in mathematics and computer science. In computational geometry
+15 KB (2,171 words) - 09:24, 9 February 2019
+
+Deterministic algorithm
+In computer science, a deterministic algorithm is an algorithm which, given a particular input, will always produce the same output, with the underlying
+8 KB (956 words) - 18:59, 14 January 2019
+
+Computational complexity theory (redirect from Complexity of algorithms)
+such as an algorithm. A problem is regarded as inherently difficult if its solution requires significant resources, whatever the algorithm used. The theory
+47 KB (6,168 words) - 22:03, 5 April 2019
+
+Integer programming (redirect from Algorithms for integer programming)
+Branch and bound algorithms have a number of advantages over algorithms that only use cutting planes. One advantage is that the algorithms can be terminated
+17 KB (2,498 words) - 18:42, 27 March 2019
+
+Sudoku solving algorithms
+solution. Players and investigators may use a wide range of computer algorithms to solve Sudokus, study their properties, and make new puzzles, including
+14 KB (1,683 words) - 10:36, 27 March 2019
+
+Cycle detection (redirect from Floyd's cycle-finding algorithm.)
+In computer science, cycle detection or cycle finding is the algorithmic problem of finding a cycle in a sequence of iterated function values. For any
+27 KB (3,625 words) - 08:32, 20 February 2019
+
+Approximation algorithm
+computer science and operations research, approximation algorithms are efficient algorithms that find approximate solutions to NP-hard optimization problems
+20 KB (2,685 words) - 06:36, 7 February 2019
+
+Crossover (genetic algorithm)
+In genetic algorithms and evolutionary computation, crossover, also called recombination, is a genetic operator used to combine the genetic information
+5 KB (687 words) - 10:23, 20 October 2018
+
+Graph coloring (redirect from Colouring algorithm)
+these algorithms are sometimes called sequential coloring algorithms. The maximum (worst) number of colors that can be obtained by the greedy algorithm, by
+56 KB (6,777 words) - 12:18, 1 April 2019
+
+Pathfinding (redirect from List of algorithms used in pathfinding)
+solving mazes. This field of research is based heavily on Dijkstra's algorithm for finding a shortest path on a weighted graph. Pathfinding is closely
+16 KB (2,356 words) - 20:25, 28 March 2019
+
+Hybrid algorithm
+A hybrid algorithm is an algorithm that combines two or more other algorithms that solve the same problem, either choosing one (depending on the data)
+4 KB (603 words) - 23:01, 3 August 2018
+
+Algorithmic bias
+Algorithmic bias describes systematic and repeatable errors in a computer system that create unfair outcomes, such as privileging one arbitrary group
+74 KB (8,331 words) - 22:50, 27 March 2019
+
+Boosting (machine learning) (redirect from Boosting (meta-algorithm))
+ensemble meta-algorithm for primarily reducing bias, and also variance in supervised learning, and a family of machine learning algorithms that convert
+20 KB (2,219 words) - 12:46, 8 April 2019
+
+Exact algorithm
+research, exact algorithms are algorithms that always solve an optimization problem to optimality. Unless P = NP, such an algorithm cannot run in worst-case
+1 KB (122 words) - 21:27, 8 February 2018
+
 ---
+[//]: # (Links for Further Reading)
 
 [Wikipedia - List of Algorithms]: https://en.wikipedia.org/w/index.php?title=List_of_algorithms&gettingStartedReturn=true
 [Wikipedia - List of algorithm general topics]: https://en.wikipedia.org/wiki/List_of_algorithm_general_topics
+[Wikipedia - nalysis of algorithms]: https://en.wikipedia.org/wiki/Analysis_of_algorithms
 
-[//]: # (This is a comment test)
+[//]: # (Links for Glossary of Related Terms)
 
 [Wikipedia - Algorithm]: https://en.wikipedia.org/wiki/Algorithm
 [Wikipedia - Dijkstra's algorithm]: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
