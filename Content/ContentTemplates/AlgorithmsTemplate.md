@@ -239,10 +239,6 @@ Borůvka's algorithm is a greedy algorithm for finding a minimum spanning tree i
 The painter's algorithm, also known as a priority fill, is one of the simplest solutions to the visibility problem in 3D computer graphics. When projecting
 5 KB (653 words) - 19:44, 19 February 2019
 
-Iterative method (redirect from Iterative algorithm)
-implementation of an iterative method, including the termination criteria, is an algorithm of the iterative method. An iterative method is called convergent if the
-9 KB (1,363 words) - 04:06, 11 January 2019
-
 Hill climbing (redirect from Hill-climbing algorithm)
 technique which belongs to the family of local search. It is an iterative algorithm that starts with an arbitrary solution to a problem, then attempts to
 11 KB (1,519 words) - 10:26, 1 February 2019
@@ -259,17 +255,9 @@ Strassen algorithm
 Strassen algorithm, named after Volker Strassen, is an algorithm for matrix multiplication. It is faster than the standard matrix multiplication algorithm and
 20 KB (2,566 words) - 02:03, 5 November 2018
 
-Stemming (redirect from Stemming Algorithms)
-algorithm, or stemmer. A stemmer for English operating on the stem cat should identify such strings as cats, catlike, and catty. A stemming algorithm
-30 KB (3,750 words) - 02:00, 11 April 2019
-
 Kosaraju's algorithm
 In computer science, Kosaraju's algorithm (also known as the Kosaraju–Sharir algorithm) is a linear time algorithm to find the strongly connected components
 6 KB (917 words) - 22:34, 7 March 2019
-
-List of algorithm general topics
-This is a list of algorithm general topics. Analysis of algorithms Ant colony algorithm Approximation algorithm Best and worst cases Big O notation Combinatorial
-1 KB (125 words) - 00:57, 26 April 2018
 
 Nagle's algorithm
 Nagle's algorithm is a means of improving the efficiency of TCP/IP networks by reducing the number of packets that need to be sent over the network. It
@@ -4560,9 +4548,14 @@ Matrix analytic method (redirect from Ramaswami's algorithm)
 network Traffic equations Gordon–Newell theorem Mean value analysis Buzen's algorithm Kelly network G-network BCMP network Service policies FIFO LIFO Processor
 7 KB (909 words) - 17:00, 18 February 2019
 
-ALGOL 68 (redirect from ALGOrithmic Language 1968)
-ALGOL 68 (short for Algorithmic Language 1968) is an imperative computer programming language that was conceived as a successor to the ALGOL 60 programming
-88 KB (7,905 words) - 04:52, 11 March 2019
+## Further Reading
+
+- [List of Algorithms][Wikipedia - List of Algorithms]
+- [List of algorithm general topics][Wikipedia - List of algorithm general topics]
+
+    This is a list of algorithm general topics. Analysis of algorithms Ant colony algorithm Approximation algorithm Best and worst cases Big O notation Combinatorial
+
+- [next entry]
 
 ## Glossary of Related Terms
 
@@ -4680,7 +4673,20 @@ Algorithms for calculating variance
 Algorithms for calculating variance play a major role in computational statistics. A key difficulty in the design of good algorithms for this problem is
 29 KB (5,475 words) - 17:28, 3 April 2019
 
+Iterative method (redirect from Iterative algorithm)
+implementation of an iterative method, including the termination criteria, is an algorithm of the iterative method. An iterative method is called convergent if the
+9 KB (1,363 words) - 04:06, 11 January 2019
+
+Stemming (redirect from Stemming Algorithms)
+algorithm, or stemmer. A stemmer for English operating on the stem cat should identify such strings as cats, catlike, and catty. A stemming algorithm
+30 KB (3,750 words) - 02:00, 11 April 2019
+
 ---
+
+[Wikipedia - List of Algorithms]: https://en.wikipedia.org/w/index.php?title=List_of_algorithms&gettingStartedReturn=true
+[Wikipedia - List of algorithm general topics]: https://en.wikipedia.org/wiki/List_of_algorithm_general_topics
+
+[//]: # (This is a comment test)
 
 [Wikipedia - Algorithm]: https://en.wikipedia.org/wiki/Algorithm
 [Wikipedia - Dijkstra's algorithm]: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
