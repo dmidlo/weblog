@@ -6,308 +6,236 @@
 
 ## List of Algorithms
 
-### Dijkstra's algorithm
+#### [Dijkstra's algorithm][[Wikipedia - Dijkstra's algorithm]]
 
 Dijkstra's algorithm (or Dijkstra's Shortest Path First algorithm, SPF algorithm) is an algorithm for finding the shortest paths between nodes in a graph
-43 KB (5,472 words) - 21:52, 3 April 2019
 
-Time complexity (redirect from Algorithmic time complexity)
-takes to run an algorithm. Time complexity is commonly estimated by counting the number of elementary operations performed by the algorithm, supposing that
-38 KB (4,710 words) - 23:35, 21 March 2019
+#### [Prim's algorithm][Wikipedia - Prim's algorithm]
 
-Prim's algorithm
 In computer science, Prim's (also known as Jarník's) algorithm is a greedy algorithm that finds a minimum spanning tree for a weighted undirected graph
-18 KB (2,182 words) - 03:47, 30 January 2019
 
-Sorting algorithm
-In computer science, a sorting algorithm is an algorithm that puts elements of a list in a certain order. The most frequently used orders are numerical
-58 KB (5,492 words) - 19:47, 8 April 2019
+#### A* search algorithm
 
-A* search algorithm
 In computer science, A* (pronounced "A star") is a computer algorithm that is widely used in pathfinding and graph traversal, which is the process of
 34 KB (4,447 words) - 17:27, 22 March 2019
 
-Kruskal's algorithm
+#### Kruskal's algorithm
+
 Kruskal's algorithm is a minimum-spanning-tree algorithm which finds an edge of the least possible weight that connects any two trees in the forest. It
 13 KB (1,643 words) - 11:57, 31 January 2019
 
-Euclidean algorithm
+#### Euclidean algorithm
+
 In mathematics, the Euclidean algorithm, or Euclid's algorithm, is an efficient method for computing the greatest common divisor (GCD) of two numbers,
 117 KB (14,278 words) - 21:35, 7 April 2019
 
-Bresenham's line algorithm
+#### Bresenham's line algorithm
+
 Bresenham's line algorithm is a line drawing algorithm that determines the points of an n-dimensional raster that should be selected in order to form
 19 KB (3,237 words) - 14:02, 27 March 2019
 
-Encryption (redirect from Encryption algorithm)
-or message, referred to as plaintext, is encrypted using an encryption algorithm – a cipher – generating ciphertext that can be read only if decrypted
-14 KB (1,434 words) - 18:42, 16 March 2019
+#### Genetic algorithm
 
-Genetic algorithm
 genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA).
 63 KB (7,607 words) - 18:17, 2 April 2019
 
-Viterbi algorithm
+#### Viterbi algorithm
+
 The Viterbi algorithm is a dynamic programming algorithm for finding the most likely sequence of hidden states—called the Viterbi path—that results in
 22 KB (3,336 words) - 21:16, 28 March 2019
 
-Greedy algorithm
-A greedy algorithm is an algorithmic paradigm that follows the problem solving heuristic of making the locally optimal choice at each stage with the intent
-14 KB (1,761 words) - 20:47, 25 March 2019
+#### Bellman–Ford algorithm
 
-Bellman–Ford algorithm
 The Bellman–Ford algorithm is an algorithm that computes shortest paths from a single source vertex to all of the other vertices in a weighted digraph
 18 KB (2,312 words) - 04:02, 16 March 2019
 
-Nondeterministic algorithm
-algorithm is an algorithm that, even for the same input, can exhibit different behaviors on different runs, as opposed to a deterministic algorithm.
-5 KB (558 words) - 23:36, 15 March 2019
+#### K-means clustering (redirect from K-means clustering algorithm)
 
-K-means clustering (redirect from K-means clustering algorithm)
 efficient heuristic algorithms converge quickly to a local optimum. These are usually similar to the expectation-maximization algorithm for mixtures of Gaussian
 45 KB (5,758 words) - 11:46, 20 March 2019
 
-Fast Fourier transform (redirect from FFT algorithm)
+#### Fast Fourier transform (redirect from FFT algorithm)
+
 A fast Fourier transform (FFT) is an algorithm that computes the discrete Fourier transform (DFT) of a sequence, or its inverse (IDFT). Fourier analysis
 58 KB (6,774 words) - 21:00, 10 April 2019
 
-Maze solving algorithm
-maze solving algorithms, that is, automated methods for the solving of mazes. The random mouse, wall follower, Pledge, and Trémaux's algorithms are designed
-17 KB (2,511 words) - 02:08, 16 February 2019
+#### Luhn algorithm
 
-Luhn algorithm
 The Luhn algorithm or Luhn formula, also known as the "modulus 10" or "mod 10" algorithm, named after its creator, IBM scientist Hans Peter Luhn, is a
 16 KB (1,688 words) - 23:51, 10 April 2019
 
-Machine learning (redirect from Machine learning algorithm)
-Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without
-69 KB (7,957 words) - 00:02, 3 April 2019
+#### Simplex algorithm
 
-Algorithm (disambiguation)
-An algorithm is a self-contained step-by-step set of operations to be performed. Algorithm may also refer to: Algorithm (C++), components that perform
-743 bytes (79 words) - 13:54, 5 September 2018
-
-Simplex algorithm
 optimization, Dantzig's simplex algorithm (or simplex method) is a popular algorithm for linear programming. The name of the algorithm is derived from the concept
 39 KB (5,852 words) - 12:58, 11 April 2019
 
-RSA (cryptosystem) (redirect from RSA algorithm)
+#### RSA (cryptosystem) (redirect from RSA algorithm)
+
 Rivest, Adi Shamir, and Leonard Adleman, who first publicly described the algorithm in 1978. Clifford Cocks, an English mathematician working for the British
 56 KB (7,698 words) - 18:30, 5 April 2019
 
-Public-key cryptography (redirect from Asymmetric key algorithm)
-only to the owner. The generation of such keys depends on cryptographic algorithms based on mathematical problems to produce one-way functions. Effective
-22 KB (2,694 words) - 17:11, 3 April 2019
+#### Floyd–Warshall algorithm
 
-Floyd–Warshall algorithm
 In computer science, the Floyd–Warshall algorithm is an algorithm for finding shortest paths in a weighted graph with positive or negative edge weights
 21 KB (2,787 words) - 01:13, 4 April 2019
 
-Maze generation algorithm
+#### Maze generation algorithm
+
 Maze generation algorithms are automated methods for the creation of mazes. A maze can be generated by starting with a predetermined arrangement of cells
 22 KB (2,999 words) - 03:48, 16 January 2019
 
-Page replacement algorithm
+#### Page replacement algorithm
+
 system that uses paging for virtual memory management, page replacement algorithms decide which memory pages to page out, sometimes called swap out, or write
 35 KB (5,011 words) - 08:31, 7 March 2019
 
-Knuth–Morris–Pratt algorithm
+#### Knuth–Morris–Pratt algorithm
+
 In computer science, the Knuth–Morris–Pratt string-searching algorithm (or KMP algorithm) searches for occurrences of a "word" W within a main "text string"
 31 KB (3,820 words) - 18:54, 29 March 2019
 
-Divide-and-conquer algorithm
+#### Divide-and-conquer algorithm
+
 science, divide and conquer is an algorithm design paradigm based on multi-branched recursion. A divide-and-conquer algorithm works by recursively breaking
 18 KB (2,581 words) - 14:02, 6 March 2019
 
-Linear programming (redirect from Algorithms for linear programming)
-affine (linear) function defined on this polyhedron. A linear programming algorithm finds a point in the polyhedron where this function has the smallest (or
-55 KB (6,287 words) - 00:18, 5 April 2019
+#### Fisher–Yates shuffle (redirect from Algorithm P)
 
-Fisher–Yates shuffle (redirect from Algorithm P)
 shuffle is an algorithm for generating a random permutation of a finite sequence—in plain terms, the algorithm shuffles the sequence. The algorithm effectively
 32 KB (4,143 words) - 11:30, 8 February 2019
 
-Selection algorithm
-In computer science, a selection algorithm is an algorithm for finding the kth smallest number in a list or array; such a number is called the kth order
-21 KB (3,207 words) - 12:15, 9 January 2019
+#### Needleman–Wunsch algorithm
 
-Needleman–Wunsch algorithm
 The Needleman–Wunsch algorithm is an algorithm used in bioinformatics to align protein or nucleotide sequences. It was one of the first applications of
 28 KB (3,457 words) - 02:11, 27 March 2019
 
-Search algorithm
-In computer science, a search algorithm is any algorithm which solves the search problem, namely, to retrieve information stored within some data structure
-11 KB (1,418 words) - 20:46, 1 April 2019
+#### Hungarian algorithm
 
-Hungarian algorithm
 The Hungarian method is a combinatorial optimization algorithm that solves the assignment problem in polynomial time and which anticipated later primal-dual
 19 KB (2,250 words) - 07:28, 7 March 2019
 
-Shor's algorithm
+#### Shor's algorithm
+
 Shor's algorithm, named after mathematician Peter Shor, is a quantum algorithm (an algorithm that runs on a quantum computer) for integer factorization
 34 KB (5,275 words) - 16:19, 11 April 2019
 
-List of algorithms
-The following is a list of algorithms along with one-line descriptions for each. Brent's algorithm: finds a cycle in function value iterations using only
-67 KB (7,416 words) - 23:28, 3 February 2019
+#### Bubble sort (redirect from Bubble sort algorithm)
 
-In-place algorithm
-In computer science, an in-place algorithm is an algorithm which transforms input using no auxiliary data structure. However a small amount of extra storage
-8 KB (1,175 words) - 19:53, 23 February 2019
-
-Bubble sort (redirect from Bubble sort algorithm)
 Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list, compares adjacent pairs and swaps
 16 KB (1,984 words) - 12:57, 5 April 2019
 
-Online algorithm
-online algorithm is one that can process its input piece-by-piece in a serial fashion, i.e., in the order that the input is fed to the algorithm, without
-5 KB (688 words) - 05:22, 27 December 2018
+#### Shunting-yard algorithm
 
-TCP congestion control (redirect from TCP congestion avoidance algorithms)
-Transmission Control Protocol (TCP) uses a network congestion-avoidance algorithm that includes various aspects of an additive increase/multiplicative decrease
-39 KB (4,746 words) - 19:20, 10 April 2019
-
-Shunting-yard algorithm
 In computer science, the shunting-yard algorithm is a method for parsing mathematical expressions specified in infix notation. It can produce either a
 11 KB (933 words) - 11:47, 11 April 2019
 
-Matrix multiplication algorithm
-central operation in many numerical algorithms, much work has been invested in making matrix multiplication algorithms efficient. Applications of matrix
-29 KB (3,614 words) - 06:30, 8 February 2019
+#### Evolutionary algorithm
 
-Evolutionary algorithm
 an evolutionary algorithm (EA) is a subset of evolutionary computation, a generic population-based metaheuristic optimization algorithm. An EA uses mechanisms
 17 KB (1,984 words) - 10:59, 21 March 2019
 
-Distributed algorithm
-distributed algorithm is an algorithm designed to run on computer hardware constructed from interconnected processors. Distributed algorithms are used in
-5 KB (623 words) - 11:08, 15 August 2018
+#### Perceptron (redirect from Perceptron algorithm)
 
-Perceptron (redirect from Perceptron algorithm)
 In machine learning, the perceptron is an algorithm for supervised learning of binary classifiers. A binary classifier is a function which can decide
 23 KB (3,317 words) - 18:01, 19 March 2019
 
-Cooley–Tukey FFT algorithm
+#### Cooley–Tukey FFT algorithm
+
 The Cooley–Tukey algorithm, named after J. W. Cooley and John Tukey, is the most common fast Fourier transform (FFT) algorithm. It re-expresses the discrete
 34 KB (5,088 words) - 16:07, 1 April 2019
 
-Karatsuba algorithm
+#### Karatsuba algorithm
+
 The Karatsuba algorithm is a fast multiplication algorithm. It was discovered by Anatoly Karatsuba in 1960 and published in 1962. It reduces the multiplication
 14 KB (2,643 words) - 09:12, 30 March 2019
 
-Elliptic Curve Digital Signature Algorithm
+#### Elliptic Curve Digital Signature Algorithm
+
 cryptography, the Elliptic Curve Digital Signature Algorithm (ECDSA) offers a variant of the Digital Signature Algorithm (DSA) which uses elliptic curve cryptography
 15 KB (2,120 words) - 07:52, 10 April 2019
 
-Parallel algorithm
-In computer science, a parallel algorithm, as opposed to a traditional serial algorithm, is an algorithm which can be executed a piece at a time on many
-5 KB (647 words) - 10:31, 28 March 2018
+#### PageRank (redirect from PageRank Algorithm)
 
-PageRank (redirect from PageRank Algorithm)
 PageRank (PR) is an algorithm used by Google Search to rank web pages in their search engine results. PageRank was named after Larry Page, one of the
 70 KB (9,127 words) - 11:21, 10 April 2019
 
-Cache replacement policies (redirect from Cache algorithm)
-cache algorithms (also frequently called cache replacement algorithms or cache replacement policies) are optimizing instructions, or algorithms, that
-24 KB (3,548 words) - 10:18, 4 April 2019
+#### Boyer–Moore string-search algorithm
 
-Boyer–Moore string-search algorithm
 computer science, the Boyer–Moore string-search algorithm is an efficient string-searching algorithm that is the standard benchmark for practical string-search
 31 KB (4,312 words) - 23:24, 2 March 2019
 
-Rabin–Karp algorithm
+#### Rabin–Karp algorithm
+
 In computer science, the Rabin–Karp algorithm or Karp–Rabin algorithm is a string-searching algorithm created by Richard M. Karp and Michael O. Rabin (1987)
 13 KB (1,851 words) - 03:50, 10 April 2019
 
-Ford–Fulkerson algorithm
+#### Ford–Fulkerson algorithm
+
 Ford–Fulkerson algorithm (FFA) is a greedy algorithm that computes the maximum flow in a flow network. It is sometimes called a "method" instead of an "algorithm" as
 15 KB (2,180 words) - 20:51, 12 March 2019
 
-Multiplication algorithm
-multiplication algorithm is an algorithm (or method) to multiply two numbers. Depending on the size of the numbers, different algorithms are in use. Efficient
-39 KB (5,216 words) - 18:49, 30 March 2019
+#### Apriori algorithm
 
-Consensus algorithm
-Consensus algorithm may refer to one of several proposed protocols for solving the consensus problem in the field of Computer Science. Some of these include:
-312 bytes (35 words) - 16:02, 8 January 2019
-
-Quantum algorithm
-In quantum computing, a quantum algorithm is an algorithm which runs on a realistic model of quantum computation, the most commonly used model being the
-33 KB (3,913 words) - 20:30, 19 March 2019
-
-Apriori algorithm
 Apriori is an algorithm for frequent item set mining and association rule learning over transactional databases. It proceeds by identifying the frequent
 9 KB (1,456 words) - 15:38, 15 March 2019
 
-Grover's algorithm
+#### Grover's algorithm
+
 Grover's algorithm is a quantum algorithm that finds with high probability the unique input to a black box function that produces a particular output value
 26 KB (4,568 words) - 15:31, 5 April 2019
 
-Metropolis–Hastings algorithm
+#### Metropolis–Hastings algorithm
+
 In statistics and statistical physics, the Metropolis–Hastings algorithm is a Markov chain Monte Carlo (MCMC) method for obtaining a sequence of random
 28 KB (4,099 words) - 02:47, 12 March 2019
 
-Secure Hash Algorithms
-The Secure Hash Algorithms are a family of cryptographic hash functions published by the National Institute of Standards and Technology (NIST) as a U.S
-2 KB (377 words) - 09:50, 21 April 2018
+#### Extended Euclidean algorithm
 
-Branch and bound (redirect from Branch-and-bound algorithm)
-an algorithm design paradigm for discrete and combinatorial optimization problems, as well as mathematical optimization. A branch-and-bound algorithm consists
-14 KB (1,600 words) - 21:20, 6 April 2019
-
-Extended Euclidean algorithm
 and computer programming, the extended Euclidean algorithm is an extension to the Euclidean algorithm, and computes, in addition to the greatest common
 26 KB (4,217 words) - 16:31, 29 March 2019
 
-Mathematical optimization (redirect from Optimization algorithm)
-simplex algorithm that are especially suited for network optimization. Combinatorial algorithms Quantum optimization algorithms Optimization algorithms in
-61 KB (7,215 words) - 08:28, 8 April 2019
+#### Midpoint circle algorithm
 
-Midpoint circle algorithm
 midpoint circle algorithm is an algorithm used to determine the points needed for rasterizing a circle. Bresenham's circle algorithm is derived from the
 12 KB (2,288 words) - 12:03, 24 March 2019
 
-Gerchberg–Saxton algorithm
+#### Gerchberg–Saxton algorithm
+
 The Gerchberg–Saxton (GS) algorithm is an iterative algorithm for retrieving the phase of a pair of light distributions (or any other mathematically valid
 4 KB (448 words) - 15:30, 15 May 2018
 
-Huffman coding (redirect from Huffman Compression algorithm)
+#### Huffman coding (redirect from Huffman Compression algorithm)
+
 finding and/or using such a code proceeds by means of Huffman coding, an algorithm developed by David A. Huffman while he was a Sc.D. student at MIT, and
 33 KB (4,259 words) - 08:21, 30 March 2019
 
-Levenberg–Marquardt algorithm
+#### Levenberg–Marquardt algorithm
+
 In mathematics and computing, the Levenberg–Marquardt algorithm (LMA or just LM), also known as the damped least-squares (DLS) method, is used to solve
 20 KB (2,512 words) - 10:15, 16 March 2019
 
-Banker's algorithm
+#### Banker's algorithm
+
 The Banker algorithm, sometimes referred to as the detection algorithm, is a resource allocation and deadlock avoidance algorithm developed by Edsger Dijkstra
 11 KB (1,906 words) - 15:11, 2 April 2019
 
-Division algorithm
-A division algorithm is an algorithm which, given two integers N and D, computes their quotient and/or remainder, the result of division. Some are applied
-31 KB (4,726 words) - 18:17, 11 April 2019
+#### Peterson's algorithm
 
-Peterson's algorithm
 Peterson's algorithm (or Peterson's solution) is a concurrent programming algorithm for mutual exclusion that allows two or more processes to share a single-use
 10 KB (1,295 words) - 10:07, 20 November 2018
 
-K-nearest neighbors algorithm
+#### K-nearest neighbors algorithm
+
 In pattern recognition, the k-nearest neighbors algorithm (k-NN) is a non-parametric method used for classification and regression. In both cases, the
 29 KB (4,249 words) - 17:07, 9 April 2019
 
-Borůvka's algorithm
+#### Borůvka's algorithm
+
 Borůvka's algorithm is a greedy algorithm for finding a minimum spanning tree in a graph for which all edge weights are distinct, or a minimum spanning
 9 KB (936 words) - 09:36, 7 February 2019
 
-Metaheuristic (redirect from Meta-algorithm)
-heuristic designed to find, generate, or select a heuristic (partial search algorithm) that may provide a sufficiently good solution to an optimization problem
-23 KB (2,190 words) - 11:37, 27 March 2019
+#### Painter's algorithm
 
-Algorithms for calculating variance
-Algorithms for calculating variance play a major role in computational statistics. A key difficulty in the design of good algorithms for this problem is
-29 KB (5,475 words) - 17:28, 3 April 2019
-
-Painter's algorithm
 The painter's algorithm, also known as a priority fill, is one of the simplest solutions to the visibility problem in 3D computer graphics. When projecting
 5 KB (653 words) - 19:44, 19 February 2019
 
@@ -4642,6 +4570,121 @@ ALGOL 68 (short for Algorithmic Language 1968) is an imperative computer program
 
 computer science, an algorithm (/ˈælɡərɪðəm/ (listen)) is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation.
 
+### [Algorithmic time complexity][Wikipedia - Algorithmic time complexity]
+
+takes to run an algorithm. Time complexity is commonly estimated by counting the number of elementary operations performed by the algorithm, supposing that...
+
+### [Sorting algorithm][Wikipedia - Sorting algorithm]
+
+In computer science, a sorting algorithm is an algorithm that puts elements of a list in a certain order. The most frequently used orders are numerical
+
+Encryption (redirect from Encryption algorithm)
+or message, referred to as plaintext, is encrypted using an encryption algorithm – a cipher – generating ciphertext that can be read only if decrypted
+
+Greedy algorithm
+A greedy algorithm is an algorithmic paradigm that follows the problem solving heuristic of making the locally optimal choice at each stage with the intent
+
+Nondeterministic algorithm
+algorithm is an algorithm that, even for the same input, can exhibit different behaviors on different runs, as opposed to a deterministic algorithm.
+5 KB (558 words) - 23:36, 15 March 2019
+
+Maze solving algorithm
+maze solving algorithms, that is, automated methods for the solving of mazes. The random mouse, wall follower, Pledge, and Trémaux's algorithms are designed
+17 KB (2,511 words) - 02:08, 16 February 2019
+
+Machine learning (redirect from Machine learning algorithm)
+Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without
+69 KB (7,957 words) - 00:02, 3 April 2019
+
+Algorithm (disambiguation)
+An algorithm is a self-contained step-by-step set of operations to be performed. Algorithm may also refer to: Algorithm (C++), components that perform
+743 bytes (79 words) - 13:54, 5 September 2018
+
+Public-key cryptography (redirect from Asymmetric key algorithm)
+only to the owner. The generation of such keys depends on cryptographic algorithms based on mathematical problems to produce one-way functions. Effective
+22 KB (2,694 words) - 17:11, 3 April 2019
+
+Linear programming (redirect from Algorithms for linear programming)
+affine (linear) function defined on this polyhedron. A linear programming algorithm finds a point in the polyhedron where this function has the smallest (or
+55 KB (6,287 words) - 00:18, 5 April 2019
+
+Selection algorithm
+In computer science, a selection algorithm is an algorithm for finding the kth smallest number in a list or array; such a number is called the kth order
+21 KB (3,207 words) - 12:15, 9 January 2019
+
+Search algorithm
+In computer science, a search algorithm is any algorithm which solves the search problem, namely, to retrieve information stored within some data structure
+11 KB (1,418 words) - 20:46, 1 April 2019
+
+In-place algorithm
+In computer science, an in-place algorithm is an algorithm which transforms input using no auxiliary data structure. However a small amount of extra storage
+8 KB (1,175 words) - 19:53, 23 February 2019
+
+Online algorithm
+online algorithm is one that can process its input piece-by-piece in a serial fashion, i.e., in the order that the input is fed to the algorithm, without
+5 KB (688 words) - 05:22, 27 December 2018
+
+TCP congestion control (redirect from TCP congestion avoidance algorithms)
+Transmission Control Protocol (TCP) uses a network congestion-avoidance algorithm that includes various aspects of an additive increase/multiplicative decrease
+39 KB (4,746 words) - 19:20, 10 April 2019
+
+Matrix multiplication algorithm
+central operation in many numerical algorithms, much work has been invested in making matrix multiplication algorithms efficient. Applications of matrix
+29 KB (3,614 words) - 06:30, 8 February 2019
+
+Distributed algorithm
+distributed algorithm is an algorithm designed to run on computer hardware constructed from interconnected processors. Distributed algorithms are used in
+5 KB (623 words) - 11:08, 15 August 2018
+
+Parallel algorithm
+In computer science, a parallel algorithm, as opposed to a traditional serial algorithm, is an algorithm which can be executed a piece at a time on many
+5 KB (647 words) - 10:31, 28 March 2018
+
+Cache replacement policies (redirect from Cache algorithm)
+cache algorithms (also frequently called cache replacement algorithms or cache replacement policies) are optimizing instructions, or algorithms, that
+24 KB (3,548 words) - 10:18, 4 April 2019
+
+Multiplication algorithm
+multiplication algorithm is an algorithm (or method) to multiply two numbers. Depending on the size of the numbers, different algorithms are in use. Efficient
+39 KB (5,216 words) - 18:49, 30 March 2019
+
+Consensus algorithm
+Consensus algorithm may refer to one of several proposed protocols for solving the consensus problem in the field of Computer Science. Some of these include:
+312 bytes (35 words) - 16:02, 8 January 2019
+
+Quantum algorithm
+In quantum computing, a quantum algorithm is an algorithm which runs on a realistic model of quantum computation, the most commonly used model being the
+33 KB (3,913 words) - 20:30, 19 March 2019
+
+Secure Hash Algorithms
+The Secure Hash Algorithms are a family of cryptographic hash functions published by the National Institute of Standards and Technology (NIST) as a U.S
+2 KB (377 words) - 09:50, 21 April 2018
+
+Branch and bound (redirect from Branch-and-bound algorithm)
+an algorithm design paradigm for discrete and combinatorial optimization problems, as well as mathematical optimization. A branch-and-bound algorithm consists
+14 KB (1,600 words) - 21:20, 6 April 2019
+
+Mathematical optimization (redirect from Optimization algorithm)
+simplex algorithm that are especially suited for network optimization. Combinatorial algorithms Quantum optimization algorithms Optimization algorithms in
+61 KB (7,215 words) - 08:28, 8 April 2019
+
+Division algorithm
+A division algorithm is an algorithm which, given two integers N and D, computes their quotient and/or remainder, the result of division. Some are applied
+31 KB (4,726 words) - 18:17, 11 April 2019
+
+Metaheuristic (redirect from Meta-algorithm)
+heuristic designed to find, generate, or select a heuristic (partial search algorithm) that may provide a sufficiently good solution to an optimization problem
+23 KB (2,190 words) - 11:37, 27 March 2019
+
+Algorithms for calculating variance
+Algorithms for calculating variance play a major role in computational statistics. A key difficulty in the design of good algorithms for this problem is
+29 KB (5,475 words) - 17:28, 3 April 2019
+
 ---
 
 [Wikipedia - Algorithm]: https://en.wikipedia.org/wiki/Algorithm
+[Wikipedia - Dijkstra's algorithm]: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+[Wikipedia - Prim's algorithm]: https://en.wikipedia.org/wiki/Prim%27s_algorithm
+[Wikipedia - Algorithmic time complexity]: https://en.wikipedia.org/wiki/Time_complexity
+[Wikipedia - Sorting algorithm]: https://en.wikipedia.org/wiki/Sorting_algorithm
+
