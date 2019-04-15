@@ -60,14 +60,14 @@ ISBN: 9781617292231
   - [x]  __if possible at this point,__
     - [x]  __note any indications of the scope or aim of the book.__
 
-    *In as far as the topic of Algorithms is concerned, 
+    *In as far as the topic of Algorithms is concerned,
     the scope of this book seems to be a beginner to intermediate treatment of the topic.
     The style implies that it is accessible to non-programmers*
 
     - [x]  __What subject(s) or objective(s) comes first to mind?__
- 
+
     - *Process, Computer Science*
- 
+
   - [x]  __Explain Why you want to read this book.__
   - *I want to read this book to develop a curriculum for my own study of algorithms and the industry domains in which they are applied.*
 
