@@ -17,14 +17,51 @@ ISBN: 9781617292231
 
 ## Why I Picked Up This Book
 
-- [ ] __write a [wordCount] word-length summary of your initial ‘cover-judgment’ of the book.__
+- [x] __write a [wordCount] word-length summary of your initial ‘cover-judgment’ of the book.__
+
+I was in the process of finding reference material for beginning a study of algorithms. I've been trying to identify a subject of which has substantial penetration into the various fields of endeavor required to being competent within computer science.  One day it struck me that a deliberate and carefully structured study and implementation of algorithms might be a 'Robin's arrow' to that end.
+
+Actually, I was neck-deep trying to write my own taxonomy of all known algorithms.  So far, I had spent a day's labor on checking and cross-checking, sorting, defining, categorizing, just brute forcing it out with the zeal that only comes only with Dunning-Kruger effect.  And, as these things go, I began to realize just how much I did not know.  
+
+How difficult was it to comprehend this algorithm over that one?  Was this one easier to code?  How much maths do I need to understand before I implement such-and-such algorithm? These types questions were repeatedly endless, and the more I worked at it, the more I realized this path would take years before I would have the chance to write implementation code.
+
+With each new tab I opened, and each new note I added to my markdown I realized just how big the scope of the project was that I had taken on, and that presently, I was accomplishing nothing more than manually rewriting the internet.
+
+I was burnt and overwhelmed.
+
+Downtrodden, I took a break to listen to some podcasts, and while I was, I scrolled through to see what would be coming up next in my playlist and there it was, a 'Think Python' episode which I assumed to be a casual yet informative discussion on the topic; "Episode 82 - Grokking Algorithms in Python."
+
+I tapped on the item and waited a moment for the episode to begin.
+
+And while there was a bit of it, I quickly found out that this wasn't just another gob-smack episode where a couple of engineers talk about their favorite technologies, but instead it was an interview with author Aditya Y. Bhargava, outlining and explaining some parts of his book, "Grokking Algorithms - An Illustrated Guide for Programmers and other Curious People"
+
+After hearing all the Aditya had to say about the book, after the episode, I hoped I'd found the linchpin to getting moving again.
+
+Once I held the my copy of the book in my hands, my excitement grew.  With the cover design of the book, it immediately takes on a light-hearted tone with a crowd of characters that seem to be inspired by PBS's 'Arthur' on the cover.  
+
+"Perfect.  Grade School. That's just what I'm looking for", I thought to myself.
+
+But did I find the perfect intro book I had been looking for?
+
+Grokking, for the uninitiated, is a bit of geek speak for understanding something, is a bit deemphasized using red as font color for the word in the design. It's actually a clever trick.  Jargon often can be off-putting, and the designer's use of typography and coloring here might allow, at quick glance, one to think the title of the book is simply 'Algorithms' (which is intimidating enough all by itself!)
+
+Thankfully the sub-title was crafted to place a reader such as myself at ease, "...for programmers and other curious people."  Okay, so I think Aditya thought carefully about this, all of this; the cover design, the use both of jargon, but also the inclusive nature of the phrase, "and other curious people" suggests to the reader that though this will be technical, it will be written in a way to make it approachable.
+
+I'd found it, my introductory text! and with a bit more digging, I have been able to put together a progression of three texts which should consecutively expand on my own understanding and ability to implement the world's most useful and intriguing algorithms.
+
+The three books (in reading order) I have selected for an in depth study of algorithms:
+
+1. Grokking Algorithms - An Illustrated Guide for Programmers and other Curious People, Aditya Y. Bhargava, 2016
+2. The Algorithm Design Manual - Second Edition, Steven S. Skiena, 2008
+3. Encyclopedia of Algorithms, Ming-Yang Kao(Ed.), 2008
+
 - [x] __Did someone refer the book to you?__
 
     *[Podcast -  Talk Python, Episode 82 - Grokking Algorithms in Python](https://talkpython.fm/episodes/show/82/grokking-algorithms-in-python)*
 
   - [x] __Where were you when you found the book?, What lead you there?__
 
-    *I was in the process of finding reference material for a beginning a study of algothims.*
+    *I was in the process of finding reference material for a beginning a study of algorithms.*
 
     - [x] __What section did you find the book in?__
 
