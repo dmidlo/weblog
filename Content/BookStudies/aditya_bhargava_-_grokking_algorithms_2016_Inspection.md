@@ -5,34 +5,75 @@
 
 ---
 
-Book Title:
+Book Title:  Grokking Algorithms - An Illustrated Guide for Programmers and other Curious People
 
-Author(s):
+Author(s): Aditya Y. Bhargava
 
-Publichation Year:
+Publication Year: 2016
 
-Lastest Edition Year Available:
+ISBN: 9781617292231
 
 ---
 
 ## Why I Picked Up This Book
 
-- [ ] *write a [wordcount] word-length summary of your initial ‘cover-judegment’ of the book.*
-- [ ] *Did someone refer the book to you?*
-  - [ ] *Where were you when you found the book?, What lead you there?*
-    - [ ] *What section did you find the book in?*
-    - [ ] *Note anything you like (or don’t) about visual design of the book (size, color, layout, paper, etc) that drew you to it.*
-  - [ ]  *What in your memory or interest drives the intrege to aquire the book in the first place?*
-  - [ ]  *Desect the Title and subtitle. Describe it in adjectives*
-  - [ ]  *Note any initial Questions that can be asked from just the title*
-  - [ ]  *if possible at this point,*
-    - [ ]  *note any indications of the scope or aim of the book.*
-    - [ ]  *What subject(s) or objective(s) comes first to mind?*
-  - [ ]  *Explain Why you want to read this book.*
+- [ ] __write a [wordCount] word-length summary of your initial ‘cover-judgment’ of the book.__
+- [x] __Did someone refer the book to you?__
+
+    *[Podcast -  Talk Python, Episode 82 - Grokking Algorithms in Python](https://talkpython.fm/episodes/show/82/grokking-algorithms-in-python)*
+
+  - [x] __Where were you when you found the book?, What lead you there?__
+
+    *I was in the process of finding reference material for a beginning a study of algothims.*
+
+    - [x] __What section did you find the book in?__
+
+      *Books › Computers & Technology › Computer Science*
+
+    - [x] __Note anything you like (or don’t) about visual design of the book (size, color, layout, paper, etc) that drew you to it.__
+
+      - *Immediately the book takes on a light-hearted tone by showing a crowd of 'Arthur' style characters*
+      - *I like that 'grokking' is a bit de-emphasized, it's a word of jargon for technical folks.*
+        - *Since it it is in red, it's a bit less in focus, so, at quick glance, one might think the title of the book is simply 'Algorithms'*
+
+  - [x]  __What in your memory or interest drives the intrigue to acquire the book in the first place?__
+  
+      *In the process of continued education, I've been trying to identify a subject in which has substantial penetration into the various fields of computer science.
+      The topic of Algorithms and a deliberate and a carfully structured study therein seems to be a 'Robin's arrow' to that end.
+      This is the first of a series of three books I have selected for an in depth study of algorithms*
+
+      1. *Grokking Algorithms - An Illustrated Guide for Programmers and other Curious People, Aditya Y. Bhargava, 2016*
+      2. *The Algorithm Design Manual - Second Edition, Steven S. Skiena, 2008*
+      3. *Encyclopedia of Algorithms, Ming-Yang Kao(Ed.), 2008*
+
+  - [x]  __Dissect the Title and subtitle. Describe it in adjectives__
+
+    - *Grokking is a fun, but a bit jargony for the uninitiated*
+    - *Algorithms is sounds technical, and asks the reader to put on their thinking cap*
+    - *both 'illustrated' and 'other curious people' imply that this is written in a way that is accessible to an interested reader*
+
+  - [x]  __Note any initial Questions that can be asked from just the title__
+  
+    - *Is this a beginner text on algorithms?*
+    - *What are the algorithms covered in this book?*
+  
+  - [x]  __if possible at this point,__
+    - [x]  __note any indications of the scope or aim of the book.__
+
+    *In as far as the topic of Algorithms is concerned, 
+    the scope of this book seems to be a beginner to intermediate treatment of the topic.
+    The style implies that it is accessible to non-programmers*
+
+    - [x]  __What subject(s) or objective(s) comes first to mind?__
+ 
+    - *Process, Computer Science*
+ 
+  - [x]  __Explain Why you want to read this book.__
+  - *I want to read this book to develop a curriculum for my own study of algorithms and the industry domains in which they are applied.*
 
 ## Book Screening Summary
 
-- [ ] *Write a [wordcount] word-length summary of the book after having collected information following the steps outlined below*
+- [ ] *Write a [wordCount] word-length summary of the book after having collected information following the steps outlined below*
 
 ---
 
@@ -52,16 +93,16 @@ Lastest Edition Year Available:
 - [ ] *Note any new vocabulary*
   - [ ] *note how the structure comprises the books scope*
   - [ ] *Note any questions raised*
-- [ ] *Check the Index or, if need be, the glossary*
+- [ ] *Check the index or, if need be, the glossary*
   - [ ] *Make an estimate of the range of topics covered*
-  - [ ] *Make note of the kinds of books the author referes to*
+  - [ ] *Make note of the kinds of books the author refers to*
   - [ ] *note any new vocabulary*
-- [ ] *look up the passeges referring crucial vocabulary list and skim read them*
+- [ ] *look up the passages referring crucial vocabulary list and skim read them*
   - [ ] *Note any questions raised*
 - [ ] *Read the Dust Jacket*
   - [ ] *Note the main points the book will emphasize*
   - [ ] *Note any questions raised*
-- [ ] *Make a list of the chapters of the book that seem to be pivital to its argument*
+- [ ] *Make a list of the chapters of the book that seem to be pivotal to its argument*
   - [ ] *If the chapters have front or back summaries, skim read them*
   - [ ] *Note any questions raised*
 
@@ -108,13 +149,13 @@ Lastest Edition Year Available:
   - [ ] *Questions about the Truth of the book*
   - [ ] *Questions about the significance of the book*
   - [ ] *2\. What is being said with detail and how?*
-    - [ ] *What are the consituent ideas that support the main theme?*
+    - [ ] *What are the constituent ideas that support the main theme?*
   - [ ] *3\. How is the book true, in whole or part?*
     - [ ] *Make up your own mind whether or not the book is true*
   - [ ] 4\. *What of it?*
     - [ ] *Why is this book significant?*
     - [ ] *Why does the author think it is important to gain this particular viewpoint?*
-    - [ ] *Is it actually important to tthe reader to gain this knowledge?*
+    - [ ] *Is it actually important to the reader to gain this knowledge?*
 - [ ] *Dialectical/Syntopical Questions?*
   - [ ] *Questions related to other works*
   - [ ] *Questions about the shape of the discussion around the subject as a whole*
@@ -132,32 +173,26 @@ Lastest Edition Year Available:
 
 ## Critical Concepts
 
-
 ---
 
 ## Crucial Quotes and Cites from the Book
-
 
 ---
 
 ## Important Citations
 
-
 ---
 
 ## Other Works from the Author
-
 
 ---
 
 ## Related Works
 
-
 ---
 
 ## Inventory of Things-Already-Known
 
-
 ---
 
-## Random Trashbin of related & unrelated ideas, concepts, & distracted thoughts.
+## Random Trash-bin of related & unrelated ideas, concepts, & distracted thoughts.
