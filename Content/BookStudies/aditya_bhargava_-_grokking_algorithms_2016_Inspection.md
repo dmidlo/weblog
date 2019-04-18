@@ -118,30 +118,43 @@ The three books (in reading order) I have selected for an in depth study of algo
 
 ---
 
-- [ ] *Read the Preface*
-  - [ ] *Note any subtitles*
-  - [ ] *Note any Central Vocabulary*
-  - [ ] *Note any indications of the scope of the book*
-  - [ ] *Note any hints toward the Author’s aim or purpose in writing the book*
-  - [ ] *Note any concepts or traits regarding what unique vantage-point or style the author has in writing the book.*
-  - [ ] *Classify the book by Genre*
-  - [ ] *Note any questions raised*
-- [ ] *Study the table of contents*
-- [ ] *Note any new vocabulary*
-  - [ ] *note how the structure comprises the books scope*
-  - [ ] *Note any questions raised*
-- [ ] *Check the index or, if need be, the glossary*
-  - [ ] *Make an estimate of the range of topics covered*
-  - [ ] *Make note of the kinds of books the author refers to*
-  - [ ] *note any new vocabulary*
-- [ ] *look up the passages referring crucial vocabulary list and skim read them*
-  - [ ] *Note any questions raised*
-- [ ] *Read the Dust Jacket*
-  - [ ] *Note the main points the book will emphasize*
-  - [ ] *Note any questions raised*
-- [ ] *Make a list of the chapters of the book that seem to be pivotal to its argument*
-  - [ ] *If the chapters have front or back summaries, skim read them*
-  - [ ] *Note any questions raised*
+- [x] __Read the Preface__
+  - [x] __Note any subtitles__
+    - About this book
+    - Roadmap
+  - [x] __Note any Central Vocabulary__
+  - [x] __Note any indications of the scope of the book__
+    *this book is intended to be a jumping of point for the study of algorithms*
+  - [x] __Note any hints toward the Author’s aim or purpose in writing the book__
+  - [x] __Note any concepts or traits regarding what unique vantage-point or style the author has in writing the book.__
+
+    *The book is designed to be easy to follow, led by examples.  The Algorithms contained herein are designed to be practical*
+
+  - [x] __Classify the book by Genre__
+    *a practical book*
+  - [x] __Note any questions raised__
+- [x] __Study the table of contents__
+- [x] __Note any new vocabulary__
+  - [x] __note how the structure comprises the books scope__
+  - [x] __Note any questions raised__
+- [x] __Check the index or, if need be, the glossary__
+  - [x] __Make an estimate of the range of topics covered__
+  - [x] __Make note of the kinds of books the author refers to__
+  - [x] __note any new vocabulary__
+- [x] __look up the passages referring crucial vocabulary list and skim read them__
+  - [x] __Note any questions raised__
+- [x] __Read the Dust Jacket__
+  - [x] __Note the main points the book will emphasize__
+    *Covers search, sort, and graph algorithms, performance trade-offs between algorithms, and implantation examples*
+  - [x] __Note any questions raised__
+- [x] __Make a list of the chapters of the book that seem to be pivotal to its argument__
+
+  *Big O Notation, Recursion, Hash Tables*
+
+  - [x] __If the chapters have front or back summaries, skim read them__
+  - [x] __Note any questions raised__
+    - *What metrics are used for measuring algorithmic performance?*
+    - **
 
 ---
 
@@ -151,11 +164,11 @@ The three books (in reading order) I have selected for an in depth study of algo
 
 ---
 
-- [ ] *Look for signs of the main contention of the book, listen for the basic pulse-beat of the subject*
-  - [ ] *Note any questions raised*
-  - [ ] *Be sure to read the last two-to-three pages of the book, of its main portion*
-    - [ ] *Note any summaries the author provides*
-    - [ ] *Note any questions raised*
+- [x] *Look for signs of the main contention of the book, listen for the basic pulse-beat of the subject*
+  - [x] *Note any questions raised*
+  - [x] *Be sure to read the last two-to-three pages of the book, of its main portion*
+    - [x] *Note any summaries the author provides*
+    - [x] *Note any questions raised*
 
 ---
 
@@ -202,7 +215,77 @@ The three books (in reading order) I have selected for an in depth study of algo
 ## Crucial Vocabulary
 
 <dl>
-  <dt><strong></strong></dt>
+  <dt><strong>Binary Search</strong></dt>
+  <dd></dd>
+  <dt><strong>Big O Notation</strong></dt>
+  <dd></dd>
+  <dt><strong>Data Structures</strong></dt>
+  <dd></dd>
+  <dt><strong>Array</strong></dt>
+  <dd></dd>
+  <dt><strong>Linked-List</strong></dt>
+  <dd></dd>
+  <dt><strong>Hash Table</strong></dt>
+  <dd></dd>
+  <dt><strong>Recursion</strong></dt>
+  <dd></dd>
+  <dt><strong>Graph</strong></dt>
+  <dd></dd>
+  <dt><strong>Dynamic Programming</strong></dt>
+  <dd></dd>
+  <dt><strong>Greedy Algorithm</strong></dt>
+  <dd></dd>
+  <dt><strong>Breadth-First Search</strong></dt>
+  <dd></dd>
+  <dt><strong>Dijkstra's Algorithm</strong></dt>
+  <dd></dd>
+  <dt><strong>K-Nearest Neighbors (KNN)</strong></dt>
+  <dd></dd>
+  <dt><strong>The Traveling Salesperson</strong></dt>
+  <dd></dd>
+  <dt><strong>Selection Sort</strong></dt>
+  <dd></dd>
+  <dt><strong>The Call Stack</strong></dt>
+  <dd></dd>
+  <dt><strong>Quicksort</strong></dt>
+  <dd></dd>
+  <dt><strong>Divide-and-Conquer</strong></dt>
+  <dd></dd>
+  <dt><strong>Merge Sort</strong></dt>
+  <dd></dd>
+  <dt><strong>The Classroom Scheduling Problem</strong></dt>
+  <dd></dd>
+  <dt><strong>The Knapsack Problem</strong></dt>
+  <dd></dd>
+  <dt><strong>The Set-Covering Problem</strong></dt>
+  <dd></dd>
+  <dt><strong>NP-Complete</strong></dt>
+  <dd></dd>
+  <dt><strong>Regression</strong></dt>
+  <dd></dd>
+  <dt><strong>Machine Learning</strong></dt>
+  <dd></dd>
+  <dt><strong>Trees</strong></dt>
+  <dd></dd>
+  <dt><strong>Inverted Indexes</strong></dt>
+  <dd></dd>
+  <dt><strong>The Fourier Transform</strong></dt>
+  <dd></dd>
+  <dt><strong>Parallel Algorithms</strong></dt>
+  <dd></dd>
+  <dt><strong>MapReduce</strong></dt>
+  <dd></dd>
+  <dt><strong>Bloom Filters</strong></dt>
+  <dd></dd>
+  <dt><strong>HyperLogLog</strong></dt>
+  <dd></dd>
+  <dt><strong>SHA Algorithms</strong></dt>
+  <dd></dd>
+  <dt><strong>Locality-Sensitive Hashing</strong></dt>
+  <dd></dd>
+  <dt><strong>Diffie-Hellman Key Exchange</strong></dt>
+  <dd></dd>
+  <dt><strong>Linear Programming</strong></dt>
   <dd></dd>
 </dl>
 
